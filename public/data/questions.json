@@ -1,0 +1,2201 @@
+[
+  {
+    "chapter": "Uttarakhand Administrative Structure",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which of the following birds is the state bird of Uttarakhand?",
+        "options": [
+          "Great Indian Bustard",
+          "Kaleej Pheasant",
+          "Monal",
+          "Pigeon"
+        ],
+        "answer": "Monal"
+      },
+      {
+        "id": 2,
+        "question": "In which district is the Askote Wildlife Sanctuary located?",
+        "options": ["Almora", "Chamoli", "Uttarkashi", "Pithoragarh"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "id": 3,
+        "question": "What is the favorite food of the state bird Monal?",
+        "options": ["Chickpea", "Potato", "Gravel", "None of these"],
+        "answer": "Potato"
+      },
+      {
+        "id": 4,
+        "question": "What is 'Kanchula Khark' in Uttarakhand?",
+        "options": [
+          "Herb Research Center",
+          "Software Center",
+          "Musk Deer Conservation and Breeding Center",
+          "None of these"
+        ],
+        "answer": "Musk Deer Conservation and Breeding Center"
+      },
+      {
+        "id": 5,
+        "question": "How many species of the state flower 'Brahmakamal' are found in Uttarakhand?",
+        "options": ["26", "39", "24", "410"],
+        "answer": "24"
+      },
+      {
+        "id": 6,
+        "question": "What is the flowering time of the state tree 'Buransh'?",
+        "options": [
+          "February to April",
+          "May to July",
+          "August to October",
+          "November to January"
+        ],
+        "answer": "February to April"
+      },
+      {
+        "id": 7,
+        "question": "How many districts are there in the state of Uttarakhand?",
+        "options": ["15", "12", "13", "10"],
+        "answer": "13"
+      },
+      {
+        "id": 8,
+        "question": "Which of the following Legislative Assembly seats is reserved for Scheduled Tribes?",
+        "options": [
+          "Khatima Legislative Assembly seat",
+          "Chakrata Legislative Assembly seat",
+          "Pindar Legislative Assembly seat",
+          "Dharchula Legislative Assembly seat"
+        ],
+        "answer": "Chakrata Legislative Assembly seat"
+      },
+      {
+        "id": 9,
+        "question": "Two statements are given below. Assertion (A): The Uttarakhand State Legislature has a total of 70 members. Reason (R): The state has a bicameral legislature. In the context of the above, which one of the following is correct?",
+        "options": [
+          "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
+          "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "(A) is true, but (R) is false.",
+          "(A) is false, but (R) is true."
+        ],
+        "answer": "(A) is true, but (R) is false."
+      },
+      {
+        "id": 10,
+        "question": "Which is the westernmost district of the state?",
+        "options": ["Dehradun", "Uttarkashi", "Haridwar", "Pithoragarh"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 11,
+        "question": "In Uttarakhand, a village council (Gram Sabha) is established by -",
+        "options": [
+          "The Divisional Commissioner",
+          "The District Magistrate of the district",
+          "The District Panchayat",
+          "The State Government"
+        ],
+        "answer": "The State Government"
+      },
+      {
+        "id": 12,
+        "question": "In how many cities of the state are there Municipal Corporations?",
+        "options": ["1", "3", "8", "9"],
+        "answer": "9"
+      },
+      {
+        "id": 13,
+        "question": "The city head of a Municipal Corporation in Uttarakhand -",
+        "options": [
+          "Is appointed by the State Government.",
+          "Is nominated by the Governor.",
+          "Is elected by the local people.",
+          "Is elected by the council members."
+        ],
+        "answer": "Is elected by the local people."
+      },
+      {
+        "id": 14,
+        "question": "The commission formed by the state government for the selection of a permanent capital for the state of Uttarakhand is -",
+        "options": [
+          "Pant Commission",
+          "Limnah Commission",
+          "Dixit Commission",
+          "Banerjee Commission"
+        ],
+        "answer": "Dixit Commission"
+      },
+      {
+        "id": 15,
+        "question": "The actual head of the state executive is -",
+        "options": ["Governor", "Cabinet", "Chief Minister", "Chief Secretary"],
+        "answer": "Chief Minister"
+      },
+      {
+        "id": 16,
+        "question": "What percentage of horizontal reservation has been provided for women in all categories of services in the state of Uttarakhand?",
+        "options": ["5%", "10%", "30%", "20%"],
+        "answer": "30%"
+      },
+      {
+        "id": 17,
+        "question": "Uttarakhand is which state of India?",
+        "options": ["22nd", "11th", "27th", "28th"],
+        "answer": "27th"
+      },
+      {
+        "id": 18,
+        "question": "What is the total number of judges, including the Chief Justice, in the State High Court?",
+        "options": ["17", "15", "13", "11"],
+        "answer": "11"
+      },
+      {
+        "id": 19,
+        "question": "Which of the following is not in the Garhwal Mandal?",
+        "options": ["Uttarkashi", "Rudraprayag", "Bageshwar", "Pauri"],
+        "answer": "Bageshwar"
+      },
+      {
+        "id": 20,
+        "question": "Who was the first Chief Minister of Uttarakhand?",
+        "options": [
+          "N.D. Tiwari",
+          "Bhagat Singh Koshyari",
+          "Nityanand Swami",
+          "None of these"
+        ],
+        "answer": "Nityanand Swami"
+      },
+      {
+        "id": 21,
+        "question": "What is the limit of women's reservation in Panchayats under the Panchayati Raj Amendment Act 2008?",
+        "options": ["30%", "33%", "40%", "50%"],
+        "answer": "50%"
+      },
+      {
+        "id": 22,
+        "question": "Up to what altitude are Monal birds found?",
+        "options": [
+          "800-9000 feet",
+          "8000-10000 feet",
+          "8000-14000 feet",
+          "8000-20000 feet"
+        ],
+        "answer": "8000-20000 feet"
+      },
+      {
+        "id": 23,
+        "question": "Which deity is Brahmakamal flower offered to?",
+        "options": ["Ram", "Krishna", "Shiva", "Vishnu"],
+        "answer": "Shiva"
+      },
+      {
+        "id": 24,
+        "question": "Which new department was created in the state in 2011?",
+        "options": [
+          "Good Governance, Eradication of Corruption and Public Service",
+          "Sports and Tourism",
+          "Disaster Management",
+          "Higher Education Commission"
+        ],
+        "answer": "Good Governance, Eradication of Corruption and Public Service"
+      },
+      {
+        "id": 25,
+        "question": "Who was the first Deputy Speaker of the State Legislative Assembly?",
+        "options": [
+          "Vijaya Barthwal",
+          "Amrita Rawat",
+          "Veena Maharana",
+          "None of these"
+        ],
+        "answer": "Vijaya Barthwal"
+      },
+      {
+        "id": 26,
+        "question": "What is the second official language of Uttarakhand?",
+        "options": ["Urdu", "Sanskrit", "English", "Punjabi"],
+        "answer": "Sanskrit"
+      },
+      {
+        "id": 27,
+        "question": "Match the following lists and choose the correct answer:\n(A) Hawalbagh  - 1. Uttarkashi\n(B) Gunda      - 2. Nainital\n(C) Okhalkanda - 3. Haridwar\n(D) Khanapur   - 4. Almora",
+        "options": [
+          "A-1, B-2, C-3, D-4",
+          "A-1, B-4, C-3, D-2",
+          "A-4, B-1, C-2, D-3",
+          "A-2, B-3, C-4, D-1"
+        ],
+        "answer": "A-1, B-4, C-3, D-2"
+      },
+      {
+        "id": 28,
+        "question": "Which districts of Uttarakhand have the largest and smallest areas respectively?",
+        "options": [
+          "Chamoli and Rudraprayag",
+          "Chamoli and Champawat",
+          "Uttarkashi and Rudraprayag",
+          "Uttarkashi and Champawat"
+        ],
+        "answer": "Uttarkashi and Champawat"
+      },
+      {
+        "id": 29,
+        "question": "Which is the correct sequence of districts in the state in descending order of area?",
+        "options": [
+          "Uttarkashi, Chamoli, Pauri, Pithoragarh, Nainital",
+          "Uttarkashi, Chamoli, Pithoragarh, Pauri, Nainital",
+          "Chamoli, Uttarkashi, Pithoragarh, Pauri, Nainital",
+          "Chamoli, Pithoragarh, Uttarkashi, Nainital, Pauri"
+        ],
+        "answer": "Chamoli, Uttarkashi, Pithoragarh, Pauri, Nainital"
+      },
+      {
+        "id": 30,
+        "question": "Out of the total 5 Lok Sabha seats in the state, how many are reserved for Scheduled Castes (SC)?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "1"
+      },
+      {
+        "id": 31,
+        "question": "What is the reservation percentage for SC, ST, and OBC in state services?",
+        "options": [
+          "19%, 4%, 14%",
+          "19%, 5%, 15%",
+          "17%, 5%, 13%",
+          "18%, 4%, 14%"
+        ],
+        "answer": "19%, 4%, 14%"
+      },
+      {
+        "id": 32,
+        "question": "What is the reservation percentage for freedom fighters and state movement activists in state services?",
+        "options": ["3% & 10%", "2% & 10%", "1% & 10%", "5% & 10%"],
+        "answer": "2% & 10%"
+      },
+      {
+        "id": 33,
+        "question": "What is the reservation percentage for ex-servicemen and sportspersons in the state?",
+        "options": ["5% & 2%", "5% & 3%", "5% & 4%", "4% & 4%"],
+        "answer": "5% & 4%"
+      },
+      {
+        "id": 34,
+        "question": "In which year were the districts Rudraprayag, Champawat, and Bageshwar created?",
+        "options": ["1995", "1996", "1997", "1998"],
+        "answer": "1997"
+      },
+      {
+        "id": 35,
+        "question": "Which district has the highest number of villages?",
+        "options": ["Haridwar", "Udham Singh Nagar", "Dehradun", "Pauri"],
+        "answer": "Pauri"
+      },
+      {
+        "id": 36,
+        "question": "Where is the headquarters of Garhwal Mandal?",
+        "options": ["Dehradun", "Haridwar", "Pauri", "Tehri"],
+        "answer": "Pauri"
+      },
+      {
+        "id": 37,
+        "question": "When was the first elected Legislative Assembly formed in the state?",
+        "options": ["2000", "2001", "2002", "2003"],
+        "answer": "2002"
+      },
+      {
+        "id": 38,
+        "question": "Which of the following districts and tehsils is not correctly matched?",
+        "options": [
+          "Tehri - Dhansali",
+          "Dehradun - Vikasnagar",
+          "Chamoli - Mori",
+          "Pithoragarh - Berinag"
+        ],
+        "answer": "Chamoli - Mori"
+      },
+      {
+        "id": 39,
+        "question": "Which of the following districts and blocks is not correctly matched?",
+        "options": [
+          "Almora - Salt",
+          "Haridwar - Garud",
+          "Uttarkashi - Purola",
+          "Chamoli - Tharali"
+        ],
+        "answer": "Haridwar - Garud"
+      },
+      {
+        "id": 40,
+        "question": "Which of the following districts has the largest area?",
+        "options": ["Champawat", "Rudraprayag", "Bageshwar", "Haridwar"],
+        "answer": "Haridwar"
+      },
+      {
+        "id": 41,
+        "question": "Who was the first female Governor of Uttarakhand?",
+        "options": [
+          "Smt. Kamla Beniwal",
+          "Smt. Mridula Sinha",
+          "Smt. Margaret Alva",
+          "Smt. Sheila Dikshit"
+        ],
+        "answer": "Smt. Margaret Alva"
+      },
+      {
+        "id": 42,
+        "question": "To whom does the State Public Service Commission submit its annual report?",
+        "options": [
+          "Chief Minister",
+          "Home Minister",
+          "Governor",
+          "Chief Justice"
+        ],
+        "answer": "Governor"
+      },
+      {
+        "id": 43,
+        "question": "What is the maximum number of ministers allowed in the Uttarakhand Council of Ministers?",
+        "options": ["10", "12", "11", "15"],
+        "answer": "12"
+      },
+      {
+        "id": 44,
+        "question": "How many seats are reserved for Scheduled Tribes in the Uttarakhand Legislative Assembly?",
+        "options": ["01", "02", "03", "04"],
+        "answer": "02"
+      },
+      {
+        "id": 45,
+        "question": "What is the state flower of Uttarakhand?",
+        "options": ["Brahmakamal", "Buransh", "Rose", "Lotus"],
+        "answer": "Brahmakamal"
+      },
+      {
+        "id": 46,
+        "question": "Who was the first Director General of Police (DGP) of Uttarakhand?",
+        "options": [
+          "G.C. Pandey",
+          "B.S. Siddhu",
+          "Sanjay Gunjyal",
+          "Ashok Kant Saran"
+        ],
+        "answer": "Ashok Kant Saran"
+      },
+      {
+        "id": 47,
+        "question": "When was the name of Uttaranchal changed to Uttarakhand?",
+        "options": [
+          "January 1, 2007",
+          "May 7, 2002",
+          "December 22, 1999",
+          "None of the above"
+        ],
+        "answer": "January 1, 2007"
+      },
+      {
+        "id": 48,
+        "question": "'Monal' is the state bird of which state?",
+        "options": [
+          "Jammu and Kashmir",
+          "Himachal Pradesh",
+          "Uttarakhand",
+          "(b) and (c)"
+        ],
+        "answer": "Uttarakhand"
+      },
+      {
+        "id": 49,
+        "question": "Who was the first Governor of Uttarakhand?",
+        "options": [
+          "Nityanand Swami",
+          "Bhagat Singh Koshyari",
+          "Surjit Singh Barnala",
+          "None of the above"
+        ],
+        "answer": "Surjit Singh Barnala"
+      },
+      {
+        "id": 50,
+        "question": "How many development blocks are there in Uttarakhand?",
+        "options": ["94", "95", "96", "None of the above"],
+        "answer": "95"
+      },
+      {
+        "id": 51,
+        "question": "What is the state sport of Uttarakhand?",
+        "options": ["Kho-Kho", "Football", "Hockey", "Badminton"],
+        "answer": "Football"
+      },
+      {
+        "id": 52,
+        "question": "Which of the following is not true?",
+        "options": [
+          "The state tree of Uttarakhand is Buransh.",
+          "The state sport of Uttarakhand is Badminton.",
+          "The state bird of Uttarakhand is Monal.",
+          "The state animal of Uttarakhand is Musk Deer."
+        ],
+        "answer": "The state sport of Uttarakhand is Badminton."
+      },
+      {
+        "id": 53,
+        "question": "How many Lok Sabha seats are there in Uttarakhand?",
+        "options": ["5", "7", "3", "13"],
+        "answer": "5"
+      },
+      {
+        "id": 54,
+        "question": "How many Rajya Sabha seats are there in Uttarakhand?",
+        "options": ["5", "2", "3", "7"],
+        "answer": "3"
+      },
+      {
+        "id": 55,
+        "question": "Where is the recognized High Court of Uttarakhand located?",
+        "options": ["Haridwar", "Pauri", "Nainital", "Dehradun"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 56,
+        "question": "How many districts of Kumaon Mandal touch the boundary of Garhwal Mandal?",
+        "options": ["5", "2", "3", "4"],
+        "answer": "4"
+      },
+      {
+        "id": 57,
+        "question": "Who was the first Chief Secretary of Uttarakhand?",
+        "options": [
+          "Shatrughan Singh",
+          "Rakesh Sharma",
+          "Ajay Vikram Singh",
+          "Subhash Kumar"
+        ],
+        "answer": "Ajay Vikram Singh"
+      },
+      {
+        "id": 58,
+        "question": "How many districts are there in Kumaon Mandal?",
+        "options": ["7", "5", "6", "None of the above"],
+        "answer": "6"
+      },
+      {
+        "id": 59,
+        "question": "Who appoints the Advocate General for the state?",
+        "options": [
+          "President of India",
+          "Vice President of India",
+          "Chief Justice of the State",
+          "Governor of the State"
+        ],
+        "answer": "Governor of the State"
+      },
+      {
+        "id": 60,
+        "question": "Who elects the Mayor of Municipal Corporations in Uttarakhand?",
+        "options": [
+          "Members of Lok Sabha",
+          "Members of the State Legislative Assembly",
+          "Directly by the public",
+          "Members of the Corporation"
+        ],
+        "answer": "Directly by the public"
+      },
+      {
+        "id": 61,
+        "question": "When was the 'Kaushik Committee' formed?",
+        "options": ["Year 1994", "Year 2000", "Year 1971", "None of the above"],
+        "answer": "Year 1994"
+      },
+      {
+        "id": 62,
+        "question": "What is the maximum number of ministers, including the Chief Minister, allowed in the State Council of Ministers?",
+        "options": ["10", "12", "14", "9"],
+        "answer": "12"
+      },
+      {
+        "id": 63,
+        "question": "When was President's Rule imposed in Uttarakhand?",
+        "options": [
+          "March 27, 2016",
+          "March 24, 2016",
+          "March 20, 2016",
+          "March 30, 2016"
+        ],
+        "answer": "March 27, 2016"
+      },
+      {
+        "id": 64,
+        "question": "Who was the sixth Governor of Uttarakhand?",
+        "options": [
+          "B.L. Joshi",
+          "Dr. Aziz Qureshi",
+          "Dr. Krishna Kant Paul",
+          "None of the above"
+        ],
+        "answer": "Dr. Krishna Kant Paul"
+      },
+      {
+        "id": 65,
+        "question": "Who was the Speaker of the first elected Legislative Assembly of the state?",
+        "options": [
+          "Prakash Pant",
+          "Harbans Kapoor",
+          "Govind Singh Kunjwal",
+          "Yashpal Arya"
+        ],
+        "answer": "Yashpal Arya"
+      },
+      {
+        "id": 66,
+        "question": "In which year was Nainital made the summer capital of U.P.?",
+        "options": ["1958", "1927", "1963", "1962"],
+        "answer": "1962"
+      },
+      {
+        "id": 67,
+        "question": "Which Legislative Assembly seat is reserved for Scheduled Tribes?",
+        "options": ["Khatima", "Laksar", "Nanakmatta", "Dharchula"],
+        "answer": "Nanakmatta"
+      },
+      {
+        "id": 68,
+        "question": "Which is the state tree of Uttarakhand?",
+        "options": ["Sal", "Teak", "Buransh", "Brahmakamal"],
+        "answer": "Buransh"
+      },
+      {
+        "id": 69,
+        "question": "On what date did the state of Uttarakhand come into existence?",
+        "options": ["9-11-2000", "9-11-2001", "11-11-2001", "5-11-2001"],
+        "answer": "9-11-2000"
+      },
+      {
+        "id": 70,
+        "question": "How many seats were there in the undivided Uttar Pradesh Legislative Assembly for Uttarakhand?",
+        "options": ["20", "21", "22", "23"],
+        "answer": "22"
+      },
+      {
+        "id": 71,
+        "question": "Which Legislative Assembly seat is reserved for Scheduled Tribes in Uttarakhand?",
+        "options": ["Purola", "Khatima", "Nanakmatta", "Jhabreda"],
+        "answer": "Nanakmatta"
+      },
+      {
+        "id": 72,
+        "question": "On what date was the Uttar Pradesh Reorganization Act signed by the President for the creation of Uttarakhand state?",
+        "options": [
+          "August 1, 2000",
+          "August 5, 2000",
+          "August 28, 2000",
+          "August 30, 2000"
+        ],
+        "answer": "August 1, 2000"
+      },
+      {
+        "id": 73,
+        "question": "Which committee rejected Gairsain as the permanent capital of Uttarakhand?",
+        "options": [
+          "Kaushik Commission",
+          "Koshiyari Commission",
+          "Dixit Commission",
+          "Rautela Commission"
+        ],
+        "answer": "Dixit Commission"
+      },
+      {
+        "id": 74,
+        "question": "What percentage of horizontal reservation is provided for women in government services in Uttarakhand?",
+        "options": ["5%", "10%", "30%", "33%"],
+        "answer": "30%"
+      },
+      {
+        "id": 75,
+        "question": "Who was the pioneer of voluntary 'Chakbandi' in the Yamuna Valley?",
+        "options": [
+          "Kedar Singh Rawat",
+          "Yudhveer Singh Rawat",
+          "Prahlad Singh Rawat",
+          "Late. Rajendra Singh Rawat"
+        ],
+        "answer": "Late. Rajendra Singh Rawat"
+      },
+      {
+        "id": 76,
+        "question": "Where is the Uttarakhand Judicial and Legal Academy located?",
+        "options": ["Kotdwar", "Bhowali", "Lansdowne", "Bageshwar"],
+        "answer": "Bhowali"
+      },
+      {
+        "id": 77,
+        "question": "Which tax is levied by the Gram Panchayat?",
+        "options": [
+          "Goods and Services Tax",
+          "Tax on local fairs",
+          "Customs Duty",
+          "Land Revenue"
+        ],
+        "answer": "Tax on local fairs"
+      },
+      {
+        "id": 78,
+        "question": "When was the reservation for women in Panchayati Raj in Uttarakhand increased to 50 percent?",
+        "options": ["2006", "2007", "2008", "2009"],
+        "answer": "2008"
+      },
+      {
+        "id": 79,
+        "question": "Two statements are given below. One is labeled as assertion (A) and the other as reason (R). Answer using the codes.",
+        "options": [
+          "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+          "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+          "(A) is true, but (R) is false.",
+          "(A) is false, but (R) is true."
+        ],
+        "answer": "(A) is true, but (R) is false."
+      },
+      {
+        "id": 80,
+        "question": "Which is the first Municipal Corporation to be established entirely in a mountainous area in Uttarakhand?",
+        "options": ["Karnprayag", "Uttarkashi", "Srinagar", "Augustmuni"],
+        "answer": "Srinagar"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand Physical Structure, Climate, and Natural Disasters",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which district has the largest area in Uttarakhand?",
+        "options": ["Nainital", "Dehradun", "Uttarkashi", "Chamoli"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "id": 2,
+        "question": "Based on terrain configuration, rock formations, and elevation, how many geographical regions can Uttarakhand be divided into?",
+        "options": ["15", "12", "8", "10"],
+        "answer": "8"
+      },
+      {
+        "id": 3,
+        "question": "Which of the following earthquakes had the highest intensity?",
+        "options": [
+          "Capkot 1958",
+          "Dharchula 1980",
+          "Chamoli 1999",
+          "Uttarkashi 1991"
+        ],
+        "answer": "Chamoli 1999"
+      },
+      {
+        "id": 4,
+        "question": "In which part of Uttarakhand are 'Pataltod' or 'Source Wells' found?",
+        "options": [
+          "Bhabar region",
+          "Terai region",
+          "Shivalik Hills",
+          "None of the above"
+        ],
+        "answer": "Terai region"
+      },
+      {
+        "id": 5,
+        "question": "Which of the following is not a district of Uttarakhand?",
+        "options": ["Bageshwar", "Champawat", "Rudraprayag", "Rudrapur"],
+        "answer": "Rudrapur"
+      },
+      {
+        "id": 6,
+        "question": "Which of the following districts of Uttarakhand shares a border with Nepal?",
+        "options": [
+          "Pauri Garhwal",
+          "Pithoragarh",
+          "Uttarkashi",
+          "None of the above"
+        ],
+        "answer": "Pithoragarh"
+      },
+      {
+        "id": 7,
+        "question": "Which of the following is the highest mountain peak in Uttarakhand?",
+        "options": ["Trishul", "Kamet", "Kedarnath", "Nanda Devi"],
+        "answer": "Nanda Devi"
+      },
+      {
+        "id": 8,
+        "question": "Which place in Uttarakhand is known as 'Queen of Hills'?",
+        "options": ["Mussoorie", "Nainital", "Almora", "Uttarkashi"],
+        "answer": "Mussoorie"
+      },
+      {
+        "id": 9,
+        "question": "What are Kingri-Bingri, Neeti, Sail-Shal, and Dharma?",
+        "options": ["Mountains", "Lakes", "Passes", "None of the above"],
+        "answer": "Passes"
+      },
+      {
+        "id": 10,
+        "question": "Where are the Nahan mountain ranges located in the state?",
+        "options": [
+          "Near Haldwani",
+          "Near Tehri",
+          "Near Lansdowne",
+          "None of the above"
+        ],
+        "answer": "Near Haldwani"
+      },
+      {
+        "id": 11,
+        "question": "Which pass connects the Darma and Vyas valleys in the state?",
+        "options": ["Unta", "Jyantya", "Sinla", "Ramal"],
+        "answer": "Sinla"
+      },
+      {
+        "id": 12,
+        "question": "Trade between Tibet and Nepal takes place through which district's passes?",
+        "options": ["Uttarkashi", "Pithoragarh", "Joshimath", "Lansdowne"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "id": 13,
+        "question": "Which mountain range is the highest among the following mountains of Uttarakhand?",
+        "options": ["Trishul", "Doonagiri", "Nandadevi", "Kamet"],
+        "answer": "Nandadevi"
+      },
+      {
+        "id": 14,
+        "question": "Badrinath is located in?",
+        "options": ["Chamoli", "Rudraprayag", "Tehri", "Uttarkashi"],
+        "answer": "Chamoli"
+      },
+      {
+        "id": 15,
+        "question": "Which is the highest snow-covered mountain peak in the state?",
+        "options": ["Nanda Devi", "Kamet", "Changori", "Trishul"],
+        "answer": "Nanda Devi"
+      },
+      {
+        "id": 16,
+        "question": "Valley of Flowers is located in?",
+        "options": [
+          "Shivalik region",
+          "Greater Himalayan region",
+          "Middle Himalayan region",
+          "Doon Himalayan region"
+        ],
+        "answer": "Greater Himalayan region"
+      },
+      {
+        "id": 17,
+        "question": "What are 'Doon' called in the state?",
+        "options": [
+          "River valleys",
+          "Structural valleys",
+          "Alpine grasslands",
+          "Narrow valleys"
+        ],
+        "answer": "Structural valleys"
+      },
+      {
+        "id": 18,
+        "question": "Which area of Uttarakhand comes under the highly vulnerable zone for landslides?",
+        "options": [
+          "Middle Himalayan region",
+          "Greater Himalayan region",
+          "Outer Himalayan region",
+          "Lakeshore regions"
+        ],
+        "answer": "Middle Himalayan region"
+      },
+      {
+        "id": 19,
+        "question": "Which pass connects Bageshwar and Pithoragarh?",
+        "options": ["Shringkanth", "Trail Pass", "Sinla", "Barahoti"],
+        "answer": "Trail Pass"
+      },
+      {
+        "id": 20,
+        "question": "Which pass connects Uttarkashi and Tibet?",
+        "options": ["Darma", "Neeti", "Thagala", "Kingri-Bingri"],
+        "answer": "Thagala"
+      },
+      {
+        "id": 21,
+        "question": "Where is the Main Central Thrust line located in the state?",
+        "options": [
+          "North of the Greater Himalayas",
+          "South of the Outer Himalayas",
+          "Between the Middle and Outer Himalayas",
+          "Between the Greater and Middle Himalayas"
+        ],
+        "answer": "Between the Greater and Middle Himalayas"
+      },
+      {
+        "id": 22,
+        "question": "According to scientists, what is the main reason for most earthquakes in the Himalayan region (Uttarakhand)?",
+        "options": [
+          "Plate tectonics",
+          "Presence of faults",
+          "Construction of tube wells",
+          "Both a and b"
+        ],
+        "answer": "Both a and b"
+      },
+      {
+        "id": 23,
+        "question": "Which of the following peaks is not located in Uttarakhand?",
+        "options": ["Nandakot", "Chaukhamba", "Kula Kangri", "Chunagiri"],
+        "answer": "Kula Kangri"
+      },
+      {
+        "id": 24,
+        "question": "From the perspective of natural disasters, Uttarakhand falls in which zone?",
+        "options": [
+          "Zone 1 and 2",
+          "Zone 2 and 3",
+          "Zone 3 and 4",
+          "Zone 4 and 5"
+        ],
+        "answer": "Zone 4 and 5"
+      },
+      {
+        "id": 25,
+        "question": "Which region in the state receives the highest rainfall?",
+        "options": [
+          "Doon region",
+          "Outer Himalayan region",
+          "Middle Himalayan region",
+          "Greater Himalayan region"
+        ],
+        "answer": "Outer Himalayan region"
+      },
+      {
+        "id": 26,
+        "question": "Which place in the state has the highest average annual rainfall?",
+        "options": [
+          "Mussoorie (Dehradun)",
+          "Narendra Nagar (Tehri)",
+          "Kotdwar (Pauri)",
+          "Gangotri (Uttarkashi)"
+        ],
+        "answer": "Narendra Nagar (Tehri)"
+      },
+      {
+        "id": 27,
+        "question": "Which districts of Uttarakhand have completely internal boundaries?",
+        "options": [
+          "Tehri-Rudraprayag",
+          "Rudraprayag-Bageshwar",
+          "Bageshwar-Almora",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "id": 28,
+        "question": "Which district has the longest international border?",
+        "options": ["Pithoragarh", "Uttarkashi", "Chamoli", "Champawat"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "id": 29,
+        "question": "Which of the following is not a hill station in Uttarakhand?",
+        "options": ["Nainital", "Mussoorie", "Dehradun", "Haridwar"],
+        "answer": "Haridwar"
+      },
+      {
+        "id": 30,
+        "question": "Which of the following towns in the state are located in the Terai region?",
+        "options": [
+          "Aurangabad-Jwalapur",
+          "Sitarganj-Bajpur",
+          "Kashipur-Khatima",
+          "All"
+        ],
+        "answer": "All"
+      },
+      {
+        "id": 31,
+        "question": "Which fault line separates the Lesser Himalayas and the Greater Himalayas in Uttarakhand?",
+        "options": [
+          "Main Boundary Thrust",
+          "Trans-Himalayan Fault",
+          "Main Central Thrust",
+          "Almora Thrust"
+        ],
+        "answer": "Main Central Thrust"
+      },
+      {
+        "id": 32,
+        "question": "What is the approximate height of the Shivalik ranges?",
+        "options": ["850-1200m", "750-100m", "750-1500m", "750-1300m"],
+        "answer": "750-1300m"
+      },
+      {
+        "id": 33,
+        "question": "What is the total area of Uttarakhand?",
+        "options": [
+          "53,483 sq km",
+          "60,480 sq km",
+          "55,483 sq km",
+          "65,480 sq km"
+        ],
+        "answer": "53,483 sq km"
+      },
+      {
+        "id": 34,
+        "question": "What is the ancient name of the Shivalik range?",
+        "options": [
+          "Mainak Parvat",
+          "Mandagadhan Parvat",
+          "Kailash Parvat",
+          "None of these"
+        ],
+        "answer": "Mainak Parvat"
+      },
+      {
+        "id": 35,
+        "question": "Where is 'Mana Pass' located?",
+        "options": [
+          "Uttar Pradesh",
+          "Uttarakhand",
+          "Kashmir",
+          "Himachal Pradesh"
+        ],
+        "answer": "Uttarakhand"
+      },
+      {
+        "id": 36,
+        "question": "The upper part of Almora district is located in which range?",
+        "options": [
+          "Greater Himalayas",
+          "Shivalik Range",
+          "Lesser Himalayas",
+          "Trans Himalayas"
+        ],
+        "answer": "Lesser Himalayas"
+      },
+      {
+        "id": 37,
+        "question": "Into how many climatic zones is Uttarakhand divided?",
+        "options": ["6", "5", "8", "4"],
+        "answer": "4"
+      },
+      {
+        "id": 38,
+        "question": "The Pamer of Uttarakhand (Dudhatoli Range) is a part of which range?",
+        "options": [
+          "Shivalik Range",
+          "Middle Himalayan Range",
+          "Greater Himalayan Range",
+          "None of these"
+        ],
+        "answer": "Middle Himalayan Range"
+      },
+      {
+        "id": 39,
+        "question": "The 'Queen of Hills' (Mussoorie) is part of which range?",
+        "options": [
+          "Shivalik Range",
+          "Middle Himalayan Range",
+          "Greater Himalayan Range",
+          "None of these"
+        ],
+        "answer": "Middle Himalayan Range"
+      },
+      {
+        "id": 40,
+        "question": "Which of the following pairs is not correctly matched?",
+        "options": [
+          "Lipulekh-Pithoragarh",
+          "Tungan/Sunjan-Chamoli",
+          "Barahoti-Uttarkashi",
+          "Trail-Bageshwar"
+        ],
+        "answer": "Barahoti-Uttarkashi"
+      },
+      {
+        "id": 41,
+        "question": "Which Himalayan range remains mostly snow-covered throughout the year?",
+        "options": [
+          "Trans Himalayas",
+          "Greater Himalayas",
+          "Middle Himalayas",
+          "Outer Himalayas"
+        ],
+        "answer": "Greater Himalayas"
+      },
+      {
+        "id": 42,
+        "question": "Which disaster can have the most devastating impact on the state?",
+        "options": ["Earthquake", "Landslide", "Avalanche", "Flood"],
+        "answer": "Earthquake"
+      },
+      {
+        "id": 43,
+        "question": "The Lesser Himalayas are located between which ranges?",
+        "options": [
+          "Trans and Greater Himalayas",
+          "Shivalik and Greater Himalayas",
+          "Trans and Shivalik Himalayas",
+          "Shivalik and Outer Himalayas"
+        ],
+        "answer": "Shivalik and Greater Himalayas"
+      },
+      {
+        "id": 44,
+        "question": "Where is the headquarters of the Survey of India located?",
+        "options": ["Chandigarh", "Hyderabad", "Dehradun", "Delhi"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 45,
+        "question": "Shringkanth Pass is located between which regions?",
+        "options": [
+          "Uttarakhand-Uttar Pradesh",
+          "Uttarakhand-Himachal Pradesh",
+          "Uttarakhand-Tibet",
+          "Uttarakhand-Nepal"
+        ],
+        "answer": "Uttarakhand-Himachal Pradesh"
+      },
+      {
+        "id": 46,
+        "question": "In which district is the Thangla Pass located?",
+        "options": ["Chamoli", "Pithoragarh", "Uttarkashi", "Almora"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "id": 47,
+        "question": "Consider the following statements and choose the correct answer:",
+        "options": [
+          "A and B are correct",
+          "B and C are correct",
+          "A and C are correct",
+          "All are correct"
+        ],
+        "answer": "All are correct"
+      },
+      {
+        "id": 48,
+        "question": "Which group of districts in Uttarakhand shares an international border?",
+        "options": [
+          "Champawat, Nainital, Udham Singh Nagar",
+          "Pithoragarh, Chamoli, Uttarkashi",
+          "Chamoli, Uttarkashi, Rudraprayag",
+          "Chamoli, Pithoragarh, Bageshwar"
+        ],
+        "answer": "Pithoragarh, Chamoli, Uttarkashi"
+      },
+      {
+        "id": 49,
+        "question": "Uttarakhand is located in which part of the Himalayas?",
+        "options": [
+          "East-Central part",
+          "West-Central part",
+          "North-Central part",
+          "South-Central part"
+        ],
+        "answer": "West-Central part"
+      },
+      {
+        "id": 50,
+        "question": "Which district of Uttarakhand is mainly located in the Terai region?",
+        "options": ["Udham Singh Nagar", "Dehradun", "Almora", "Tehri"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "id": 51,
+        "question": "In which of the following districts of Uttarakhand is the Dunagiri mountain peak located?",
+        "options": ["Pithoragarh", "Chamoli", "Almora", "Bageshwar"],
+        "answer": "Chamoli"
+      },
+      {
+        "id": 52,
+        "question": "In which of the following districts is Kotadun located?",
+        "options": ["Pauri", "Dehradun", "Nainital", "Champawat"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 53,
+        "question": "The natural phenomenon called 'Winter Line' is visible in:",
+        "options": ["Nainital", "Mussoorie", "Kausani", "Mana"],
+        "answer": "Mussoorie"
+      },
+      {
+        "id": 54,
+        "question": "Which of the following is not a natural boundary of the state?",
+        "options": [
+          "Kali River in the East",
+          "Yamuna River in the West",
+          "Tibetan Himalayas in the North",
+          "Bhabar-Terai region in the South"
+        ],
+        "answer": "Yamuna River in the West"
+      },
+      {
+        "id": 55,
+        "question": "Which of the following pairs is not correctly matched?",
+        "options": [
+          "Borasu Pass - Uttarkashi",
+          "Barahoti Pass - Uttarkashi",
+          "Turjun Pass - Chamoli",
+          "Lamkhaga Pass - Uttarkashi"
+        ],
+        "answer": "Barahoti Pass - Uttarkashi"
+      },
+      {
+        "id": 56,
+        "question": "How many districts of the state share a border with Uttar Pradesh?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "3"
+      },
+      {
+        "id": 57,
+        "question": "Which is the district with the smallest area in Uttarakhand?",
+        "options": ["Champawat", "Udham Singh Nagar", "Almora", "Rudraprayag"],
+        "answer": "Champawat"
+      },
+      {
+        "id": 58,
+        "question": "Match the following mountain peaks with their heights (in meters):\n(A) Nanda Devi - 1.7817m\n(B) Kamet - 2.7756m\n(C) Panchachuli - 3.6904m\n(D) Kedarnath - 4.6968m",
+        "options": ["A2 B1 C3 D4", "A3 B4 C1 D2", "A1 B2 C3 D4", "A4 B3 C2 D1"],
+        "answer": "A3 B4 C1 D2"
+      },
+
+      {
+        "id": 59,
+        "question": "What is located between the Nar and Narayan mountains?",
+        "options": ["Valley of Flowers", "Joshimath", "Tapovan", "Badrinath"],
+        "answer": "Badrinath"
+      },
+      {
+        "id": 60,
+        "question": "What are Kingri-Bingri, Neeti, and Mana?",
+        "options": ["Passes", "Rivers", "Mountains", "Religious sites"],
+        "answer": "Passes"
+      },
+      {
+        "id": 61,
+        "question": "Which Himalayan region receives the highest rainfall during the rainy season?",
+        "options": [
+          "Upper Himalayas",
+          "Outer Himalayas",
+          "Inner Himalayas",
+          "Equal rainfall in all three"
+        ],
+        "answer": "Outer Himalayas"
+      },
+      {
+        "id": 62,
+        "question": "What is the height of the Nandakot mountain peak?",
+        "options": ["7138m", "6400m", "6861m", "6320m"],
+        "answer": "6861m"
+      },
+      {
+        "id": 63,
+        "question": "The slogan 'Save the Himalayas, Save the Country' is associated with:",
+        "options": [
+          "Bishni Devi",
+          "Gauri Devi",
+          "Sundarlal Bahuguna",
+          "Hemwati Nandan Bahuguna"
+        ],
+        "answer": "Sundarlal Bahuguna"
+      },
+      {
+        "id": 64,
+        "question": "Dehradun's 'Wadia Institute of Himalayan Geology' is related to:",
+        "options": ["Music", "Sports", "Medicine", "Geology"],
+        "answer": "Geology"
+      },
+      {
+        "id": 65,
+        "question": "In which district is 'Nandhaur Dun' located?",
+        "options": ["Udham Singh Nagar", "Nainital", "Garhwal", "Haridwar"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 66,
+        "question": "On which date is 'Himalayan Day' celebrated in Uttarakhand?",
+        "options": ["September 9", "September 5", "September 15", "October 5"],
+        "answer": "September 9"
+      },
+      {
+        "id": 67,
+        "question": "When did the water disaster occur in Kedarnath?",
+        "options": ["April 2013", "May 2013", "June 2013", "July 2013"],
+        "answer": "June 2013"
+      },
+      {
+        "id": 68,
+        "question": "Which operation is related to 'Uttarakhand'?",
+        "options": [
+          "Operation Kedar",
+          "Operation Badri",
+          "Operation Choti",
+          "Operation Surya Hope"
+        ],
+        "answer": "Operation Surya Hope"
+      },
+      {
+        "id": 69,
+        "question": "What percentage of the total area of Uttarakhand is mountainous?",
+        "options": ["90", "86", "50", "45"],
+        "answer": "86"
+      },
+      {
+        "id": 70,
+        "question": "In which district is Barahoti located?",
+        "options": ["Rudraprayag", "Pithoragarh", "Chamoli", "Uttarkashi"],
+        "answer": "Chamoli"
+      },
+      {
+        "id": 71,
+        "question": "Which of the following is called 'Queen of Hills'?",
+        "options": ["Nainital", "Dhanaulti", "Mussoorie", "Almora"],
+        "answer": "Mussoorie"
+      },
+      {
+        "id": 72,
+        "question": "Which district of Uttarakhand shares its boundary with seven districts of the state?",
+        "options": ["Chamoli", "Almora", "Pauri Garhwal", "None of the above"],
+        "answer": "Pauri Garhwal"
+      },
+      {
+        "id": 73,
+        "question": "'Lipulekh Pass' is located in:",
+        "options": [
+          "Uttarkashi district",
+          "Chamoli district",
+          "Pithoragarh district",
+          "Bageshwar district"
+        ],
+        "answer": "Pithoragarh district"
+      },
+      {
+        "id": 74,
+        "question": "When did the cloudburst incident occur in Malpa, Pithoragarh district?",
+        "options": [
+          "August 17-18, 2002",
+          "August 17-18, 1996",
+          "August 17-18, 1998",
+          "August 17-18, 1999"
+        ],
+        "answer": "August 17-18, 1998"
+      },
+      {
+        "id": 75,
+        "question": "'Doon Valley' is located in which district?",
+        "options": ["Dehradun", "Haridwar", "Rishikesh", "None of the above"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 76,
+        "question": "What type of climate is found in the Bhabar belt of Uttarakhand?",
+        "options": ["Alpine", "Subtropical", "Tropical", "Temperate"],
+        "answer": "Subtropical"
+      },
+      {
+        "id": 77,
+        "question": "Which of the following passes is not located in Uttarakhand?",
+        "options": ["Lipulekh Pass", "Mana Pass", "Sin-La Pass", "Dibsa Pass"],
+        "answer": "Dibsa Pass"
+      },
+      {
+        "id": 78,
+        "question": "Which of the following passes is used by Mansarovar pilgrims?",
+        "options": [
+          "Mana Pass",
+          "Lipulekh Pass",
+          "Nama Pass",
+          "None of the above"
+        ],
+        "answer": "Lipulekh Pass"
+      },
+      {
+        "id": 79,
+        "question": "What is the height of the Panchachuli peak above sea level?",
+        "options": ["6,806m", "7,120m", "6,904m", "7,456m"],
+        "answer": "6,904m"
+      },
+      {
+        "id": 80,
+        "question": "'Lampiya Dhura' connects:",
+        "options": [
+          "Pithoragarh and Tibet",
+          "Pithoragarh and Nepal",
+          "Pithoragarh and Chamoli",
+          "None of the above"
+        ],
+        "answer": "Pithoragarh and Tibet"
+      },
+      {
+        "id": 81,
+        "question": "Which of the following connects 'Shringkanth Pass'?",
+        "options": [
+          "Pithoragarh-Tibet",
+          "Chamoli",
+          "Uttarkashi-Himachal Pradesh",
+          "Bageshwar-Pithoragarh"
+        ],
+        "answer": "Uttarkashi-Himachal Pradesh"
+      },
+      {
+        "id": 82,
+        "question": "Thangla, Dungrila, Nelang, Lamlang are:",
+        "options": ["Lakes", "Mountains", "Passes", "Rivers"],
+        "answer": "Passes"
+      },
+      {
+        "id": 83,
+        "question": "Doonagiri Glacier is located in:",
+        "options": [
+          "Dehradun district",
+          "Pithoragarh district",
+          "Uttarkashi district",
+          "Chamoli district"
+        ],
+        "answer": "Chamoli district"
+      },
+      {
+        "id": 84,
+        "question": "Which hill station was called 'Switzerland of India' by Mahatma Gandhi?",
+        "options": ["Nainital", "Mussoorie", "Ranikhet", "Kausani"],
+        "answer": "Kausani"
+      },
+      {
+        "id": 85,
+        "question": "What is the height of the Kamet peak?",
+        "options": ["7138m", "7756m", "7817m", "7272m"],
+        "answer": "7756m"
+      },
+      {
+        "id": 86,
+        "question": "Which district of Uttarakhand has the largest area?",
+        "options": ["Uttarkashi", "Chamoli", "Pithoragarh", "Dehradun"],
+        "answer": "Chamoli"
+      },
+      {
+        "id": 87,
+        "question": "Which is the longest glacier in Uttarakhand?",
+        "options": ["Milam", "Gangotri", "Pindari", "Satopanth"],
+        "answer": "Gangotri"
+      },
+      {
+        "id": 88,
+        "question": "Which is the second highest peak in Uttarakhand?",
+        "options": ["Trishul", "Kamet", "Chaukhamba", "Panchachuli"],
+        "answer": "Kamet"
+      },
+      {
+        "id": 89,
+        "question": "Which is the easternmost district of Uttarakhand?",
+        "options": [
+          "Champawat",
+          "Nainital",
+          "Udham Singh Nagar",
+          "Pithoragarh"
+        ],
+        "answer": "Pithoragarh"
+      },
+      {
+        "id": 90,
+        "question": "How many districts of the state share an international border?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "3"
+      },
+      {
+        "id": 91,
+        "question": "Which of the following is the highest peak?",
+        "options": [
+          "Draupadi ka Danda",
+          "Nanda Ghunti",
+          "Banderpunch",
+          "Chaukhamba"
+        ],
+        "answer": "Chaukhamba"
+      },
+      {
+        "id": 92,
+        "question": "Which district of Uttarakhand does not share an international border?",
+        "options": ["Uttarkashi", "Chamoli", "Pithoragarh", "Almora"],
+        "answer": "Almora"
+      },
+      {
+        "id": 93,
+        "question": "The Lesser Himalayas are separated from 'Doon' by which of the following?",
+        "options": [
+          "Main Boundary Thrust",
+          "Great Boundary Fault",
+          "Main Central Thrust",
+          "Askot-Baijnath Crystalline Thrust"
+        ],
+        "answer": "Main Boundary Thrust"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand Rivers and Lakes",
+    "questions": [
+      {
+        "id": 1,
+        "question": "The Bhagirathi River originates from:",
+        "options": ["Gomukh", "Gangotri", "Tapovan", "Vishnu Prayag"],
+        "answer": "Gomukh"
+      },
+      {
+        "id": 2,
+        "question": "Which of the following rivers does not originate from a glacier?",
+        "options": ["Yamuna", "Alaknanda", "Kosi", "Mandakini"],
+        "answer": "Kosi"
+      },
+      {
+        "id": 3,
+        "question": "The Mandakini River is associated with which water flow (main river)?",
+        "options": ["Alaknanda", "Bhagirathi", "Yamuna", "Dhauliganga"],
+        "answer": "Alaknanda"
+      },
+      {
+        "id": 4,
+        "question": "Which river flows from Kedarnath to Rudra Prayag?",
+        "options": ["Bhagirathi", "Alaknanda", "Saryu", "Mandakini"],
+        "answer": "Mandakini"
+      },
+      {
+        "id": 5,
+        "question": "Hemkund Lake is surrounded by:",
+        "options": [
+          "5 snow-covered peaks",
+          "7 snow-covered peaks",
+          "8 snow-covered peaks",
+          "9 snow-covered peaks"
+        ],
+        "answer": "7 snow-covered peaks"
+      },
+      {
+        "id": 6,
+        "question": "Which of the following lakes in Uttarakhand is triangular?",
+        "options": [
+          "Kedarnath Tal",
+          "Nainital",
+          "Naukuchiatal",
+          "Satopanth Lake"
+        ],
+        "answer": "Kedarnath Tal"
+      },
+      {
+        "id": 7,
+        "question": "Which of the following lakes in Uttarakhand has 9 corners?",
+        "options": ["Naukuchiatal", "Bhimtal", "Girital", "Jhilmil Tal"],
+        "answer": "Naukuchiatal"
+      },
+      {
+        "id": 8,
+        "question": "The Kosi River of Uttarakhand is a tributary of:",
+        "options": ["Ganga", "Ramganga", "Sharda", "None of the above"],
+        "answer": "Ramganga"
+      },
+      {
+        "id": 9,
+        "question": "The Tehri Dam is located at the confluence of which rivers?",
+        "options": [
+          "Alaknanda and Mandakini",
+          "Bhagirathi and Bhilangana",
+          "Bhagirathi and Alaknanda",
+          "Kali and Tons"
+        ],
+        "answer": "Bhagirathi and Bhilangana"
+      },
+      {
+        "id": 10,
+        "question": "'Jahnavi' River is related to which main river?",
+        "options": ["Alaknanda", "Bhagirathi", "Yamuna", "Eastern Ramganga"],
+        "answer": "Bhagirathi"
+      },
+      {
+        "id": 11,
+        "question": "For how many years did the 'Gauna Lake' formed by the obstruction of the Birahi Ganga remain?",
+        "options": ["84 years", "62 years", "49 years", "77 years"],
+        "answer": "62 years"
+      },
+      {
+        "id": 12,
+        "question": "The Tehri Dam is located on which river?",
+        "options": ["Alaknanda", "Bhagirathi", "Yamuna", "Mandakini"],
+        "answer": "Bhagirathi"
+      },
+      {
+        "id": 13,
+        "question": "The confluence of Saryu and Gomti rivers is located at:",
+        "options": ["Bageshwar", "Bodihat", "Munisyari", "Tanakpur"],
+        "answer": "Bageshwar"
+      },
+      {
+        "id": 14,
+        "question": "Match the following correctly:\n\nA) Arwa Tal - 1. Uttarkashi\nB) Devi Kund - 2. Pithoragarh\nC) Nanda Kund - 3. Bageshwar\nD) Pari Tal - 4. Chamoli",
+        "options": ["A1 B2 C3 D4", "A4 B1 C3 D2", "A4 B3 C1 D2", "A4 B2 C3 D1"],
+        "answer": "A4 B1 C3 D2"
+      },
+      {
+        "id": 15,
+        "question": "Which is the most sacred river of the Kumaon region?",
+        "options": ["Kali (Sharda)", "Gomti", "East Dhauliganga", "Saryu"],
+        "answer": "Saryu"
+      },
+      {
+        "id": 16,
+        "question": "From which place is the Bhagirathi River known as the Ganga?",
+        "options": [
+          "Vishnu Prayag",
+          "Dev Prayag",
+          "Karna Prayag",
+          "Rudra Prayag"
+        ],
+        "answer": "Dev Prayag"
+      },
+      {
+        "id": 17,
+        "question": "Which district has the highest number of natural lakes?",
+        "options": ["Nainital", "Rudraprayag", "Chamoli", "Bageshwar"],
+        "answer": "Chamoli"
+      },
+      {
+        "id": 18,
+        "question": "Which lake is known as the 'Mystery Lake' of Uttarakhand?",
+        "options": ["Nainital", "Sat Tal", "Roopkund", "Naukuchiatal"],
+        "answer": "Roopkund"
+      },
+      {
+        "id": 19,
+        "question": "Which glacier is fed by the Rakta Varna, Chet Varna, Neelambar, Peetapani, and Chaturangi glaciers?",
+        "options": ["Bhagirathi Kharak", "Gangotri", "Satopanth", "Milam"],
+        "answer": "Milam"
+      },
+      {
+        "id": 20,
+        "question": "Which is the largest and deepest lake in the Garhwal region?",
+        "options": ["Satopanth Tal", "Sahastra Tal", "Hemkund", "Vishnu Tal"],
+        "answer": "Sahastra Tal"
+      },
+      {
+        "id": 21,
+        "question": "Which is the largest lake in the Kumaon region?",
+        "options": ["Bhimtal", "Nainital", "Naukuchiatal", "Sat Tal"],
+        "answer": "Bhimtal"
+      },
+      {
+        "id": 22,
+        "question": "Which of the following passes in Uttarakhand is located near the origin of the Kali River?",
+        "options": ["Neeti", "Mana", "Lipulekh", "Milam"],
+        "answer": "Lipulekh"
+      },
+      {
+        "id": 23,
+        "question": "Which is the largest glacier in Uttarakhand?",
+        "options": ["Milam", "Kaphini", "Gangotri", "Sundardhunga"],
+        "answer": "Gangotri"
+      },
+      {
+        "id": 24,
+        "question": "The melting rate of glaciers in the Himalayas is:",
+        "options": [
+          "Least",
+          "Most",
+          "Same as glaciers in other parts of the world",
+          "No information is available on the melting of Himalayan glaciers"
+        ],
+        "answer": "Most"
+      },
+      {
+        "id": 25,
+        "question": "Which Sikh Guru meditated on the banks of Hemkund Lokpal Lake?",
+        "options": [
+          "Guru Ramdas",
+          "Guru Arjan Dev",
+          "Guru Har Rai",
+          "Guru Govind Singh"
+        ],
+        "answer": "Guru Govind Singh"
+      },
+      {
+        "id": 26,
+        "question": "The Mandakini River originates from which glacier?",
+        "options": ["Milam", "Khatling", "Banderpunch", "Chorabari"],
+        "answer": "Chorabari"
+      },
+      {
+        "id": 27,
+        "question": "Which of the following places does not have a hot water spring?",
+        "options": ["Badrinath", "Yamunotri", "Gaurikund", "Gangotri"],
+        "answer": "Gangotri"
+      },
+      {
+        "id": 28,
+        "question": "Which of the following pairs is not correctly matched?",
+        "options": [
+          "Bhagirathi - Gomukh",
+          "East Ramganga - Kalagarh",
+          "Bhilangana - Khatling Glacier",
+          "Mandakini - Chorabari Tal"
+        ],
+        "answer": "East Ramganga - Kalagarh"
+      },
+      {
+        "id": 29,
+        "question": "Hardy Falls is located in which district?",
+        "options": ["Chamoli", "Pithoragarh", "Uttarkashi", "Dehradun"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 30,
+        "question": "Which is the largest glacier in the Kumaon region?",
+        "options": ["Pindari", "Sundardhunga", "Milam", "Khatling"],
+        "answer": "Milam"
+      },
+      {
+        "id": 31,
+        "question": "The six-cornered Dodital is located in which district?",
+        "options": ["Rudraprayag", "Uttarkashi", "Chamoli", "Tehri"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "id": 32,
+        "question": "The deepest lake in the Kumaon region, Naukuchiatal, is located in which district?",
+        "options": ["Uttarkashi", "Pauri", "Bageshwar", "Nainital"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 33,
+        "question": "The origin of the Alaknanda River is:",
+        "options": [
+          "Milam Glacier",
+          "Poting Glacier",
+          "Satopanth Glacier",
+          "Banderpunch Glacier"
+        ],
+        "answer": "Satopanth Glacier"
+      },
+      {
+        "id": 34,
+        "question": "Which of the following is not a tributary of the Yamuna River?",
+        "options": ["Tons", "Neeti", "Amunag", "None of the above"],
+        "answer": "Neeti"
+      },
+      {
+        "id": 35,
+        "question": "Which lake has a horseshoe shape?",
+        "options": ["Girital", "Khurpatal", "Sat Tal", "Bhimtal"],
+        "answer": "Bhimtal"
+      },
+      {
+        "id": 36,
+        "question": "Which river is not a tributary of the Saryu River?",
+        "options": ["Gomti", "Panar", "East Ramganga", "Ladhiya"],
+        "answer": "East Ramganga"
+      },
+      {
+        "id": 37,
+        "question": "The city of Bageshwar is situated at the confluence of which rivers?",
+        "options": [
+          "Pindar and Alaknanda",
+          "Kosi and Ramganga",
+          "Kali and Gauri",
+          "Saryu and Gomti"
+        ],
+        "answer": "Saryu and Gomti"
+      },
+      {
+        "id": 38,
+        "question": "The Baijnath Dham is situated on the banks of which river?",
+        "options": ["Gomti", "Kali", "Saryu", "East Ramganga"],
+        "answer": "Gomti"
+      },
+      {
+        "id": 39,
+        "question": "The valley of which river is called 'Rice Granary' in the Kumaon region?",
+        "options": ["Kosi", "Nayar", "Dabka", "Gola"],
+        "answer": "Kosi"
+      },
+      {
+        "id": 40,
+        "question": "Which of the following cold water ponds is not correctly matched?",
+        "options": [
+          "Dev Kund - Uttarkashi",
+          "Devi Kund - Bageshwar",
+          "Nandi Kund - Rudraprayag",
+          "Nanda Kund - Tehri"
+        ],
+        "answer": "Nanda Kund - Tehri"
+      },
+      {
+        "id": 41,
+        "question": "Which of the following Kunds (ponds) is not correctly matched?",
+        "options": [
+          "Suraj Kund - Uttarkashi",
+          "Tapt Kund - Badrinath",
+          "Ret Kund - Champawat",
+          "Bhav Kund - Kedarnath"
+        ],
+        "answer": "Ret Kund - Champawat"
+      },
+      {
+        "id": 42,
+        "question": "Where were Mahatma Gandhi's ashes immersed?",
+        "options": ["Beni Tal", "Hemkund", "Roopkund", "Vishnu Tal"],
+        "answer": "Beni Tal"
+      },
+      {
+        "id": 43,
+        "question": "Which lake is known as 'Kankali Tal'?",
+        "options": ["Hemkund", "Homkund", "Roopkund", "Sahastra Tal"],
+        "answer": "Roopkund"
+      },
+      {
+        "id": 44,
+        "question": "Which Kund (pond) is not located in Chamoli district?",
+        "options": ["Basuki Kund", "Hemkund", "Homkund", "Parvati Kund"],
+        "answer": "Parvati Kund"
+      },
+      {
+        "id": 45,
+        "question": "The Koteshwar Dam is being built on which river?",
+        "options": ["Bhagirathi", "Dhauliganga", "Alaknanda", "Birahi Ganga"],
+        "answer": "Bhagirathi"
+      },
+      {
+        "id": 46,
+        "question": "Which Prayag (confluence) is the meeting point of Saraswati and Alaknanda?",
+        "options": [
+          "Ganesh Prayag",
+          "Sone Prayag",
+          "Keshav Prayag",
+          "Hari Prayag"
+        ],
+        "answer": "Keshav Prayag"
+      },
+      {
+        "id": 47,
+        "question": "Which river meets Alaknanda at Rudraprayag?",
+        "options": ["Dhauliganga", "Pindar", "Mandakini", "Birahi Ganga"],
+        "answer": "Mandakini"
+      },
+      {
+        "id": 48,
+        "question": "Eastern Dhauliganga is a tributary of which river?",
+        "options": ["Alaknanda", "Kali", "Gomti", "Sharda"],
+        "answer": "Kali"
+      },
+      {
+        "id": 49,
+        "question": "Where is Khatling Glacier located?",
+        "options": [
+          "Tehri district",
+          "Uttarkashi district",
+          "Chamoli district",
+          "Pithoragarh district"
+        ],
+        "answer": "Tehri district"
+      },
+      {
+        "id": 50,
+        "question": "Which of the following pairs is incorrect?",
+        "options": [
+          "Dodital - Uttarkashi",
+          "Deoria Tal - Tehri",
+          "Beni Tal - Chamoli",
+          "Basuki Tal - Rudraprayag"
+        ],
+        "answer": "Deoria Tal - Tehri"
+      },
+      {
+        "id": 51,
+        "question": "The Pancheshwar Dam is proposed on which river?",
+        "options": ["Ganga", "Yamuna", "Kali", "None of these"],
+        "answer": "Kali"
+      },
+      {
+        "id": 52,
+        "question": "Which is the longest river in Uttarakhand?",
+        "options": ["Kali", "Bhagirathi", "Ramganga", "Alaknanda"],
+        "answer": "Kali"
+      },
+      {
+        "id": 53,
+        "question": "Where do the Kali and Gauri rivers meet?",
+        "options": ["Jauljibi", "Ramnagar", "Dev Prayag", "Tehri"],
+        "answer": "Jauljibi"
+      },
+      {
+        "id": 54,
+        "question": "What is 'Chal Khal' in the hills of Uttarakhand related to?",
+        "options": [
+          "Water conservation",
+          "Fire conservation",
+          "Forest conservation",
+          "None of these"
+        ],
+        "answer": "Water conservation"
+      },
+      {
+        "id": 55,
+        "question": "Which lake is also known as the 'Mystery Lake'?",
+        "options": ["Nainital", "Sat Tal", "Roopkund", "Hemkund"],
+        "answer": "Roopkund"
+      },
+      {
+        "id": 56,
+        "question": "The confluence of Alaknanda and which river occurs at Nandprayag?",
+        "options": ["Bhagirathi", "Mandakini", "Vishnuganga", "None of these"],
+        "answer": "None of these"
+      },
+      {
+        "id": 57,
+        "question": "Which lake is also known as 'Brother-Sister Lake'?",
+        "options": ["Mahasar Tal", "Yam Tal", "Siddh Tal", "Narsingh Tal"],
+        "answer": "Mahasar Tal"
+      },
+      {
+        "id": 58,
+        "question": "Where does the Pindar River originate?",
+        "options": [
+          "Badrinath",
+          "Kedarnath",
+          "Pindari Glacier",
+          "Milam Glacier"
+        ],
+        "answer": "Pindari Glacier"
+      },
+      {
+        "id": 59,
+        "question": "Which lake is known as 'Gandhi Sarovar'?",
+        "options": [
+          "Chorabari Tal",
+          "Nachiketa Tal",
+          "Aakhri Tal",
+          "None of these"
+        ],
+        "answer": "Chorabari Tal"
+      },
+      {
+        "id": 60,
+        "question": "Which lake is known as the 'Boiling Lake' of Uttarakhand?",
+        "options": ["Sat Tal", "Nainital", "Byatal", "None of these"],
+        "answer": "Byatal"
+      },
+      {
+        "id": 61,
+        "question": "Which is the deepest lake in Uttarakhand?",
+        "options": ["Naukuchiatal", "Dron Sagar", "Nainital", "Girital"],
+        "answer": "Naukuchiatal"
+      },
+      {
+        "id": 62,
+        "question": "Which river is famous for river rafting in Uttarakhand?",
+        "options": ["Ganga", "Bhilangana", "Kali", "Yamuna"],
+        "answer": "Ganga"
+      },
+      {
+        "id": 63,
+        "question": "The confluence of Alaknanda and Mandakini rivers is located at:",
+        "options": ["Rudraprayag", "Karnaprayag", "Devprayag", "Vishnuprayag"],
+        "answer": "Rudraprayag"
+      },
+      {
+        "id": 64,
+        "question": "By what name are the Bhagirathi and Alaknanda rivers known?",
+        "options": [
+          "Mother-Daughter",
+          "Mother-Sister",
+          "Sister-Sister",
+          "Mother-Daughter-in-law"
+        ],
+        "answer": "Mother-Daughter-in-law"
+      },
+      {
+        "id": 65,
+        "question": "Which of the following river pairs is not correctly matched?",
+        "options": [
+          "Saryu-Panar",
+          "Kali-Gauriganga",
+          "Vishnuganga-Dhauli (East)",
+          "Bhagirathi-Jadganga"
+        ],
+        "answer": "Vishnuganga-Dhauli (East)"
+      },
+      {
+        "id": 66,
+        "question": "In which district is 'Naldamyanti Tal' located?",
+        "options": ["Nainital", "Almora", "Pauri", "Uttarkashi"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 67,
+        "question": "Choose the correct pair:",
+        "options": [
+          "Gangotri Glacier - Uttarkashi",
+          "Milam Glacier - Pithoragarh",
+          "Satopanth - Chamoli",
+          "All pairs are correctly matched"
+        ],
+        "answer": "All pairs are correctly matched"
+      },
+      {
+        "id": 68,
+        "question": "Choose the incorrect pair:",
+        "options": [
+          "Vishnu Prayag - Alaknanda meets Nandakini",
+          "Rudra Prayag - Alaknanda meets Mandakini",
+          "Karna Prayag - Alaknanda meets Pindar",
+          "Dev Prayag - Alaknanda meets Bhagirathi"
+        ],
+        "answer": "Vishnu Prayag - Alaknanda meets Nandakini"
+      },
+      {
+        "id": 69,
+        "question": "Where is the Kaphini Glacier located?",
+        "options": ["Champawat", "Bageshwar", "Pithoragarh", "Uttarkashi"],
+        "answer": "Bageshwar"
+      },
+      {
+        "id": 70,
+        "question": "When was the Ganga declared the National River?",
+        "options": [
+          "August 15, 2001",
+          "January 26, 2005",
+          "November 4, 2008",
+          "None of these"
+        ],
+        "answer": "November 4, 2008"
+      },
+      {
+        "id": 71,
+        "question": "The confluence of which rivers is at Nandprayag?",
+        "options": [
+          "Alaknanda and Vishnuganga",
+          "Alaknanda and Nandakini",
+          "Alaknanda and Pindar",
+          "Alaknanda and Mandakini"
+        ],
+        "answer": "Alaknanda and Nandakini"
+      },
+      {
+        "id": 72,
+        "question": "Which is the largest glacier in Uttarakhand?",
+        "options": ["Dunagiri", "Doriari", "Gangotri", "None of these"],
+        "answer": "Gangotri"
+      },
+      {
+        "id": 73,
+        "question": "The Balganga is a tributary of which river?",
+        "options": ["Bhagirathi", "Bhilangana", "Mandakini", "Pindar"],
+        "answer": "Bhilangana"
+      },
+      {
+        "id": 74,
+        "question": "Which city is located on the 'Gola River'?",
+        "options": ["Kashipur", "Champawat", "Haridwar", "Haldwani"],
+        "answer": "Haldwani"
+      },
+      {
+        "id": 75,
+        "question": "Where is Shyamala Tal located?",
+        "options": ["Nainital", "Uttarkashi", "Champawat", "Tehri Garhwal"],
+        "answer": "Champawat"
+      },
+      {
+        "id": 76,
+        "question": "Ladhiya is a tributary of which river?",
+        "options": ["Yamuna", "Kali", "Ganga", "Alaknanda"],
+        "answer": "Kali"
+      },
+      {
+        "id": 77,
+        "question": "What is the origin of the Sharda (Kali) River?",
+        "options": ["Pindari", "Kaphini", "Milam", "None of the above"],
+        "answer": "Milam"
+      },
+      {
+        "id": 78,
+        "question": "In which district is the Sundardhunga Glacier located?",
+        "options": ["Bageshwar", "Tehri Garhwal", "Uttarkashi", "Dehradun"],
+        "answer": "Bageshwar"
+      },
+      {
+        "id": 79,
+        "question": "The Jahnavi River is associated with which main river?",
+        "options": ["Kali", "Ramganga", "Alaknanda", "Bhagirathi"],
+        "answer": "Bhagirathi"
+      },
+      {
+        "id": 80,
+        "question": "The Khatling Glacier is the origin of which river?",
+        "options": [
+          "Jalkur River",
+          "Bhilangana River",
+          "Pilang Ganga River",
+          "Balganga River"
+        ],
+        "answer": "Bhilangana River"
+      },
+      {
+        "id": 81,
+        "question": "In which district of Uttarakhand is Jhilmil Tal located?",
+        "options": ["Chamoli", "Dehradun", "Nainital", "Pithoragarh"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "id": 82,
+        "question": "The Eastern Ramganga River originates from:",
+        "options": [
+          "Pindari Glacier",
+          "Nanda Ghunti",
+          "Khatling Glacier",
+          "Namik Glacier"
+        ],
+        "answer": "Namik Glacier"
+      },
+      {
+        "id": 83,
+        "question": "Where is Satya Kund located?",
+        "options": [
+          "Dehradun district",
+          "Tehri Garhwal district",
+          "Uttarkashi district",
+          "Chamoli district"
+        ],
+        "answer": "Uttarkashi district"
+      },
+      {
+        "id": 84,
+        "question": "What is the origin of the Bhagirathi River?",
+        "options": [
+          "Mahanadi River",
+          "Mandakini River",
+          "Yamuna River",
+          "None of the above"
+        ],
+        "answer": "None of the above"
+      },
+      {
+        "id": 85,
+        "question": "In which lake were human skeletons found?",
+        "options": ["Hemkund", "Roopkund", "Dodital", "Naukuchiatal"],
+        "answer": "Roopkund"
+      },
+      {
+        "id": 86,
+        "question": "Which is the largest drainage system in Uttarakhand?",
+        "options": [
+          "Yamuna drainage system",
+          "Ganga drainage system",
+          "Alaknanda drainage system",
+          "Kosi drainage system"
+        ],
+        "answer": "Ganga drainage system"
+      },
+      {
+        "id": 87,
+        "question": "Where does the Western Nayar River originate?",
+        "options": [
+          "Khatling Glacier",
+          "Chorabari Tal",
+          "Sundardhunga",
+          "Dudhatoli range"
+        ],
+        "answer": "Dudhatoli range"
+      },
+      {
+        "id": 88,
+        "question": "Which of the following is not a left bank tributary of the Alaknanda River?",
+        "options": ["Mandakini", "Dhauliganga", "Birahi Ganga", "Pindari"],
+        "answer": "Pindari"
+      },
+      {
+        "id": 89,
+        "question": "Which of the following are tributaries of the Kali River?",
+        "options": [
+          "Pindari and Dhauliganga",
+          "Eastern Dhauli and Kuyi-Yangti",
+          "Sang and Kho",
+          "Dabka and Nihal"
+        ],
+        "answer": "Eastern Dhauli and Kuyi-Yangti"
+      },
+      {
+        "id": 90,
+        "question": "Which of the following lakes is not located in Chamoli district?",
+        "options": [
+          "Chakni Tal",
+          "Ling Tal (Liga Tal)",
+          "Tarak Tal",
+          "Gohna Tal"
+        ],
+        "answer": "Chakni Tal"
+      },
+      {
+        "id": 91,
+        "question": "The Tons River is a tributary of which river?",
+        "options": ["Dhauliganga", "Pindari", "Yamuna", "Mandakini"],
+        "answer": "Yamuna"
+      },
+      {
+        "id": 92,
+        "question": "Which of the following rivers is not a tributary of the Ramganga?",
+        "options": ["Lisara", "Gangan", "Kosi", "Khod"],
+        "answer": "Lisara"
+      },
+      {
+        "id": 93,
+        "question": "Which of the following is not a natural lake?",
+        "options": ["Tehri Lake", "Khurpa Tal", "Vasuki Lake", "Nachiketa Tal"],
+        "answer": "Tehri Lake"
+      },
+      {
+        "id": 94,
+        "question": "In which district of Uttarakhand is the Sona Pani Glacier located?",
+        "options": ["Pithoragarh", "Chamoli", "Uttarkashi", "Bageshwar"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "id": 95,
+        "question": "Which of the following is not correctly matched?",
+        "options": [
+          "Gangotri - Origin of Ganga",
+          "Satopanth - Near Badrinath",
+          "Milam - North of Gangotri in Mana Valley",
+          "Bhagirathi Kharak - Near Badrinath"
+        ],
+        "answer": "Milam - North of Gangotri in Mana Valley"
+      },
+      {
+        "id": 96,
+        "question": "Choose the correctly matched pair:",
+        "options": [
+          "Dodital - Pauri Garhwal",
+          "Nachiketa Tal - Chamoli",
+          "Naukuchiatal - Nainital",
+          "Deoria Tal - Champawat"
+        ],
+        "answer": "Naukuchiatal - Nainital"
+      },
+      {
+        "id": 97,
+        "question": "Read the following statements:",
+        "options": [
+          "Statement 1: Kali is the longest river in Kumaon.",
+          "Statement 2: Jauljibi is located at the confluence of the Kali and Gauri rivers.",
+          "Which of the above statements is/are correct?",
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Both 1 and 2 are incorrect"
+        ],
+        "answer": "Both 1 and 2"
+      }
+    ]
+  }
+]
