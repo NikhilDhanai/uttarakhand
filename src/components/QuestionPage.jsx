@@ -112,9 +112,7 @@ function QuestionPage() {
 
   return (
     <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center justify-center">
-      {/* ... (rest of the code remains the same) */}
-
-      {/* Mode Switch and Back Button */}
+      {/* Back Button and Mode Switch */}
       <div className="flex justify-between w-full max-w-xl mb-6">
         <button
           onClick={() => navigate("/")}
@@ -123,45 +121,26 @@ function QuestionPage() {
           Back to Chapter Select
         </button>
 
-        {/* Mode Switch with Rolling Animation */}
+        {/* Basic Toggle Switch for Mode */}
         <div className="flex items-center gap-4">
-          <div
-            className="w-28 h-14 flex items-center justify-between bg-gray-700 rounded-full relative cursor-pointer p-1"
-            onClick={toggleMode}
-          >
-            {/* Motion Blue Circle with Rolling Effect */}
-            <motion.div
-              className="absolute w-8 h-8 bg-blue-500 rounded-full"
-              initial={{ x: mode === "Objective" ? 4 : 65, rotate: 0 }}
-              animate={{
-                x: mode === "Objective" ? 4 : 65,
-                rotate: mode === "Objective" ? 0 : 360,
-              }}
-              transition={{
-                duration: 0.5,
-                type: "spring",
-                stiffness: 200,
-                damping: 18,
-              }}
+          <label className="flex items-center cursor-pointer">
+            <span className="mr-2">
+              {mode === "Objective" ? "Objective" : "Subjective"}
+            </span>
+            <input
+              type="checkbox"
+              className="hidden"
+              checked={mode === "Subjective"}
+              onChange={toggleMode}
             />
-
-            {/* Icons */}
-            <span
-              className={`z-10 w-10 h-10 flex items-center justify-center ${
-                mode === "Objective" ? "text-white" : "text-gray-400"
-              }`}
-            >
-              ✔️
-            </span>
-            <span
-              className={`z-10 w-10 h-10 flex items-center justify-center ${
-                mode === "Subjective" ? "text-white" : "text-gray-400"
-              }`}
-            >
-              📝
-            </span>
-          </div>
-          <span className="text-lg font-semibold">{mode} Mode</span>
+            <div className="w-12 h-6 bg-gray-700 rounded-full flex items-center">
+              <motion.div
+                className="w-6 h-6 bg-blue-500 rounded-full"
+                animate={{ x: mode === "Subjective" ? 24 : 0 }}
+                transition={{ duration: 0.3 }}
+              />
+            </div>
+          </label>
         </div>
       </div>
 

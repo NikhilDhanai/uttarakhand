@@ -74,12 +74,12 @@
         "id": 9,
         "question": "Two statements are given below. Assertion (A): The Uttarakhand State Legislature has a total of 70 members. Reason (R): The state has a bicameral legislature. In the context of the above, which one of the following is correct?",
         "options": [
-          "Both (A) and (R) are true, and (R) is the correct explanation of (A).",
-          "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
-          "(A) is true, but (R) is false.",
-          "(A) is false, but (R) is true."
+          "Both and (R) are true, and (R) is the correct explanation of (A).",
+          "Both and (R) are true, but (R) is not the correct explanation of (A).",
+          "is true, but (R) is false.",
+          "is false, but (R) is true."
         ],
-        "answer": "(A) is true, but (R) is false."
+        "answer": "is true, but (R) is false."
       },
       {
         "id": 10,
@@ -220,7 +220,7 @@
       },
       {
         "id": 27,
-        "question": "Match the following lists and choose the correct answer:\n(A) Hawalbagh  - 1. Uttarkashi\n(B) Gunda      - 2. Nainital\n(C) Okhalkanda - 3. Haridwar\n(D) Khanapur   - 4. Almora",
+        "question": "Match the following lists and choose the correct answer:\nHawalbagh  - 1. Uttarkashi\nGunda      - 2. Nainital\nOkhalkanda - 3. Haridwar\nKhanapur   - 4. Almora",
         "options": [
           "A-1, B-2, C-3, D-4",
           "A-1, B-4, C-3, D-2",
@@ -401,7 +401,7 @@
           "Jammu and Kashmir",
           "Himachal Pradesh",
           "Uttarakhand",
-          "(b) and (c)"
+          "and (c)"
         ],
         "answer": "Uttarakhand"
       },
@@ -647,14 +647,14 @@
       },
       {
         "id": 79,
-        "question": "Two statements are given below. One is labeled as assertion (A) and the other as reason (R). Answer using the codes.",
+        "question": "Two statements are given below. One is labeled as assertion and the other as reason (R). Answer using the codes.",
         "options": [
-          "Both (A) and (R) are true and (R) is the correct explanation of (A).",
-          "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
-          "(A) is true, but (R) is false.",
-          "(A) is false, but (R) is true."
+          "Both and (R) are true and (R) is the correct explanation of (A).",
+          "Both and (R) are true, but (R) is not the correct explanation of (A).",
+          "is true, but (R) is false.",
+          "is false, but (R) is true."
         ],
-        "answer": "(A) is true, but (R) is false."
+        "answer": "is true, but (R) is false."
       },
       {
         "id": 80,
@@ -1161,7 +1161,7 @@
       },
       {
         "id": 58,
-        "question": "Match the following mountain peaks with their heights (in meters):\n(A) Nanda Devi - 1.7817m\n(B) Kamet - 2.7756m\n(C) Panchachuli - 3.6904m\n(D) Kedarnath - 4.6968m",
+        "question": "Match the following mountain peaks with their heights (in meters):\nNanda Devi - 1.7817m\nKamet - 2.7756m\nPanchachuli - 3.6904m\nKedarnath - 4.6968m",
         "options": ["A2 B1 C3 D4", "A3 B4 C1 D2", "A1 B2 C3 D4", "A4 B3 C2 D1"],
         "answer": "A3 B4 C1 D2"
       },
@@ -2195,6 +2195,3525 @@
           "Both 1 and 2 are incorrect"
         ],
         "answer": "Both 1 and 2"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand Tradition of Valor, Sports, Awards, Etc.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which player is not a resident of Uttarakhand?",
+        "options": [
+          "Ekta Bisht",
+          "Vandana Kataria",
+          "Madhumita Bisht",
+          "Jhulan Goswami"
+        ],
+        "answer": "Jhulan Goswami"
+      },
+      {
+        "id": 2,
+        "question": "What was the real name of Chandra Singh Garhwali? (PCS Pre. 2009)",
+        "options": [
+          "Chandra Singh Negi",
+          "Chandra Singh Bhandari",
+          "Chandra Singh Kandari",
+          "Chandra Singh Bisht"
+        ],
+        "answer": "Chandra Singh Bhandari"
+      },
+      {
+        "id": 3,
+        "question": "Who is the first Indian woman to climb Mount Everest? (PCS Main - 2009)",
+        "options": [
+          "Santosh Yadav",
+          "Dicky Dolma",
+          "Bachendri Pal",
+          "P.T. Usha"
+        ],
+        "answer": "Bachendri Pal"
+      },
+      {
+        "id": 4,
+        "question": "When was the Kumaon Regiment formed? (PCS Main - 2010)",
+        "options": ["1944", "1946", "1948", "1945"],
+        "answer": "1945"
+      },
+      {
+        "id": 5,
+        "question": "Since 1887, the headquarters of the Garhwal Regiment has been in:",
+        "options": ["Dehradun", "Lansdowne", "Landour", "Chakrata"],
+        "answer": "Lansdowne"
+      },
+      {
+        "id": 6,
+        "question": "Who is known as 'Garv Bhanjak' (Pride Breaker)?",
+        "options": [
+          "Madho Singh Bhandari",
+          "Veer Chandra Singh Garhwali",
+          "Major Shaitan Singh",
+          "Gabar Singh Negi"
+        ],
+        "answer": "Madho Singh Bhandari"
+      },
+      {
+        "id": 7,
+        "question": "Who among the following received the Param Vir Chakra?",
+        "options": [
+          "Major Somnath Sharma",
+          "Major Shaitan Singh",
+          "Both",
+          "Neither"
+        ],
+        "answer": "Both"
+      },
+      {
+        "id": 8,
+        "question": "The Auli Winter Sports and Ropeway (Auli Project) was started in:",
+        "options": ["1981", "1984", "1982", "1983"],
+        "answer": "1983"
+      },
+      {
+        "id": 9,
+        "question": "Where is Ransi Stadium located?",
+        "options": ["Dehradun", "Pauri", "Nainital", "Kashipur"],
+        "answer": "Pauri"
+      },
+      {
+        "id": 10,
+        "question": "Who was the first Victoria Cross winner soldier?",
+        "options": [
+          "Gabar Singh Negi",
+          "Darban Singh Negi",
+          "Chandra Singh Garhwali",
+          "Madho Singh Bhandari"
+        ],
+        "answer": "Darban Singh Negi"
+      },
+      {
+        "id": 11,
+        "question": "Who is the only Test cricket player from Uttarakhand?",
+        "options": [
+          "Sunil Joshi",
+          "Mahendra Singh Dhoni",
+          "Raghuram Bhatt",
+          "Amit Bhandari"
+        ],
+        "answer": "Mahendra Singh Dhoni"
+      },
+      {
+        "id": 12,
+        "question": "Which of the following weightlifters was a member of parliament?",
+        "options": [
+          "Hansa Manral",
+          "K.C. Singh 'Baba'",
+          "Faiyaz Ahmed",
+          "Jagjit Singh"
+        ],
+        "answer": "K.C. Singh 'Baba'"
+      },
+      {
+        "id": 13,
+        "question": "Madhumita Bisht is associated with which sport?",
+        "options": ["Table Tennis", "Badminton", "Handball", "Lawn Tennis"],
+        "answer": "Badminton"
+      },
+      {
+        "id": 14,
+        "question": "Arjun Award winner Harshwanti Bisht is associated with:",
+        "options": ["Mountaineering", "Skiing", "Canoeing", "River Rafting"],
+        "answer": "Mountaineering"
+      },
+      {
+        "id": 15,
+        "question": "When did Bachendri Pal conquer Mount Everest?",
+        "options": [
+          "May 24, 1981",
+          "May 24, 1983",
+          "May 24, 1984",
+          "May 24, 1985"
+        ],
+        "answer": "May 24, 1984"
+      },
+      {
+        "id": 16,
+        "question": "Who is the only Bharat Ratna recipient from the state? (UDA 2009)",
+        "options": [
+          "Bhimsen Joshi",
+          "H.S. Bahuguna",
+          "Govind Ballabh Pant",
+          "Gen. B.C. Joshi"
+        ],
+        "answer": "Govind Ballabh Pant"
+      },
+      {
+        "id": 17,
+        "question": "Who is the first poet from the state to receive the Jnanpith Award?",
+        "options": [
+          "Sumitra Nandan Pant",
+          "Ballabh Dobhal",
+          "Shailesh Matiyani",
+          "Ganga Prasad Vimal"
+        ],
+        "answer": "Sumitra Nandan Pant"
+      },
+      {
+        "id": 18,
+        "question": "Sumitra Nandan Pant was awarded the Jnanpith Award in:",
+        "options": ["1965", "1955", "1967", "1968"],
+        "answer": "1968"
+      },
+      {
+        "id": 19,
+        "question": "Major Somnath Sharma, who was posthumously awarded the Param Vir Chakra in 1947, was associated with:",
+        "options": [
+          "Gorkha Rifles",
+          "Garhwal Rifles",
+          "Dogra Regiment",
+          "Kumaon Regiment"
+        ],
+        "answer": "Kumaon Regiment"
+      },
+      {
+        "id": 20,
+        "question": "Who among the following is/are related to the 'Ramon Magsaysay Award'?",
+        "options": [
+          "Chandi Prasad Bhatt",
+          "Deep Joshi",
+          "Anil Raturi",
+          "Both and (b)"
+        ],
+        "answer": "Both and (b)"
+      },
+      {
+        "id": 21,
+        "question": "Choose the correct pair:",
+        "options": [
+          "Shaitan Singh - Param Vir Chakra",
+          "Bhawani Dutt Joshi - Ashok Chakra",
+          "Kalu Mehra - Freedom Fighter",
+          "All pairs are correct"
+        ],
+        "answer": "All pairs are correct"
+      },
+      {
+        "id": 22,
+        "question": "Choose the incorrect pair:",
+        "options": [
+          "Dr. Harshwanti Bisht - Padma Bhushan",
+          "Shukdev Pandey - Padma Shri",
+          "Parimarjan Negi - Arjun Award",
+          "Deep Joshi - Ramon Magsaysay Award"
+        ],
+        "answer": "Dr. Harshwanti Bisht - Padma Bhushan"
+      },
+      {
+        "id": 23,
+        "question": "What was the name of the first Param Vir Chakra winner from Uttarakhand?",
+        "options": [
+          "Major Somnath Sharma",
+          "Major Gabar Singh",
+          "Major Shaitan Singh",
+          "Major Saurabh Kalia"
+        ],
+        "answer": "Major Somnath Sharma"
+      },
+      {
+        "id": 24,
+        "question": "Gabar Singh Negi is associated with:",
+        "options": [
+          "Param Vir Chakra",
+          "Victoria Cross",
+          "Mahavir Chakra",
+          "Ashok Chakra"
+        ],
+        "answer": "Victoria Cross"
+      },
+      {
+        "id": 25,
+        "question": "Who was the first from Uttarakhand to receive the Dronacharya Award?",
+        "options": [
+          "Hari Singh Thapa",
+          "Unmukt Chand",
+          "Manish Pandey",
+          "None of these"
+        ],
+        "answer": "None of these"
+      },
+      {
+        "id": 26,
+        "question": "Who was the first from Uttarakhand to receive the Rajiv Gandhi Khel Ratna Award?",
+        "options": [
+          "Mohammad Ranjan Negi",
+          "Jaspal Rana",
+          "Abhinav Sindhu",
+          "None of these"
+        ],
+        "answer": "Jaspal Rana"
+      },
+      {
+        "id": 27,
+        "question": "When was the military cantonment established in Chakrata?",
+        "options": ["1857 AD", "1862 AD", "1869 AD", "None of these"],
+        "answer": "1869 AD"
+      },
+      {
+        "id": 28,
+        "question": "Who was awarded the 'National Adventure Award' in 1994?",
+        "options": [
+          "Suman Kutiyal",
+          "Harshwanti Bisht",
+          "Chandraprabha Aitwal",
+          "None of these"
+        ],
+        "answer": "Chandraprabha Aitwal"
+      },
+      {
+        "id": 29,
+        "question": "Where is the headquarters of the 'Garhwal Regiment' located?",
+        "options": ["Chakrata", "Ranikhet", "Dehradun", "Lansdowne"],
+        "answer": "Lansdowne"
+      },
+      {
+        "id": 30,
+        "question": "Choose the incorrect pair:",
+        "options": [
+          "Deep Joshi - Ramon Magsaysay",
+          "Sundar Lal Bahuguna - Ramon Magsaysay",
+          "Govind Ballabh Pant - Bharat Ratna",
+          "Hansa Manral - Dronacharya Award"
+        ],
+        "answer": "Sundar Lal Bahuguna - Ramon Magsaysay"
+      },
+      {
+        "id": 31,
+        "question": "In which year did Chandi Prasad Bhatt receive the Ramon Magsaysay Award?",
+        "options": ["1981", "1982", "1984", "1985"],
+        "answer": "1982"
+      },
+      {
+        "id": 32,
+        "question": "Who among the following has not received the Padma Shri award?",
+        "options": [
+          "Pushpesh Pant",
+          "Dr. Shekhar Pathak",
+          "Anil Prakash Joshi",
+          "K.P. Nautiyal"
+        ],
+        "answer": "K.P. Nautiyal"
+      },
+      {
+        "id": 33,
+        "question": "Parimarjan Negi is a famous player of:",
+        "options": ["Cricket", "Chess", "Judo", "Hockey"],
+        "answer": "Chess"
+      },
+      {
+        "id": 34,
+        "question": "Which of the following pairs is incorrect?",
+        "options": [
+          "Chandraprabha Aitwal - Mountaineer",
+          "Unmukt Chand - Cricket",
+          "Ekta Bisht - Cricket",
+          "Bachendri Pal - Shooting"
+        ],
+        "answer": "Bachendri Pal - Shooting"
+      },
+      {
+        "id": 35,
+        "question": "Who among the following advocated for the Garhwali soldiers in the 'Peshawar Kand'?",
+        "options": [
+          "Mukundi Lal",
+          "Anusuya Prasad Jugudan",
+          "Tara Dutt Gairola",
+          "Mathura Prasad Naithani"
+        ],
+        "answer": "Mukundi Lal"
+      },
+      {
+        "id": 36,
+        "question": "Which player from Uttarakhand won a gold medal in the 22nd Commonwealth Games?",
+        "options": [
+          "Jaspal Rana",
+          "Lakshya Sen",
+          "Vandana Kataria",
+          "Virag Sen"
+        ],
+        "answer": "Lakshya Sen"
+      },
+      {
+        "id": 37,
+        "question": "In October 2022, on which peak did trainees from the Nehru Institute of Mountaineering die due to an avalanche?",
+        "options": [
+          "Tabchu-1",
+          "Chandrabhaga",
+          "Draupadi ka Danda-2",
+          "Hanuman Tibba"
+        ],
+        "answer": "Draupadi ka Danda-2"
+      },
+      {
+        "id": 38,
+        "question": "When did Bachendri Pal receive the Padma Shri award?",
+        "options": ["1982", "1996", "1988", "1984"],
+        "answer": "1984"
+      },
+      {
+        "id": 39,
+        "question": "Which of the following players is not a resident of Uttarakhand?",
+        "options": [
+          "Lakshya Sen",
+          "Unmukt Chand",
+          "Ekta Bisht",
+          "Madhumita Goswami"
+        ],
+        "answer": "Madhumita Goswami"
+      },
+      {
+        "id": 40,
+        "question": "Match the following:",
+        "pairs": [
+          "A) Darban Singh Negi - 1. Victoria Cross",
+          "B) Govind Ballabh Pant - 2. Bharat Ratna",
+          "C) Hansa Manral - 3. Dronacharya Award",
+          "D) Deep Joshi - 4. Ramon Magsaysay"
+        ],
+        "options": ["A4 B3 C2 D1", "A1 B2 C3 D4", "A2 B4 C1 D3", "A3 B4 C2 D1"],
+        "answer": "A3 B4 C2 D1"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: Science - Technology, Environment, and Ancient Measurement Systems",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Where is the UK Biotechnology Council located?",
+        "options": ["Pantnagar", "Haldwani", "Patwadangar", "Dehradun"],
+        "answer": "Haldwani"
+      },
+      {
+        "id": 2,
+        "question": "How many 'mutthi' are in one kilogram?",
+        "options": ["16 mutthi", "20 mutthi", "32 mutthi", "8 mutthi"],
+        "answer": "16 mutthi"
+      },
+      {
+        "id": 3,
+        "question": "Where is the largest biodiversity park located?",
+        "options": ["Pantnagar", "Dehradun", "Haldwani", "Srinagar"],
+        "answer": "Haldwani"
+      },
+      {
+        "id": 4,
+        "question": "The Hermitage building has been established to provide the latest IT technologies in one place in:",
+        "options": ["Nainital", "Haridwar", "Dehradun", "Jolly Grant"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 5,
+        "question": "An IT park has been established in an area of 65 acres in:",
+        "options": ["Dehradun", "Pantnagar", "Haldwani", "Kotdwar"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 6,
+        "question": "The Biotechnology Institute has been established in:",
+        "options": ["Patwadangar", "Pantnagar", "Roorkee", "Dehradun"],
+        "answer": "Patwadangar"
+      },
+      {
+        "id": 7,
+        "question": "When was the e-District scheme launched in the state?",
+        "options": ["2001", "2005", "2009", "2010"],
+        "answer": "2009"
+      },
+      {
+        "id": 8,
+        "question": "The Ganga River was declared a 'National River' on:",
+        "options": [
+          "November 8, 2008",
+          "November 4, 2008",
+          "December 10, 2009",
+          "December 25, 2014"
+        ],
+        "answer": "November 4, 2008"
+      },
+      {
+        "id": 9,
+        "question": "Which of the following is related to remote sensing?",
+        "options": ["UCOST", "USAC", "UCB", "USERC"],
+        "answer": "USAC"
+      },
+      {
+        "id": 10,
+        "question": "Where has Vigyan Dham been established?",
+        "options": ["Dehradun", "Haridwar", "Srinagar", "Rishikesh"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 11,
+        "question": "One 'naali' of land is equal to:",
+        "options": [
+          "100 square meters",
+          "200 square meters",
+          "500 square meters",
+          "1000 square meters"
+        ],
+        "answer": "200 square meters"
+      },
+      {
+        "id": 12,
+        "question": "Which of the following is not correctly matched?",
+        "options": [
+          "UCB - Haldwani",
+          "USERC - Dehradun",
+          "USAC - Dehradun",
+          "UCOST - Mussoorie"
+        ],
+        "answer": "UCOST - Mussoorie"
+      },
+      {
+        "id": 13,
+        "question": "Which of the following is not correctly matched?",
+        "options": [
+          "IT Academy - Narendra Nagar",
+          "IT Park - Srinagar",
+          "Biotechnology Council - Haldwani, Pantnagar",
+          "Software Technology Park - Dehradun"
+        ],
+        "answer": "IT Park - Srinagar"
+      },
+      {
+        "id": 14,
+        "question": "In Uttarakhand, the 'Sparsh Ganga Abhiyan' was launched in:",
+        "options": ["2006", "2009", "2011", "2013"],
+        "answer": "2009"
+      },
+      {
+        "id": 15,
+        "question": "Which city is being developed as a Solar City by the central government?",
+        "options": ["Haridwar", "Nainital", "Dehradun", "Almora"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 16,
+        "question": "Where is the IT Park located in Uttarakhand? (Assistant Engineer)",
+        "options": ["Haridwar", "Dehradun", "Udham Singh Nagar", "Pauri"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 17,
+        "question": "Where is India's first Liquid Mirror Telescope located? (Patwari/Lekhpal - 2023)",
+        "options": ["Ramgarh", "Hartola", "Devasthal", "Patwadangar"],
+        "answer": "Devasthal"
+      },
+      {
+        "id": 18,
+        "question": "Where has the Indian Meteorological Department established a 'Doppler Weather Radar' in Uttarakhand? (PCS - 2023)",
+        "options": ["Dehradun", "Chakrata", "Mukteshwar", "Chamoli"],
+        "answer": "Mukteshwar"
+      },
+      {
+        "id": 19,
+        "question": "Where is Vigyan Dham located in Uttarakhand? (Forest Guard - 2023)",
+        "options": ["Pauri", "Karnaprayag", "Dehradun", "Mussoorie"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 20,
+        "question": "Which state hosted India's first Rural Science Congress held in February 2023? (Junior Assistant - 2023)",
+        "options": ["Andhra Pradesh", "Kerala", "Maharashtra", "Uttarakhand"],
+        "answer": "Uttarakhand"
+      },
+      {
+        "id": 21,
+        "question": "Who among the following has been appointed as the Director General of the Uttarakhand State Council for Science and Technology (UCOST) by the Uttarakhand government? (Forest Guard - 2023)",
+        "options": [
+          "Dr. Rajendra Dobhal",
+          "Dr. Anil Prakash Joshi",
+          "Prof. Durgesh Pant",
+          "None of the above"
+        ],
+        "answer": "Prof. Durgesh Pant"
+      },
+      {
+        "id": 22,
+        "question": "How many 'mutthi' are in one 'naali' of land in Uttarakhand? (Forest Guard - 2023)",
+        "options": ["15", "16", "17", "18"],
+        "answer": "16"
+      },
+      {
+        "id": 23,
+        "question": "In which district of Uttarakhand was the e-District project first launched as a pilot project? (Patwari/Lekhpal - 2023)",
+        "options": ["Pauri", "Rudraprayag", "Nainital", "Almora"],
+        "answer": "Pauri"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand Prominent Personalities",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Who is the author of the book 'Garhwal Paintings'? (PCS Main: 2006)",
+        "options": ["Mukundi Lal", "H.G. Walton", "Molaram", "Patiram"],
+        "answer": "Mukundi Lal"
+      },
+      {
+        "id": 2,
+        "question": "Who is considered the first freedom fighter of Kumaon? (PCS Main: 2006)",
+        "options": [
+          "Kalu Mehra",
+          "Mohan Singh Mehta",
+          "Badridutt Pandey",
+          "Govind Ballabh Pant"
+        ],
+        "answer": "Kalu Mehra"
+      },
+      {
+        "id": 3,
+        "question": "Which freedom fighter is known as 'Garh Kesari'? (PCS Main: 2003, 2009 & Group: 2016)",
+        "options": [
+          "Gumani Pant",
+          "Indramani Badoni",
+          "Anusuya Prasad Bahuguna",
+          "Badridutt Pandey"
+        ],
+        "answer": "Badridutt Pandey"
+      },
+      {
+        "id": 4,
+        "question": "Sumitranandan Pant is famous as a (PCS Main: 2003)",
+        "options": [
+          "Devotional poet",
+          "Progressive poet",
+          "Chhayavadi poet",
+          "Heroic poet"
+        ],
+        "answer": "Chhayavadi poet"
+      },
+      {
+        "id": 5,
+        "question": "Which of the following is not correctly matched? (PCS Main: 2003)",
+        "options": [
+          "Bachendri Pal - Mountaineering",
+          "Bindeshwari Pathak - Social Worker",
+          "Giriraj Kishore - Litterateur",
+          "Sunder Lal Bahuguna - Musician"
+        ],
+        "answer": "Sunder Lal Bahuguna - Musician"
+      },
+      {
+        "id": 6,
+        "question": "Who is famous as 'Vriksh Manav' (Tree Man)? (PCS Main: 2003 & Group G: 2018)",
+        "options": [
+          "Govind Ballabh Pant",
+          "Chandi Prasad Bhatt",
+          "Sunder Lal Bahuguna",
+          "Vishveshwar Dutt Saklani"
+        ],
+        "answer": "Vishveshwar Dutt Saklani"
+      },
+      {
+        "id": 7,
+        "question": "Who among the following is a renowned painter?",
+        "options": [
+          "Badridutt Pandey",
+          "Sudhir Ranjan Khastgir",
+          "Shailesh Matiyani",
+          "Sunder Lal Bahuguna"
+        ],
+        "answer": "Sudhir Ranjan Khastgir"
+      },
+      {
+        "id": 8,
+        "question": "Which leader died in jail in 1942 due to a hunger strike? (PCS Main: 2003)",
+        "options": [
+          "Daulat Ram",
+          "Narendra Dutt Saklani",
+          "Dev Suman",
+          "Manvendra Singh"
+        ],
+        "answer": "Dev Suman"
+      },
+      {
+        "id": 9,
+        "question": "Who is known by the name 'Dharan'? (PCS Main: 2003 & Group G: 2016, RO/ARO: 2023)",
+        "options": [
+          "Badridutt Pandey",
+          "Hari Krishna Raturi",
+          "Mukundi Lal",
+          "Shiv Prasad Dabral"
+        ],
+        "answer": "Shiv Prasad Dabral"
+      },
+      {
+        "id": 10,
+        "question": "Who is known as 'Kumaon Kesari'? (PCS Main: 2003, 2009 & Group G: 2016)",
+        "options": [
+          "Govind Ballabh Pant",
+          "Hargovind Pant",
+          "Badridutt Pandey",
+          "Indra Singh Nayal"
+        ],
+        "answer": "Badridutt Pandey"
+      },
+      {
+        "id": 11,
+        "question": "Badridutt Pandey was:",
+        "options": [
+          "Leader of the Coolie-Begar Movement",
+          "Member of the Indian National Congress",
+          "Member of the Hindu Mahasabha",
+          "All of the above"
+        ],
+        "answer": "Leader of the Coolie-Begar Movement"
+      },
+      {
+        "id": 12,
+        "question": "Who is the author of 'Borivali to Boribandar'? (PCS Main: 2004)",
+        "options": [
+          "Ramesh Chandra Shah",
+          "Gaura Pant 'Shivani'",
+          "Mrinal Pande",
+          "Shailesh Matiyani"
+        ],
+        "answer": "Shailesh Matiyani"
+      },
+      {
+        "id": 13,
+        "question": "Who among the following was given the title 'Pandit'? (EO/RI: 2023)",
+        "options": [
+          "Nain Singh Rawat",
+          "Gabar Singh",
+          "Madho Singh Bhandari",
+          "Darban Singh"
+        ],
+        "answer": "Nain Singh Rawat"
+      },
+      {
+        "id": 14,
+        "question": "Who is the only person from the state to receive the Jnanpith Award for literature? (UDA: 2009)",
+        "options": [
+          "Liladhar Jagudi",
+          "Viren Dangwal",
+          "Sumitranandan Pant",
+          "Ila Chandra Joshi"
+        ],
+        "answer": "Sumitranandan Pant"
+      },
+      {
+        "id": 15,
+        "question": "Who is the only person from Uttarakhand to receive the 'Bharat Ratna'? (UDA: 2009)",
+        "options": [
+          "Govind Ballabh Pant",
+          "Gen. B.C. Joshi",
+          "Bhimsen Joshi",
+          "H.N. Bahuguna"
+        ],
+        "answer": "Govind Ballabh Pant"
+      },
+      {
+        "id": 16,
+        "question": "Who is the first woman from Uttarakhand to go to jail during the freedom movement?",
+        "options": [
+          "Sarla Behen",
+          "Kunti Verma",
+          "Bishni Devi Shah",
+          "Vidyavati Dobhal"
+        ],
+        "answer": "Bishni Devi Shah"
+      },
+      {
+        "id": 17,
+        "question": "Who is called the 'Lakshmibai of Kumaon'?",
+        "options": [
+          "Karnavati",
+          "Jiya Rani",
+          "Kamalendu Mati Shah",
+          "Bishni Devi Shah"
+        ],
+        "answer": "Jiya Rani"
+      },
+      {
+        "id": 18,
+        "question": "Who is the author of the Garhwali play 'Bindra'? (Forest Guard: 2023)",
+        "options": [
+          "Dr. Haridutt Bhatt 'Shailesh'",
+          "Dr. Purushottam Dobhal",
+          "Manglesh Dabral",
+          "Bhagwati Prasad Chandola"
+        ],
+        "answer": "Dr. Purushottam Dobhal"
+      },
+      {
+        "id": 19,
+        "question": "Ranveer Singh Bisht is associated with (PCS: 2010)",
+        "options": ["Painting", "Literature", "Military", "Science"],
+        "answer": "Painting"
+      },
+      {
+        "id": 20,
+        "question": "Who is the first woman Major General not only in India but in the world?",
+        "options": [
+          "Prabha Kiran",
+          "Bhawna Gurunani",
+          "Kumari Maya Tamta",
+          "Diksha Bisht"
+        ],
+        "answer": "Kumari Maya Tamta"
+      },
+      {
+        "id": 21,
+        "question": "Who is the woman honored with the Dronacharya Award?",
+        "options": [
+          "Shalini Shah",
+          "Hansa Manral",
+          "Pratibha Upadhyay",
+          "Niharika Singh"
+        ],
+        "answer": "Hansa Manral"
+      },
+      {
+        "id": 22,
+        "question": "Who is the first 'Mouth and Foot Painting Artist' of Uttarakhand?",
+        "options": [
+          "Ramesh Bisht",
+          "Anand Singh Bisht",
+          "Hari Ram Kohli",
+          "Ganga Singh Rana"
+        ],
+        "answer": "Hari Ram Kohli"
+      },
+      {
+        "id": 23,
+        "question": "Who said, 'If we have to die, it is better to die proclaiming our principles and beliefs publicly'?",
+        "options": [
+          "Badridutt Pandey",
+          "Shridev Suman",
+          "Indramani Badoni",
+          "Bhawani Singh Rawat"
+        ],
+        "answer": "Shridev Suman"
+      },
+      {
+        "id": 24,
+        "question": "Who is credited with starting the Gandhian movement in Uttarakhand?",
+        "options": [
+          "Prayag Dutt Pant",
+          "Govind Ballabh Pant",
+          "Badridutt Pandey",
+          "Hargovind Pant"
+        ],
+        "answer": "Prayag Dutt Pant"
+      },
+      {
+        "id": 25,
+        "question": "Who is known as the 'Advertising Guru'?",
+        "options": [
+          "Shekhar Joshi",
+          "Prasoon Joshi",
+          "Ruskin Bond",
+          "Shekhar Pathak"
+        ],
+        "answer": "Prasoon Joshi"
+      },
+      {
+        "id": 26,
+        "question": "Which of the following is not correctly matched? (Lecturer: 09)",
+        "options": [
+          "Khandimsar Bhatt - Environment",
+          "Bachendri Pal - Mountaineering",
+          "Jaspal Rana - Literature",
+          "B.C. Khanduri - Politics"
+        ],
+        "answer": "Jaspal Rana - Literature"
+      },
+      {
+        "id": 27,
+        "question": "Who established 'Shanti Kunj' in Haridwar? (Lecturer: 09)",
+        "options": [
+          "Swami Ramtirth",
+          "Swami Sahajanand",
+          "Pt. Shri Ram Sharma",
+          "Vivekananda"
+        ],
+        "answer": "Pt. Shri Ram Sharma"
+      },
+      {
+        "id": 28,
+        "question": "Who led the Chipko Movement? (Lecturer: 09)",
+        "options": ["Gaura Devi", "Sarla Devi", "Radha Bhatt", "Teelu Rauteli"],
+        "answer": "Gaura Devi"
+      },
+      {
+        "id": 29,
+        "question": "Which of the following names and surnames is not correctly matched?",
+        "options": [
+          "Lok Ratna Pant - Gumani",
+          "Sumitranandan Pant - Saundarya Kavi",
+          "Nain Singh Rawat - Maulik Pandit",
+          "Girish Tiwari - Gorada"
+        ],
+        "answer": "Girish Tiwari - Gorada"
+      },
+      {
+        "id": 30,
+        "question": "Who was known as 'Gosai Dutt' in childhood? (RO/ARO: 2023)",
+        "options": [
+          "Lok Ratna Pant",
+          "Sumitranandan Pant",
+          "Govind Ballabh Pant",
+          "Gangadutt Upreti"
+        ],
+        "answer": "Sumitranandan Pant"
+      },
+      {
+        "id": 31,
+        "question": "The 'Dola-Palki' movement was related to which community? (EO/RL: 2023)",
+        "options": [
+          "Other Backward Class",
+          "Kshatriya Caste",
+          "Scheduled Tribe",
+          "Dalit"
+        ],
+        "answer": "Dalit"
+      },
+      {
+        "id": 32,
+        "question": "Who was the first elected Member of Parliament from the Garhwal Lok Sabha constituency? (RO/ARO: 2023)",
+        "options": [
+          "Bhakt Darshan",
+          "Kamalendu Mati Shah",
+          "D.D. Pant",
+          "Mukundi Lal"
+        ],
+        "answer": "Bhakt Darshan"
+      },
+      {
+        "id": 33,
+        "question": "Which of the following names and their fields of work is not correctly matched?",
+        "options": [
+          "Nilambar Pant - Space Science",
+          "Khadag Singh Valdiya - Geology",
+          "Aditya Narayan Purohit - Agricultural Science",
+          "Devidan Pant - Medical Science"
+        ],
+        "answer": "Devidan Pant - Medical Science"
+      },
+      {
+        "id": 34,
+        "question": "Which of the following names and their fields of work is not correctly matched?",
+        "options": [
+          "Uttam Das - Music",
+          "Avdhesh Kaushal - Environment",
+          "Vidyavati Dobhal - Film",
+          "Narayan Singh Thapa - Cinematography"
+        ],
+        "answer": "Vidyavati Dobhal - Film"
+      },
+      {
+        "id": 35,
+        "question": "Who among the following is known as the expert of the 'Bol Sagar'?",
+        "options": [
+          "Uttam Das",
+          "Keshavdas Anuragi",
+          "Yashodhar Mathpal",
+          "Chandra Singh Rahi"
+        ],
+        "answer": "Uttam Das"
+      },
+      {
+        "id": 36,
+        "question": "Where was the Garhwal Seva Sangh established in 1936? (RO/ARO: 2023)",
+        "options": ["Allahabad", "Delhi", "Dehradun", "Lucknow"],
+        "answer": "Delhi"
+      },
+      {
+        "id": 37,
+        "question": "Who established the 'Himalayan Institute Hospital Trust' in Jolly Grant in 1989?",
+        "options": [
+          "Swami Matmanan",
+          "Swami Ram",
+          "Swami Shivanand",
+          "Acharya Shri Ram Sharma"
+        ],
+        "answer": "Swami Ram"
+      },
+      {
+        "id": 38,
+        "question": "The Chipko Movement started as a reaction to which of the following? (EO/RL: 2023)",
+        "options": [
+          "Shell Sports Goods Factory",
+          "Simon Sports Goods Factory",
+          "Springer Sports Goods Factory",
+          "Southampton Sports Goods Factory"
+        ],
+        "answer": "Simon Sports Goods Factory"
+      },
+      {
+        "id": 39,
+        "question": "Who laid the foundation of the Vivekananda Parvatiya Krishi Anusandhan Sansthan in Almora in 1924? (RO/ARO: 2023)",
+        "options": [
+          "Nain Singh",
+          "Boshi Sen",
+          "Nilambar Joshi",
+          "Dr. Khajan Chand"
+        ],
+        "answer": "Boshi Sen"
+      },
+      {
+        "id": 40,
+        "question": "Whose famous work is 'Aryon ka Adi Niwas - Madhya Himalaya'?",
+        "options": [
+          "Bhajan Singh 'Singh'",
+          "Dr. Shiv Prasad Dabral",
+          "Dr. Pitambar Dutt Badthwal",
+          "Mukundram Badthwal"
+        ],
+        "answer": "Bhajan Singh 'Singh'"
+      },
+      {
+        "id": 41,
+        "question": "Who wrote the history of Uttarakhand in 12 volumes?",
+        "options": [
+          "Dr. Shiv Prasad Dabral 'Charan'",
+          "Bhajan Singh",
+          "Dr. Pitambar Dutt Badthwal",
+          "Lalita Prasad Naithani"
+        ],
+        "answer": "Dr. Shiv Prasad Dabral 'Charan'"
+      },
+      {
+        "id": 42,
+        "question": "Which of the following scholars from the state received titles like 'Mahamahopadhyay' and 'Shambarth Maharath'? (Computer Operator: 2016)",
+        "options": [
+          "Dr. Shashidhar Sharma",
+          "Prof. D.D. Sharma",
+          "Acharya Bhaskaranand",
+          "Dr. Shiv Prasad Dabral 'Charan'"
+        ],
+        "answer": "Dr. Shashidhar Sharma"
+      },
+      {
+        "id": 43,
+        "question": "Whose famous play is 'Jai Bharat - Jai Uttarakhand'?",
+        "options": [
+          "Rajendra Dhasmana",
+          "Liladhar Jagudi",
+          "Shailesh Matiyani",
+          "Manohar Shyam Joshi"
+        ],
+        "answer": "Rajendra Dhasmana"
+      },
+      {
+        "id": 44,
+        "question": "Who wrote the book 'Garhwal Ancient and Modern'? (Junior Assistant: 2018)",
+        "options": [
+          "Hari Krishna Raturi",
+          "Chandra Singh Garhwali",
+          "William Sax",
+          "Patiram"
+        ],
+        "answer": "Patiram"
+      },
+      {
+        "id": 45,
+        "question": "Who wrote the famous poem 'Pahad Ke Aage Bhitar Pahad' after being affected by the Muzaffarnagar incident during the statehood movement?",
+        "options": [
+          "Balwant Manral",
+          "Manohar Shyam Joshi",
+          "Virendra Dangwal",
+          "Girish Tiwari 'Girda'"
+        ],
+        "answer": "Balwant Manral"
+      },
+      {
+        "id": 46,
+        "question": "Who wrote the famous creation 'Uttarakhand Kitna Sach Aur Kitna Chhal'?",
+        "options": [
+          "Govind Chatak",
+          "Manohar Shyam Joshi",
+          "Surendra Singh Pangti",
+          "Satya Prasad Raturi"
+        ],
+        "answer": "Surendra Singh Pangti"
+      },
+      {
+        "id": 47,
+        "question": "Who is the author of the story 'Garhwali Thaat'? (Patwari Lekhpal: 2023)",
+        "options": [
+          "Govind Prasad Ghildiyal",
+          "Dayanand Bahuguna",
+          "Sadanand Kukreti",
+          "Bhairav Dutt Dhuliya"
+        ],
+        "answer": "Sadanand Kukreti"
+      },
+      {
+        "id": 48,
+        "question": "Who is famous in the history of Garhwal as 'Naak Katne Wali Rani' (Nose Cutting Queen)? (PCS 2012 & Group G: 2017)",
+        "options": [
+          "Rani Karnavati",
+          "Rani Guleria",
+          "Rani Nepaliya",
+          "Rani Kamlendumati"
+        ],
+        "answer": "Rani Karnavati"
+      },
+      {
+        "id": 49,
+        "question": "Who is known as 'Uttarakhand's Gandhi'? (PCS: 2012, Group G: 2016, 2017, Lecturer: 2019)",
+        "options": [
+          "Indramani Badoni",
+          "Sunderlal Bahuguna",
+          "Gaura Devi",
+          "Madho Singh Bhandari"
+        ],
+        "answer": "Indramani Badoni"
+      },
+      {
+        "id": 50,
+        "question": "Who among the following is not a Kumaoni writer? (Village Development Officer: 2018)",
+        "options": [
+          "Gumani",
+          "Gauri Dutt Pandey 'Gorda'",
+          "Shivdutt Sati",
+          "Liladhar Jagudi"
+        ],
+        "answer": "Liladhar Jagudi"
+      },
+      {
+        "id": 51,
+        "question": "When was Gaura Pant (Shivani) born? (Computer Operator: 2016)",
+        "options": ["1913", "1923", "1932", "1823"],
+        "answer": "1923"
+      },
+      {
+        "id": 52,
+        "question": "Molaram was a famous: (Village Development Officer: 2016)",
+        "options": ["Painter", "Historian", "Katyuri ruler", "None of these"],
+        "answer": "Painter"
+      },
+      {
+        "id": 53,
+        "question": "Choose the correct pair: (Junior Assistant: 2016)",
+        "options": [
+          "Chipko Movement - Women's Safety",
+          "Mixed Forest (Mishrit Van) - Anil Kumar Pandey",
+          "Maiti Movement - Tree Plantation",
+          "None of the above"
+        ],
+        "answer": "Maiti Movement - Tree Plantation"
+      },
+      {
+        "id": 54,
+        "question": "Pushpesh Pant is known in which field? (Jail Guard: 2016)",
+        "options": [
+          "Politician",
+          "Scientist",
+          "Expert in International Affairs",
+          "Mathematician"
+        ],
+        "answer": "Expert in International Affairs"
+      },
+      {
+        "id": 55,
+        "question": "Who is the first woman Director General of Police in Uttarakhand? (Female Sub Inspector: 2016)",
+        "options": [
+          "Ashok Kant Sharan",
+          "Kanchan Chaudhary Bhattacharya",
+          "Kanchan Pant",
+          "None of the above"
+        ],
+        "answer": "Kanchan Chaudhary Bhattacharya"
+      },
+      {
+        "id": 56,
+        "question": "Choose the correct pair: (Female Sub Inspector: 2016)",
+        "options": [
+          "Badridutt Pandey's other name - Kumaon Kesari",
+          "Indramani Badoni's other name - Uttarakhand's Gandhi",
+          "Both and (b)",
+          "None of the above"
+        ],
+        "answer": "Both and (b)"
+      },
+      {
+        "id": 57,
+        "question": "By what name is Vishweshwar Dutt Saklani known? (Sugarcane Supervisor: 2016)",
+        "options": ["World Manav", "Tree Manav", "State Manav", "North Manav"],
+        "answer": "Tree Manav"
+      },
+      {
+        "id": 58,
+        "question": "By what other name is 'Irene Pant' known? (Female Constable: 2016)",
+        "options": [
+          "Daughter of Almora",
+          "Queen of Kumaon",
+          "Daughter-in-law of Pakistan",
+          "Both and (c)"
+        ],
+        "answer": "Both and (c)"
+      },
+      {
+        "id": 59,
+        "question": "Sumitranandan Pant received the Jnanpith Award for which of his creations? (Village Development Officer: 2016)",
+        "options": ["Lokayatana", "Veena", "Chidambara", "Pallava"],
+        "answer": "Chidambara"
+      },
+      {
+        "id": 60,
+        "question": "Shiv Prasad Dabral is a: (Computer Operator: 2016)",
+        "options": ["Politician", "Philosopher", "Historian", "Poet"],
+        "answer": "Historian"
+      },
+      {
+        "id": 81,
+        "question": "Who is the author of the book titled 'Hari Bhari Ummeed' based on the Chipko Movement?",
+        "options": [
+          "Dham Singh Negi",
+          "Vijay Jadhari",
+          "Ramchandra Guha",
+          "Shekhar Pathak"
+        ],
+        "answer": "Shekhar Pathak"
+      },
+      {
+        "id": 82,
+        "question": "Which story by Shekhar Joshi was made into a film by the Children's Film Society?",
+        "options": ["Kosi Ka Ghatwar", "Galta Loha", "Halkaha", "Chajju"],
+        "answer": "Chajju"
+      },
+      {
+        "id": 83,
+        "question": "Dr. Pitambar Dutt Barthwal is the first person to receive a D.Litt. degree in Hindi literature. In which language did he present his thesis?",
+        "options": ["English", "Hindi", "Kumaoni", "Garhwali"],
+        "answer": "English"
+      },
+      {
+        "id": 84,
+        "question": "'Gosai Dutt' is the original name of which of the following writers?",
+        "options": [
+          "Pitambar Dutt Barthwal",
+          "Sumitranandan Pant",
+          "Manglesh Dabral",
+          "Shekhar Joshi"
+        ],
+        "answer": "Sumitranandan Pant"
+      },
+      {
+        "id": 85,
+        "question": "Who was first awarded the Khel Ratna Award from Uttarakhand?",
+        "options": [
+          "Jaspal Rana",
+          "Ekta Bisht",
+          "Meir Ranjan Negi",
+          "Chandraprabha Aitwal"
+        ],
+        "answer": "Jaspal Rana"
+      },
+      {
+        "id": 86,
+        "question": "In which year was the Uttarakhand Gaurav Samman started?",
+        "options": ["2020", "2021", "2022", "2019"],
+        "answer": "2021"
+      },
+      {
+        "id": 87,
+        "question": "Which of the following names was not on the 2022 Uttarakhand Gaurav Samman list?",
+        "options": [
+          "Biren Dangwal",
+          "Ajit Doval",
+          "Narendra Singh Negi",
+          "Girish Chandra Tiwari"
+        ],
+        "answer": "Narendra Singh Negi"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand Organizations, Institutions, and Museums",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Where is the headquarters of the Indian Survey Department located? (PCS Pre: 2007)",
+        "options": ["Chandigarh", "Hyderabad", "Dehradun", "New Delhi"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 2,
+        "question": "Where is the National Academy of Public Administration located? (PCS Main: 2003)",
+        "options": ["Dehradun", "Mussoorie", "Haridwar", "Ranikhet"],
+        "answer": "Mussoorie"
+      },
+      {
+        "id": 3,
+        "question": "Where is the Uttarakhand Administrative Training Academy located?",
+        "options": ["Dehradun", "Haridwar", "Tehri", "Roorkee"],
+        "answer": "Roorkee"
+      },
+      {
+        "id": 4,
+        "question": "Where was the State Observatory established in 1955?",
+        "options": ["Nainital", "Uttarkashi", "Pithoragarh", "Dehradun"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 5,
+        "question": "In which year was the State Public Service Commission formed?",
+        "options": ["2000", "2001", "2002", "2003"],
+        "answer": "2001"
+      },
+      {
+        "id": 6,
+        "question": "In which year was the Indian Institute of Forest Research established in Dehradun?",
+        "options": ["1906", "1947", "1954", "1975"],
+        "answer": "1906"
+      },
+      {
+        "id": 7,
+        "question": "Where is the National Remote Sensing Institute located?",
+        "options": ["New Delhi", "Dehradun", "Lucknow", "Nagpur"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 8,
+        "question": "Where was the Indian Institute of Management (IIM) established?",
+        "options": ["Haldwani", "Pantnagar", "Kashipur", "Haridwar"],
+        "answer": "Kashipur"
+      },
+      {
+        "id": 9,
+        "question": "Where is the Rajkiya Kendra located?",
+        "options": ["Haldwani", "Dehradun", "Kashipur", "None of these"],
+        "answer": "Kashipur"
+      },
+      {
+        "id": 10,
+        "question": "Where is the Himalayan Cultural Center located?",
+        "options": [
+          "Dehradun",
+          "Nainital",
+          "Bhimtal",
+          "Bholaram Museum (Tehri)"
+        ],
+        "answer": "Bhimtal"
+      },
+      {
+        "id": 11,
+        "question": "Where is the Indian Remote Sensing Institute located? (PCS Pre: 2012)",
+        "options": ["New Delhi", "Dehradun", "Lucknow", "Nagpur"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 12,
+        "question": "Where was the IIM established? (Group 'G': 2011)",
+        "options": ["Haldwani", "Pantnagar", "Kashipur", "Haridwar"],
+        "answer": "Kashipur"
+      },
+      {
+        "id": 13,
+        "question": "Where is the Rajkiya Kendra located? (Group 'G': 2011)",
+        "options": ["Haldwani", "Dehradun", "Kashipur", "None of these"],
+        "answer": "Kashipur"
+      },
+      {
+        "id": 14,
+        "question": "Which of the following is not correctly matched?",
+        "options": [
+          "Himalayan Cultural Center - Dehradun",
+          "Himalayan Museum - Nainital",
+          "Folk Culture Museum - Bhimtal",
+          "Bholaram Museum - Tehri"
+        ],
+        "answer": "Bholaram Museum - Tehri"
+      },
+      {
+        "id": 15,
+        "question": "Where was the Uttarakhand Renewable Energy Development Corporation established?",
+        "options": ["Dehradun", "Haridwar", "Pithoragarh", "Almora"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 16,
+        "question": "Where is the National Institute for the Visually Handicapped located?",
+        "options": ["Haridwar", "Dehradun", "Nainital", "K.S.N."],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 17,
+        "question": "Where was the ITBT established?",
+        "options": ["Roorkee", "Kashipur", "Haldwani", "Rishikesh"],
+        "answer": "Haldwani"
+      },
+      {
+        "id": 18,
+        "question": "In which district of the state was the Hydropower Institute recently established?",
+        "options": ["Tehri", "Roorkee", "Kashipur", "Pantnagar"],
+        "answer": "Tehri"
+      },
+      {
+        "id": 19,
+        "question": "Where has the Ministry of Defense established the Defense Agricultural Research Institute?",
+        "options": ["Dehradun", "Lansdowne", "Almora", "Chamoli"],
+        "answer": "Almora"
+      },
+      {
+        "id": 20,
+        "question": "Which of the following is not located in Dehradun?",
+        "options": [
+          "Survey of India",
+          "Institute of Drilling Technology",
+          "Industrial Toxicological Research Center",
+          "Indian Wildlife Institute"
+        ],
+        "answer": "Industrial Toxicological Research Center"
+      },
+      {
+        "id": 21,
+        "question": "Where was the Aryabhatta Research Institute of Observational Sciences (ARIES) established?",
+        "options": ["Dehradun", "Nainital", "Haridwar", "Roorkee"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 22,
+        "question": "Where is the Uttarakhand Judicial and Legal Academy located?",
+        "options": ["Dehradun", "Nainital", "Almora", "Haridwar"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 23,
+        "question": "Where was the Nehru Institute of Mountaineering established?",
+        "options": ["Uttarkashi"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "id": 24,
+        "question": "Where was Kumaon's first tuberculosis sanatorium established? (APO: 2011)",
+        "options": ["Bhowali"],
+        "answer": "Bhowali"
+      },
+      {
+        "id": 25,
+        "question": "Where is the Police Training Academy located?",
+        "options": ["Narendra Nagar"],
+        "answer": "Narendra Nagar"
+      },
+      {
+        "id": 26,
+        "question": "Where is the Wildlife Institute of India located? (APO: 2021)",
+        "options": ["Dehradun"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 27,
+        "question": "Where is the Institute of Medicinal and Aromatic Plants (CIMAP) established?",
+        "options": ["Pantnagar"],
+        "answer": "Pantnagar"
+      },
+      {
+        "id": 28,
+        "question": "Where is the Tasar Research Center located?",
+        "options": ["Majkhali"],
+        "answer": "Majkhali"
+      },
+      {
+        "id": 29,
+        "question": "Where is the State Disaster Mitigation and Management Center located?",
+        "options": ["Dehradun"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 30,
+        "question": "Where is the Vivekananda Parvatiya Krishi Anusandhan Sansthan established? (Upper Private Secretary - 2016, EO/RI: 2021)",
+        "options": ["Almora"],
+        "answer": "Almora"
+      },
+      {
+        "id": 31,
+        "question": "Where is the Lal Bahadur Shastri National Academy of Administration located? (PCS Pre: 2014)",
+        "options": ["Delhi", "Nainital", "Mussoorie", "Tehri"],
+        "answer": "Mussoorie"
+      },
+      {
+        "id": 32,
+        "question": "Who was the first chairman of the Uttarakhand Public Service Commission? (PCS Pre: 2016)",
+        "options": [
+          "Shri A.P. Navani",
+          "B.A.K. Das",
+          "Lt. Gen. G.S. Negi",
+          "Dr. M.C. Sati"
+        ],
+        "answer": "Shri A.P. Navani"
+      },
+      {
+        "id": 33,
+        "question": "Where is the Wadia Institute of Himalayan Geology located? (Assistant Accountant - Computer Operator: 2016)",
+        "options": ["Delhi", "Dehradun", "Nainital", "Almora"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 34,
+        "question": "Where is the Uday Shankar Dance and Drama Academy located? (Assistant Director - 2016)",
+        "options": ["Nainital", "Almora", "Srinagar", "Dehradun"],
+        "answer": "Almora"
+      },
+      {
+        "id": 35,
+        "question": "Where is the Indira Gandhi National Forest Academy located? (Jail Guard)",
+        "options": ["Nainital", "Bhimtal", "Dehradun", "Tehri"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 36,
+        "question": "Where is the Bhuvaneshwari Mahila Ashram located? (Female Sub Inspector: 2016)",
+        "options": [
+          "Anjani Sain (Tehri Garhwal)",
+          "Gairsain (Chamoli)",
+          "Kot (Bageshwar)",
+          "None of the above"
+        ],
+        "answer": "Anjani Sain (Tehri Garhwal)"
+      },
+      {
+        "id": 37,
+        "question": "Which of the following institutions are located in Dehradun? (Female Sub Inspector: 2016)",
+        "options": [
+          "Indian Remote Sensing Institute",
+          "Indian Military Academy",
+          "Defense Electronics Application Laboratory",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "id": 38,
+        "question": "In which district of Uttarakhand is the 'National Institute of Technology' located? (Female Constable: 2016)",
+        "options": [
+          "Pauri Garhwal",
+          "Udham Singh Nagar",
+          "Dehradun",
+          "Nainital"
+        ],
+        "answer": "Pauri Garhwal"
+      },
+      {
+        "id": 39,
+        "question": "Where is the Indian Institute of Management (IIM) located? (Female Constable: 2016)",
+        "options": ["Dehradun", "Kashipur", "Haridwar", "None of the above"],
+        "answer": "Kashipur"
+      },
+      {
+        "id": 40,
+        "question": "Where is the Folk Culture Museum located? (Patwari: 2016)",
+        "options": ["Khutani", "Ranikhet", "Kashipur", "Champawat"],
+        "answer": "Khutani"
+      },
+      {
+        "id": 41,
+        "question": "Where is the 'Wildlife Institute of India' located? (Patwari: 2016)",
+        "options": ["Chamoli", "Pithoragarh", "Dehradun", "Almora"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 42,
+        "question": "Where is the Herbal Research Institute located in Uttarakhand? (Patwari: 2016)",
+        "options": ["Pithoragarh", "Champawat", "Gopeshwar", "Bageshwar"],
+        "answer": "Gopeshwar"
+      },
+      {
+        "id": 43,
+        "question": "Where is the All India Institute of Medical Sciences (AIIMS) located in Uttarakhand? (Village Panchayat Development Officer: 2018)",
+        "options": ["Dehradun", "Rishikesh", "Kotdwar", "Haldwani"],
+        "answer": "Rishikesh"
+      },
+      {
+        "id": 44,
+        "question": "Where is the 'Wildlife Conservation Training Center' located in Uttarakhand? (Social Welfare Officer: 2017)",
+        "options": ["Almora", "Kalagarh", "Nainital", "Chamoli"],
+        "answer": "Kalagarh"
+      },
+      {
+        "id": 45,
+        "question": "Where is the Uttarakhand Tea Development Board established? (Social Welfare Officer: 2017)",
+        "options": ["Dehradun", "Bageshwar", "Almora", "None of the above"],
+        "answer": "Bageshwar"
+      },
+      {
+        "id": 46,
+        "question": "Where is the butterfly museum established by Frederic Smetacek located? (Seed Inspector: 2017)",
+        "options": ["Khurpatal", "Nainital", "Saat Tal", "Bhimtal"],
+        "answer": "Bhimtal"
+      },
+      {
+        "id": 47,
+        "question": "Who is credited with establishing the Kumaon Geology Institute? (UK PCS/RO/ARO: 2017)",
+        "options": [
+          "Dr. Khadak Singh Valdia",
+          "Dr. Kamal Joshi",
+          "Dr. Anil Prakash Joshi",
+          "Prof. Robert Koch"
+        ],
+        "answer": "Dr. Khadak Singh Valdia"
+      },
+      {
+        "id": 48,
+        "question": "When was the Nehru Institute of Mountaineering established? (State Supervisor 2017)",
+        "options": ["1947", "1965", "1991", "None of these"],
+        "answer": "1965"
+      },
+      {
+        "id": 49,
+        "question": "In which year was the headquarters of the Survey of India, established in Bengal, shifted to Dehradun? (Junior Assistant: 2018)",
+        "options": ["1940", "1941", "1942", "None of these"],
+        "answer": "1942"
+      },
+      {
+        "id": 50,
+        "question": "When was the Kumaon Mandal Vikas Nigam established? (Junior Assistant: 2016)",
+        "options": ["1976", "1980", "1992", "None of these"],
+        "answer": "1976"
+      },
+      {
+        "id": 51,
+        "question": "Where is the Irrigation Research Institute located in Uttarakhand? (Village Panchayat Development Officer: 2018)",
+        "options": ["Haridwar", "Kashipur", "Dehradun", "Roorkee"],
+        "answer": "Roorkee"
+      },
+      {
+        "id": 52,
+        "question": "When was the Survey of India, established in Bengal in 1767 AD, shifted to Dehradun? (PRO: 2021)",
+        "options": ["1942", "1802", "1788", "1796"],
+        "answer": "1942"
+      },
+      {
+        "id": 53,
+        "question": "Who is the founder of the 'Himalayan Environmental Studies and Conservation Organization'? (VDO: 2021)",
+        "options": [
+          "Dr. Khadak Singh Valdia",
+          "Dr. Kamal Joshi",
+          "Dr. Anil Prakash Joshi",
+          "Rajiv Nayan Bahuguna"
+        ],
+        "answer": "Dr. Anil Prakash Joshi"
+      },
+      {
+        "id": 54,
+        "question": "The 'Indian Veterinary Research Institute' in Mukteshwar was established in 1893 by whom? (VDO: 2021)",
+        "options": [
+          "Dr. Alfred Lingard",
+          "Victor Mohan Joshi",
+          "Dr. C.G. Blanfield",
+          "None of the above"
+        ],
+        "answer": "Dr. Alfred Lingard"
+      },
+      {
+        "id": 55,
+        "question": "Where is the 'Folk Culture Museum' located? (DEO: 2021)",
+        "options": ["Kalabungi", "Khutani", "Ranikhet", "Bagnath"],
+        "answer": "Khutani"
+      },
+      {
+        "id": 56,
+        "question": "When was the Forest Research Institute established? (PCS: 2022, 2023)",
+        "options": ["1896", "1906", "1910", "1950"],
+        "answer": "1906"
+      },
+      {
+        "id": 57,
+        "question": "Where has the Indian Meteorological Department established a Doppler Weather Radar? (PCS: 2022)",
+        "options": ["Dehradun", "Chakrata", "Mukteshwar", "Chamoli"],
+        "answer": "Mukteshwar"
+      },
+      {
+        "id": 58,
+        "question": "Which of the following institutions is not located in Uttarakhand? (Forester: 2022)",
+        "options": ["CBRI", "ONGC", "HAL", "BHEL"],
+        "answer": "HAL"
+      },
+      {
+        "id": 59,
+        "question": "In which district is the Govind Ballabh Pant State Museum located? (Steno Assistant: 2021)",
+        "options": ["Champawat", "Dehradun", "Haridwar", "Almora"],
+        "answer": "Almora"
+      },
+      {
+        "id": 60,
+        "question": "Where is the Uttarakhand Herb Research and Development Institute located? (Forest Guard: 2020)",
+        "options": ["Ramnagar", "Gopeshwar", "Bageshwar", "Jageshwar"],
+        "answer": "Gopeshwar"
+      },
+      {
+        "id": 61,
+        "question": "Which of the following pairs is correctly matched? (Patwari/Lekhpal: 2023)",
+        "options": [
+          "Wadia Institute of Himalayan Geology - Dehradun",
+          "Vivekananda Agricultural Research Institute - Pithoragarh",
+          "Indian Military Academy - Haridwar",
+          "High Altitude Plant Physiology Research Center - Chamoli"
+        ],
+        "answer": "Wadia Institute of Himalayan Geology - Dehradun"
+      },
+      {
+        "id": 62,
+        "question": "The Himalayan Spice Garden was established by the Forest Research Centre, Haldwani, in: (Patwari/Lekhpal: 2023)",
+        "options": [
+          "Sattal, Nainital",
+          "Pathri, Haridwar",
+          "Soni, Ranikhet",
+          "Vikasnagar, Dehradun"
+        ],
+        "answer": "Soni, Ranikhet"
+      },
+      {
+        "id": 63,
+        "question": "Which of the following is not correctly matched? (UK-EO/RI: 2023)",
+        "options": ["B.D.P.L.", "B.H.E.L.", "B.E.L.", "I.P.R.I."],
+        "answer": "I.P.R.I."
+      },
+      {
+        "id": 64,
+        "question": "Where was the M.S.M.E. Ministry's M.A.I.T.I. Dool Room established? (UK-EO/RI: 2023)",
+        "options": [
+          "Sidcul, Sitarganj",
+          "Sidcul, Haridwar",
+          "Sidcul, Sevakurd",
+          "Sidcul, Bajpur"
+        ],
+        "answer": "Sidcul, Sitarganj"
+      },
+      {
+        "id": 65,
+        "question": "Who founded the 'Happy Club' organization? (UK-EO/RI: 2023)",
+        "options": [
+          "Malti Devi",
+          "Tika Singh",
+          "Hargovind Pant",
+          "Govind Ballabh Pant"
+        ],
+        "answer": "Govind Ballabh Pant"
+      },
+      {
+        "id": 66,
+        "question": "Who is credited with the establishment of the Garhwal Regimental Centre? (UK-EO/RI: 2023)",
+        "options": [
+          "Darwan Singh Negi",
+          "Jaswant Singh Negi",
+          "Kunwar Singh Rawat",
+          "Balabhadra Singh Negi"
+        ],
+        "answer": "Darwan Singh Negi"
+      },
+      {
+        "id": 67,
+        "question": "In which year was the 'Parvatiya Rajya Parishad' established? (UK-EO/RI: 2023)",
+        "options": [
+          "June 25, 1967",
+          "June 25, 1968",
+          "June 25, 1969",
+          "June 25, 1970"
+        ],
+        "answer": "June 25, 1967"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: Education, Language, Literature, Books",
+    "questions": [
+      {
+        "id": 1,
+        "question": "In which district is Kanvashram located? (Village Panchayat Development Officer: 2016)",
+        "options": ["Chamoli", "Uttarkashi", "Pauri", "Tehri"],
+        "answer": "Pauri"
+      },
+      {
+        "id": 2,
+        "question": "Which is the main method of worshiping Shiva? (PCS Pre: 2007)",
+        "options": ["Madhya Pradesh", "Uttarakhand", "Haryana", "Assam"],
+        "answer": "Uttarakhand"
+      },
+      {
+        "id": 3,
+        "question": "In which year did Roorkee Engineering University acquire university status? (PCS Main: 2003)",
+        "options": ["5th IIT", "6th IIT", "7th IIT", "8th IIT"],
+        "answer": "7th IIT"
+      },
+      {
+        "id": 4,
+        "question": "Where is the Directorate of Higher Education located? (PCS Main: 2003)",
+        "options": ["Nainital", "Dehradun", "Roorkee", "Narendra Nagar"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 5,
+        "question": "The 'School Chalo' campaign is for children between which ages? (PCS Main: 2003)",
+        "options": [
+          "3 to 7 years",
+          "5 to 10 years",
+          "6 to 12 years",
+          "6 to 14 years"
+        ],
+        "answer": "6 to 14 years"
+      },
+      {
+        "id": 6,
+        "question": "Where is the State Educational Research and Training Institute located? (PCS Main: 2003)",
+        "options": ["Bhimtal", "Narendra Nagar", "Ghurdaur", "Srinagar"],
+        "answer": "Narendra Nagar"
+      },
+      {
+        "id": 7,
+        "question": "Which of the following is not a dialect of Uttarakhand? (Village Panchayat Development Officer: 2016)",
+        "options": ["Garhwali", "Kumaoni", "Bhojpuri", "Jaunsari"],
+        "answer": "Bhojpuri"
+      },
+      {
+        "id": 8,
+        "question": "The first agricultural university in India was established in 1960. Where is it located? (PCS Main: 2009)",
+        "options": ["Faizabad", "Pantnagar", "Kanpur", "Allahabad"],
+        "answer": "Pantnagar"
+      },
+      {
+        "id": 9,
+        "question": "The Garhwal Samachar newspaper is published from (PCS Main: 2009)",
+        "options": ["Dehradun", "Kotdwar", "Pauri", "Tehri"],
+        "answer": "Pauri"
+      },
+      {
+        "id": 10,
+        "question": "The All India Institute of Medical Sciences is located in (PCS Main: 2003)",
+        "options": ["Rishikesh", "Haridwar", "Srinagar", "Dehradun"],
+        "answer": "Rishikesh"
+      },
+      {
+        "id": 11,
+        "question": "Who wrote the poem 'Manoday Kavya'? (UK PCS/RO/ARO: 2017)",
+        "options": [
+          "Man Singh",
+          "Shambhu Prasad Bahuguna",
+          "Gumani Pant",
+          "Bhaktavi"
+        ],
+        "answer": "Bhaktavi"
+      },
+      {
+        "id": 12,
+        "question": "Ayush Gram is related to (UK PCS/RO/ARO: 2017)",
+        "options": [
+          "Yoga education",
+          "Ayurvedic education",
+          "Computer education",
+          "Homeopathic education"
+        ],
+        "answer": "Ayurvedic education"
+      },
+      {
+        "id": 13,
+        "question": "Which of the following pairs is not correctly matched? (UK-EO/RI: 2023)",
+        "options": [
+          "Himalayan History - Dr. Ajay Rawat",
+          "Mussoorie Medley - Shro, Ganesh Shaili",
+          "Himagiri Travels - Jodh Singh Negi",
+          "Holi Himalay - E. Sergan Oakley"
+        ],
+        "answer": "Himalayan History - Dr. Ajay Rawat"
+      },
+      {
+        "id": 14,
+        "question": "Which university in Uttarakhand was granted central university status in 2009? (UK-EO/RI: 2023)",
+        "options": [
+          "S.N.B. Garhwal University",
+          "Doon University",
+          "Kumaon University",
+          "G.M. Pant Agricultural University"
+        ],
+        "answer": "S.N.B. Garhwal University"
+      },
+      {
+        "id": 15,
+        "question": "Which of the following pairs is not correctly matched? (UK-EO/RI: 2023)",
+        "options": [
+          "Vishal Kirti - Pauri",
+          "Swadhin Praja - Nainital",
+          "Samata - Tehri",
+          "Garhwali - Dehradun"
+        ],
+        "answer": "Swadhin Praja - Nainital"
+      },
+      {
+        "id": 16,
+        "question": "The first engineering college in Asia was established in (PCS Main: 2009)",
+        "options": ["Petran", "Bangalore", "Roorkee", "None of these"],
+        "answer": "Roorkee"
+      },
+      {
+        "id": 17,
+        "question": "Which of the following pairs is not correctly matched? (PCS Main: 2010)",
+        "options": [
+          "Mukundilal - Tarun Kumaon",
+          "Victor Mohan Joshi - Swadhin Praja",
+          "Govind Vanarbh Pant - Prajavandhu",
+          "Bhakta Darshan - Karmabhoomi"
+        ],
+        "answer": "Govind Vanarbh Pant - Prajavandhu"
+      },
+      {
+        "id": 18,
+        "question": "The book 'Garhwal Ancient and Modern' was written by (PCS Pre: 2004, Village Panchayat Development Officer: 2018)",
+        "options": ["S.P. Dabral", "A. Parmar", "G.C. Pandey", "Patiram"],
+        "answer": "Patiram"
+      },
+      {
+        "id": 19,
+        "question": "The H.N.V. Garhwal University was granted central university status in (Lecturer: 2009)",
+        "options": [
+          "January 15, 2009",
+          "August 15, 2009",
+          "March 15, 2009",
+          "January 26, 2009"
+        ],
+        "answer": "January 15, 2009"
+      },
+      {
+        "id": 20,
+        "question": "The author of the famous book 'Mussoorie Medley' is (PCS Main: 2010)",
+        "options": [
+          "Chandi Prasad Bhatt",
+          "Prof. Ganesh Shaili",
+          "Bandraprabha Aetwal",
+          "Puran Chandra Pandey"
+        ],
+        "answer": "Prof. Ganesh Shaili"
+      },
+      {
+        "id": 21,
+        "question": "Which of the following pairs is not correctly matched? (PCS Main: 2010)",
+        "options": [
+          "Himalayan District Gazetteers - Jodh Singh Negi",
+          "Himalayan Travels - Jodh Singh Negi",
+          "Garhwal Gazetteers - H.G. Walton",
+          "Garhwal Ancient and Modern - Patiram"
+        ],
+        "answer": "Himalayan Travels - Jodh Singh Negi"
+      },
+      {
+        "id": 22,
+        "question": "The author of the Himalayan Gazetteer is (UK-EO/RI: 2017)",
+        "options": [
+          "Dr. Ajay Rawat",
+          "P. Barron",
+          "E. Patkinson",
+          "Mein Villa"
+        ],
+        "answer": "E. Patkinson"
+      },
+      {
+        "id": 23,
+        "question": "The 'Gaon Shanis Light' was established by (UK-EO/RI: 2017)",
+        "options": [
+          "Annie Besant",
+          "Salman Kardi",
+          "Begam Sahab",
+          "None of these"
+        ],
+        "answer": "Annie Besant"
+      },
+      {
+        "id": 24,
+        "question": "The State Educational Research and Training Council was established for school education in (UK-EO/RI: 2017)",
+        "options": ["Dehradun", "Narendra Nagar", "Srinagar", "Roorkee"],
+        "answer": "Narendra Nagar"
+      },
+      {
+        "id": 25,
+        "question": "Which of the following pairs is not correctly matched? (UK-EO/RI: 2023)",
+        "options": [
+          "Vishal Kirti - Pauri",
+          "Swadhin Praja - Nainital",
+          "Samata - Tehri",
+          "Garhwali - Dehradun"
+        ],
+        "answer": "Swadhin Praja - Nainital"
+      },
+      {
+        "id": 26,
+        "question": "The first engineering college in Asia was established in (PCS Main: 2009)",
+        "options": ["Petran", "Bangalore", "Roorkee", "None of these"],
+        "answer": "Roorkee"
+      },
+      {
+        "id": 27,
+        "question": "Which of the following pairs is not correctly matched? (PCS Main: 2010)",
+        "options": [
+          "Mukundilal - Tarun Kumaon",
+          "Victor Mohan Joshi - Swadhin Praja",
+          "Govind Vanarbh Pant - Prajavandhu",
+          "Bhakta Darshan - Karmabhoomi"
+        ],
+        "answer": "Govind Vanarbh Pant - Prajavandhu"
+      },
+      {
+        "id": 28,
+        "question": "The author of the book 'Garhwal Ancient and Modern' is (PCS Pre: 2004, Village Panchayat Development Officer: 2018)",
+        "options": ["S.P. Dabral", "A. Parmar", "G.C. Pandey", "Patiram"],
+        "answer": "Patiram"
+      },
+      {
+        "id": 29,
+        "question": "The H.N.V. Garhwal University was granted central university status in (Lecturer: 2009)",
+        "options": [
+          "January 15, 2009",
+          "August 15, 2009",
+          "March 15, 2009",
+          "January 26, 2009"
+        ],
+        "answer": "January 15, 2009"
+      },
+      {
+        "id": 30,
+        "question": "The author of the famous book 'Mussoorie Medley' is (PCS Main: 2010)",
+        "options": [
+          "Chandi Prasad Bhatt",
+          "Prof. Ganesh Shaili",
+          "Bandraprabha Aetwal",
+          "Puran Chandra Pandey"
+        ],
+        "answer": "Prof. Ganesh Shaili"
+      },
+      {
+        "id": 31,
+        "question": "Gurukul Kangri Vidyalaya was established by Swami Shraddhanand in Haridwar in:",
+        "options": ["1902", "1903", "1904", "1905"],
+        "answer": "1902"
+      },
+      {
+        "id": 32,
+        "question": "Devbhoomi Muskaan Yojana has been started to provide excellent education to the deprived sections of the society in:",
+        "options": ["2007", "2008", "2009", "2012"],
+        "answer": "2009"
+      },
+      {
+        "id": 33,
+        "question": "Which of the following pairs is not correctly matched?",
+        "options": [
+          "British Garhwal Gazetteer - H.G. Walton",
+          "Himalayan Parichay - Rahul Sankrityayan",
+          "Himalayan Travels - Jodh Singh Negi",
+          "Almora Gazetteers - A.F.T. Etkinson"
+        ],
+        "answer": "Himalayan Parichay - Rahul Sankrityayan"
+      },
+      {
+        "id": 34,
+        "question": "Which of the following pairs is not correctly matched?",
+        "options": [
+          "Keedapach - Uttarakhand",
+          "Kumaon's Folk Art - Yashodhar Mathpal",
+          "Himalayan History - Madan Chandra Bhatt",
+          "Himalayan Caves - Acharya Dharmanand"
+        ],
+        "answer": "Himalayan Caves - Acharya Dharmanand"
+      },
+      {
+        "id": 35,
+        "question": "Which of the following pairs of magazines and their publication locations is not correctly matched?",
+        "options": [
+          "Jan - Dehradun",
+          "Pahad - Nainital",
+          "Aaj Ka Pahad - Pithoragarh",
+          "Yugvani - Haridwar"
+        ],
+        "answer": "Yugvani - Haridwar"
+      },
+      {
+        "id": 36,
+        "question": "Which of the following pairs of newspapers and their publication locations is not correctly matched?",
+        "options": [
+          "Uttarakhand Darpan - Dehradun",
+          "Karma Bhoomi - Tehri",
+          "Aniket - Gopeshwar",
+          "Satyapach - Kotdwar"
+        ],
+        "answer": "Satyapach - Kotdwar"
+      },
+      {
+        "id": 37,
+        "question": "Which of the following pairs of newspapers and their publication locations is not correctly matched?",
+        "options": [
+          "Doon Darpan - Dehradun",
+          "Prajabandhu - Ranikhet",
+          "Satyapach - Kotdwar",
+          "Himavat - Lansdowne"
+        ],
+        "answer": "Satyapach - Kotdwar"
+      },
+      {
+        "id": 38,
+        "question": "Who among the following wrote 'Vedmala'?",
+        "options": [
+          "Hariram Dhasmana",
+          "Bhajan Singh 'Bhajan'",
+          "Satyanarayan Raturi",
+          "Damodar Prasad Chapliyal"
+        ],
+        "answer": "Hariram Dhasmana"
+      },
+      {
+        "id": 39,
+        "question": "The famous poem 'Singhnad' is written by whom among the following?",
+        "options": [
+          "Bhajan Singh",
+          "Abharam Gairola",
+          "Chandramohan Raturi",
+          "Bhagwati Prasad Panbri"
+        ],
+        "answer": "Bhajan Singh"
+      },
+      {
+        "id": 40,
+        "question": "The famous poem 'Utho Garhwaliyo' is written by which of the following poets?",
+        "options": [
+          "Satyanarayan Raturi",
+          "Chandramohan Raturi",
+          "Ghanshyam Raturi",
+          "Satya Sharan Raturi"
+        ],
+        "answer": "Satyanarayan Raturi"
+      },
+      {
+        "id": 41,
+        "question": "From which Apabhramsa has Pahari Hindi developed?",
+        "options": [
+          "Brahad Apabhramsa",
+          "Shaurseni Apabhramsa",
+          "Khas Apabhramsa",
+          "Ardhamagadhi Apabhramsa"
+        ],
+        "answer": "Khas Apabhramsa"
+      },
+      {
+        "id": 42,
+        "question": "Who is the author of the book on the 'Coolie Begar' practice in Uttarakhand?",
+        "options": [
+          "Dr. Shekhar Pathak",
+          "Barrister Mukundi Lal",
+          "Tara Munshiram",
+          "Chintamani Joshi"
+        ],
+        "answer": "Dr. Shekhar Pathak"
+      },
+      {
+        "id": 43,
+        "question": "Who is the author of the novel 'Tumhare Liye'?",
+        "options": [
+          "Shivani",
+          "Shailesh Matiyani",
+          "Manohar Shyam Joshi",
+          "Himanshu Joshi"
+        ],
+        "answer": "Shivani"
+      },
+      {
+        "id": 44,
+        "question": "Who is the author of the famous book 'British Kumaon Garhwal'?",
+        "options": [
+          "S.M. Rawat",
+          "Prakash Pant",
+          "Dr. R.S. Tolia",
+          "Dr. Shekhar Pathak"
+        ],
+        "answer": "Dr. R.S. Tolia"
+      },
+      {
+        "id": 45,
+        "question": "Who established the Himalayan Institute Hospital and Trust?",
+        "options": [
+          "Narayan Dutt Tiwari",
+          "Govind Ballabh Pant",
+          "Swami Ram",
+          "Hemvati Nandan Bahuguna"
+        ],
+        "answer": "Swami Ram"
+      },
+      {
+        "id": 46,
+        "question": "Who is the author of the book 'Garhwal Paintings'?",
+        "options": ["Molaram", "Mukundi Lal", "Patiram", "H.G. Walton"],
+        "answer": "Mukundi Lal"
+      },
+      {
+        "id": 47,
+        "question": "Which of the following is the oldest university in Uttarakhand?",
+        "options": [
+          "Kumaon University, Nainital",
+          "Garhwal University, Srinagar",
+          "Gurukul Kangri University, Haridwar",
+          "G.B. Pant University of Agriculture and Technology, Pantnagar"
+        ],
+        "answer": "Gurukul Kangri University, Haridwar"
+      },
+      {
+        "id": 48,
+        "question": "Who is the author of the book 'Himalayan Art'?",
+        "options": [
+          "Dr. Kumar Swami",
+          "G.C. Upreti",
+          "Kishan Lal Vaidya",
+          "Barrister Mukundi Lal"
+        ],
+        "answer": "Barrister Mukundi Lal"
+      },
+      {
+        "id": 49,
+        "question": "From where is the magazine 'Pahad', based on Himalayan society, culture, and environment, published?",
+        "options": ["Chamoli", "Champawat", "Nainital", "Dehradun"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 50,
+        "question": "Which of the following is not a state university of Uttarakhand?",
+        "options": [
+          "Kumaon University",
+          "Shri Dev Suman University",
+          "Gurukul Kangri University",
+          "H.N.B. Medical University"
+        ],
+        "answer": "H.N.B. Medical University"
+      },
+      {
+        "id": 51,
+        "question": "Which university in India is considered the pioneer of the Green Revolution? (Junior Assistant: 2017)",
+        "options": [
+          "Indira Gandhi Agricultural University, Raipur",
+          "Govind Ballabh Pant University of Agriculture and Technology, Pantnagar",
+          "Chaudhary Charan Singh Agricultural University, Hisar, Haryana",
+          "None of the above"
+        ],
+        "answer": "Govind Ballabh Pant University of Agriculture and Technology, Pantnagar"
+      },
+      {
+        "id": 52,
+        "question": "Who was the founder of 'The Doon School'? (Junior Assistant: 2018)",
+        "options": [
+          "Lal Bahadur Shastri",
+          "Satish Ranjan Das",
+          "Jawaharlal Nehru",
+          "Rajiv Gandhi"
+        ],
+        "answer": "Satish Ranjan Das"
+      },
+      {
+        "id": 53,
+        "question": "Who is the author of the booklet 'Descriptive List of Martial Castes of Almora'? (Village Panchayat Development Officer: 2018)",
+        "options": [
+          "Badridutt Pandey",
+          "Govind Ballabh Pant",
+          "Hargovind Pant",
+          "Ganga Dutt Upreti"
+        ],
+        "answer": "Ganga Dutt Upreti"
+      },
+      {
+        "id": 54,
+        "question": "Who is the author of 'British Garhwal Gazetteer'? (PRO: 2021)",
+        "options": [
+          "H.G. Bakalton",
+          "E. Atkinson",
+          "H. Moorcroft",
+          "William Fraser"
+        ],
+        "answer": "H.G. Bakalton"
+      },
+      {
+        "id": 55,
+        "question": "Shiv Prasad Dabral 'Charan' is a/an (PRO: 2021)",
+        "options": ["Politician", "Historian", "Painter", "Social Worker"],
+        "answer": "Historian"
+      },
+      {
+        "id": 56,
+        "question": "Who is the author of the book 'Holy Himalaya'? (PRO: 2021)",
+        "options": [
+          "Patiram",
+          "E. Sherman Oakley",
+          "Sarla Behn",
+          "Jim Corbett"
+        ],
+        "answer": "E. Sherman Oakley"
+      },
+      {
+        "id": 57,
+        "question": "When was the 'British Garhwal Gazetteer' published? (DEO: 2021)",
+        "options": ["1910 AD", "1912 AD", "1934 AD", "1916 AD"],
+        "answer": "1910 AD"
+      },
+      {
+        "id": 58,
+        "question": "Which of the following is a sub-dialect of Garhwali? (Forest Guard: 2023)",
+        "options": ["Siraali", "Kumaoni", "Nagpuriya", "Salani"],
+        "answer": "Nagpuriya"
+      },
+      {
+        "id": 59,
+        "question": "Who among the following named 'Kauravi' for 'Khariboli'? (Forest Guard: 2023)",
+        "options": [
+          "Suniti Kumar Chatterji",
+          "Kamta Prasad Guru",
+          "Rahul Sankrityayan",
+          "Dr. Bholanath Tiwari"
+        ],
+        "answer": "Rahul Sankrityayan"
+      },
+      {
+        "id": 60,
+        "question": "Which of the following is a sub-dialect of 'Kumaoni'? (Patwari Lekhpal: 2023)",
+        "options": ["Salani", "Khasparjia", "Nagpuriya", "Danpuria"],
+        "answer": "Danpuria"
+      },
+      {
+        "id": 61,
+        "question": "Which of the following is the script of the Jaunsari language? (VDO: 2023)",
+        "options": ["Brahmi", "Kharosthi", "Devanagari", "Kutil"],
+        "answer": "Devanagari"
+      },
+      {
+        "id": 63,
+        "question": "In which year did the publication of the 'Garhwali' newspaper begin?",
+        "options": ["1868", "1871", "1902", "1905"],
+        "answer": "1905"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: Economic Scenario",
+    "questions": [
+      {
+        "id": 1,
+        "question": "According to the statistics of 2021-22, which district has the highest number of Joint Stock Companies?",
+        "options": ["Rudraprayag", "Almora", "Dehradun", "Haridwar"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 2,
+        "question": "Which is the largest source of tax revenue in the state?",
+        "options": [
+          "Entertainment Tax",
+          "Commercial Tax",
+          "Stamp Duty",
+          "Excise Duty"
+        ],
+        "answer": "Commercial Tax"
+      },
+      {
+        "id": 3,
+        "question": "Uttarakhand was given the status of a special state from which date?",
+        "options": [
+          "April 1, 2001",
+          "April 1, 2002",
+          "April 1, 2003",
+          "April 1, 2004"
+        ],
+        "answer": "April 1, 2001"
+      },
+      {
+        "id": 4,
+        "question": "What is the main objective of the 'Gyanotkarsh Yojana' being run with the cooperation of the State Bank of India in the state?",
+        "options": [
+          "To sanction education loans to common citizens",
+          "To sanction home loans to tribes",
+          "To sanction loans to permanent teachers and other employees of the Uttaranchal government for purchasing computers for personal use",
+          "To sanction agricultural loans to small farmers"
+        ],
+        "answer": "To sanction loans to permanent teachers and other employees of the Uttaranchal government for purchasing computers for personal use"
+      },
+      {
+        "id": 5,
+        "question": "Consider the following statements: (DAP - 2003) Statement (A): There is a lot of internal power for development in the state. Reason (R): Scientific planning and effective implementation machinery are needed for development. In the context of the above, which one of the following is correct?",
+        "options": [
+          "Both and (R) are correct and (R) is the correct explanation of (A)",
+          "Both and (R) are correct but (R) is not the correct explanation of (A)",
+          "is correct but (R) is wrong",
+          "is wrong but (R) is correct"
+        ],
+        "answer": "Both and (R) are correct but (R) is not the correct explanation of (A)"
+      },
+      {
+        "id": 6,
+        "question": "Statement (A): Uttaranchal is known for its 'Money Order Economy'. Reason (R): This indicates migration for employment. Code:",
+        "options": [
+          "Both and (R) are correct and (R) is the correct explanation of (A)",
+          "Both and (R) are correct but (R) is not the correct explanation of (A)",
+          "is correct but (R) is wrong",
+          "is wrong but (R) is correct"
+        ],
+        "answer": "Both and (R) are correct and (R) is the correct explanation of (A)"
+      },
+      {
+        "id": 7,
+        "question": "In which district of the state was an RBI branch opened in June 2006?",
+        "options": ["Dehradun", "Haridwar", "Nainital", "Roorkee"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 8,
+        "question": "According to 2011, what is the total working population in the state?",
+        "options": ["35.01%", "36.75%", "38.39%", "39.20%"],
+        "answer": "38.39%"
+      },
+      {
+        "id": 9,
+        "question": "After the formation of the state, the contribution of the primary sector in the state economy is gradually...",
+        "options": ["Increasing", "Decreasing", "Stable", "None of these"],
+        "answer": "Decreasing"
+      },
+      {
+        "id": 10,
+        "question": "The contribution of the secondary sector in the state economy is gradually...",
+        "options": ["Increasing", "Decreasing", "Stable", "None of these"],
+        "answer": "Increasing"
+      },
+      {
+        "id": 11,
+        "question": "When was the State Planning Commission formed?",
+        "options": [
+          "November 9, 2000",
+          "January 1, 2001",
+          "February 28, 2001",
+          "March 31, 2001"
+        ],
+        "answer": "March 31, 2001"
+      },
+      {
+        "id": 12,
+        "question": "Who is the ex-officio chairman of the State Planning Commission?",
+        "options": [
+          "Governor",
+          "Chief Minister",
+          "Finance Minister",
+          "Finance Secretary"
+        ],
+        "answer": "Chief Minister"
+      },
+      {
+        "id": 13,
+        "question": "Who among the following was the first chairman of the State Finance Commission? (Junior Assistant - 2018)",
+        "options": [
+          "S.K. Sharma",
+          "R.K. Dhar",
+          "R.M. Tolia",
+          "None of the above"
+        ],
+        "answer": "R.M. Tolia"
+      },
+      {
+        "id": 14,
+        "question": "According to the 2011-12 base year report by the Central Planning Commission, what percentage of people are poor in the state?",
+        "options": ["16.6%", "12.5%", "17.8%", "11.24%"],
+        "answer": "11.24%"
+      },
+      {
+        "id": 15,
+        "question": "According to the report released by the Central Planning Commission, the urban and rural poverty is respectively...",
+        "options": [
+          "10.62% & 10.48%",
+          "24.6% & 15.0%",
+          "26.7% & 15.3%",
+          "23.4% & 14.5%"
+        ],
+        "answer": "10.62% & 10.48%"
+      },
+      {
+        "id": 16,
+        "question": "The GST tax system was implemented in the state from...",
+        "options": [
+          "January 1, 2017",
+          "April 1, 2017",
+          "July 1, 2017",
+          "August 1, 2017"
+        ],
+        "answer": "July 1, 2017"
+      },
+      {
+        "id": 17,
+        "question": "Which of the following is not a major source for the Uttarakhand economy? (Patwari/Lekhpal - 16.23)",
+        "options": ["Forest Wealth", "Tourism", "Film Industry", "Mines"],
+        "answer": "Film Industry"
+      },
+      {
+        "id": 18,
+        "question": "The financial year starts in Uttarakhand from...",
+        "options": ["January 1", "April 1", "July 1", "March 1"],
+        "answer": "April 1"
+      },
+      {
+        "id": 19,
+        "question": "What is the main source of livelihood for the rural population in the hilly region of Uttarakhand? (UK PCS, RO/ARO - 2017)",
+        "options": [
+          "Horticulture",
+          "Horticulture and Tourism",
+          "Agriculture and Animal Husbandry",
+          "Agriculture and Trade"
+        ],
+        "answer": "Agriculture and Animal Husbandry"
+      },
+      {
+        "id": 20,
+        "question": "Which raw material is used to produce the handicraft item 'Mosta' in the state?",
+        "options": [
+          "Bamboo",
+          "Hingal (Cane)",
+          "Pine tree bark",
+          "Pangar tree wood"
+        ],
+        "answer": "Hingal (Cane)"
+      },
+      {
+        "id": 21,
+        "question": "How was trade conducted in the state before independence? (PCS Main - 2006)",
+        "options": [
+          "Through fairs",
+          "Through exhibitions",
+          "Through intermediaries",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "id": 22,
+        "question": "Where is the largest paper factory located in the state? (PCS Main - 2006 & Upper Private Secretary, 2017)",
+        "options": ["Lalkuan", "Khatima", "Haridwar", "Chakrata"],
+        "answer": "Lalkuan"
+      },
+      {
+        "id": 23,
+        "question": "In which of the following places in the state is the 'Kattha Factory' located? (PCS Main - 2006 & Junior Clerk, 2017)",
+        "options": [
+          "Nainidanda - Pauri Garhwal",
+          "Haldwani - Nainital",
+          "Lachhiwala - Dehradun",
+          "Bahadrabad - Haridwar"
+        ],
+        "answer": "Haldwani - Nainital"
+      },
+      {
+        "id": 24,
+        "question": "Which place, located at a distance of 165 km from Pithoragarh, is known for woollen goods (shawls, carpets, blankets, pankhi, pashmina shawls, etc.)? (PCS Main, 2003)",
+        "options": ["Gwaldam", "Joshimath", "Munsiyari", "Mana"],
+        "answer": "Munsiyari"
+      },
+      {
+        "id": 25,
+        "question": "At the time of the creation of Uttarakhand state, the 'Eleventh Finance Commission' gave it the status of which of the following states? (PCS Pre, 2004)",
+        "options": [
+          "Poor Hilly State",
+          "Underdeveloped State",
+          "Special Category State",
+          "None of the above"
+        ],
+        "answer": "Special Category State"
+      },
+
+      {
+        "id": 27,
+        "question": "Most of the paper mills in the state are located in:",
+        "options": ["Nainital", "Udham Singh Nagar", "Dehradun", "Almora"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "id": 28,
+        "question": "The first factory of magnesite in the state was established in: (APO - 2021)",
+        "options": ["Ramgarh", "Mangolihat", "Chamba", "Shiroli"],
+        "answer": "Shiroli"
+      },
+      {
+        "id": 29,
+        "question": "Which place is known for the catechu (Katha) industry?",
+        "options": ["Kashipur", "Haldwani", "Haridwar", "Pauri"],
+        "answer": "Haldwani"
+      },
+      {
+        "id": 30,
+        "question": "The RBI branch in Dehradun was established in:",
+        "options": ["June 2004", "June 2005", "June 2006", "June 2007"],
+        "answer": "June 2006"
+      },
+      {
+        "id": 31,
+        "question": "The oldest cotton textile mill in the state is in:",
+        "options": ["Roorkee", "Rudrapur", "Kashipur", "Sitarganj"],
+        "answer": "Kashipur"
+      },
+      {
+        "id": 32,
+        "question": "The Special Integrated Industrial Promotion Policy for hilly and remote areas in the state was implemented on April 1, 2008. This policy will remain in effect until: (PCS Main, 2010)",
+        "options": [
+          "March 31, 2018",
+          "March 31, 2015",
+          "March 31, 2020",
+          "March 31, 2028"
+        ],
+        "answer": "March 31, 2018"
+      },
+      {
+        "id": 33,
+        "question": "Which of the following industrial areas is developed by SIDCOL? (Group 'C' - 2011)",
+        "options": ["Pantnagar", "Kotdwar", "Haridwar", "Kashipur"],
+        "answer": "Pantnagar"
+      },
+      {
+        "id": 34,
+        "question": "Where is Bharat Heavy Electricals Limited (BHEL) located? (Office Assistant - 2016)",
+        "options": [
+          "Ranibagh (Nainital)",
+          "Ranipur (Haridwar)",
+          "Ranipokhari",
+          "Ranikhet (Almora)"
+        ],
+        "answer": "Ranipur (Haridwar)"
+      },
+      {
+        "id": 35,
+        "question": "The unit of Hindustan Machine Tools is located at which of the following places? (Female Sub-Inspector - 2016)",
+        "options": ["Ranibagh (Nainital)", "Ranipur", "Almora", "Haridwar"],
+        "answer": "Ranibagh (Nainital)"
+      },
+      {
+        "id": 36,
+        "question": "At which place is the cement factory established?",
+        "options": ["Ranibagh", "Ranipur", "Ranipokhari", "Ranikhet"],
+        "answer": "Ranipokhari"
+      },
+      {
+        "id": 37,
+        "question": "At which place is the Cooperative Drugs Factory established?",
+        "options": ["Ranibagh", "Ranipur", "Ranipokhari", "Ranikhet"],
+        "answer": "Ranikhet"
+      },
+      {
+        "id": 38,
+        "question": "Most of the cement factories in the state are concentrated in:",
+        "options": ["Haridwar", "Udham Singh Nagar", "Dehradun", "Nainital"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 39,
+        "question": "Which of the following industries and places is not correctly matched?",
+        "options": [
+          "Hindustan Antibiotics - Rishikesh",
+          "Ordnance Factory - Raipur",
+          "Electronics Industry - Lansdowne",
+          "Benzene Factory - Ranikhet"
+        ],
+        "answer": "Benzene Factory - Ranikhet"
+      },
+      {
+        "id": 40,
+        "question": "Which of the following industries and places is not correctly matched?",
+        "options": [
+          "Woollen Textile Industry - Nainital",
+          "Carpet Industry - Pithoragarh",
+          "Copper Industry - Almora",
+          "Catechu Industry - Dehradun"
+        ],
+        "answer": "Catechu Industry - Dehradun"
+      },
+      {
+        "id": 41,
+        "question": "The Craft Design Center for the development of handicrafts and handlooms has been established at:",
+        "options": ["Kashipur", "Shyampur", "Haldwani", "Selakui"],
+        "answer": "Kashipur"
+      },
+      {
+        "id": 42,
+        "question": "The Silk Park is being established in the state at:",
+        "options": ["Rudrapur", "Dehradun", "Roorkee", "Haldwani"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 43,
+        "question": "Which district is most prominent for making sports goods in Uttarakhand?",
+        "options": ["Almora", "Haridwar", "Bageshwar", "Nainital"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 44,
+        "question": "Which place in Uttarakhand is being developed as 'Brass City'? (Review Officer - 2016)",
+        "options": ["Bazpur", "Rudrapur", "Pithoragarh", "Almora"],
+        "answer": "Almora"
+      },
+      {
+        "id": 45,
+        "question": "What is the use of 'Ringal' in Uttarakhand? (Forest Guard - 2016)",
+        "options": [
+          "In bangles",
+          "In blankets",
+          "In pearl necklaces",
+          "In carpets, bowls, baskets"
+        ],
+        "answer": "In carpets, bowls, baskets"
+      },
+      {
+        "id": 46,
+        "question": "In the budgetary announcement for the financial year 2023-24, which district was announced to have a state-run old age home established?",
+        "options": ["Dehradun", "Almora", "Nainital", "Udham Singh Nagar"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 47,
+        "question": "Which of the following places is not related to SIDCUL (State Infrastructure and Industrial Development Corporation of Uttarakhand)? (PCS - 2023)",
+        "options": ["Roorkee", "Selakui", "Sitarganj", "Haridwar"],
+        "answer": "Roorkee"
+      },
+      {
+        "id": 48,
+        "question": "Which of the following establishments is not located in Uttarakhand? (PCS - 2023)",
+        "options": ["CBRI", "ONGC", "HAL", "BHEL"],
+        "answer": "HAL"
+      },
+      {
+        "id": 49,
+        "question": "Which type of banks had the minimum number in Uttarakhand in the year 2020-21? (PCS - 2023)",
+        "options": [
+          "Nationalized Banks",
+          "Regional Banks",
+          "Private Banks",
+          "District Cooperative Banks"
+        ],
+        "answer": "District Cooperative Banks"
+      },
+      {
+        "id": 50,
+        "question": "In which year was VAT (Value Added Tax) implemented in Uttarakhand? (PCS - 22, 23)",
+        "options": ["2007", "2010", "2012", "2005"],
+        "answer": "2005"
+      },
+      {
+        "id": 51,
+        "question": "According to the Economic Survey 2021-22, what was the average monthly per capita expenditure in rural areas in 2011-12? (Junior Assistant - 2023)",
+        "options": ["₹1520", "₹1726", "₹1850", "₹1975"],
+        "answer": "₹1726"
+      },
+      {
+        "id": 52,
+        "question": "What is the contribution of the tertiary sector to Uttarakhand's economy at current prices in the year 2021-22? (Junior Assistant - 2023)",
+        "options": ["42.92%", "12.11%", "44.98%", "55.52%"],
+        "answer": "55.52%"
+      },
+      {
+        "id": 53,
+        "question": "According to the Economic Survey 2021-22, what was the unemployment rate (15 years and above) in Uttarakhand in 2019-20? (Junior Assistant - 2023)",
+        "options": ["6.1%", "6.6%", "7.1%", "8.2%"],
+        "answer": "6.6%"
+      },
+      {
+        "id": 54,
+        "question": "What is the maximum limit of subsidy given to women entrepreneurs in the micro, small, and medium enterprise sector in Uttarakhand in 2015? (Junior Assistant - 2023)",
+        "options": ["₹12.5 lakh", "₹20 lakh", "₹25 lakh", "₹32 lakh"],
+        "answer": "₹25 lakh"
+      },
+      {
+        "id": 55,
+        "question": "What was the fish production in Uttarakhand in 2021-22? (Forest Guard - 2023)",
+        "options": [
+          "5.130 thousand metric tons",
+          "5.367 thousand metric tons",
+          "6.090 thousand metric tons",
+          "7.900 thousand metric tons"
+        ],
+        "answer": "6.090 thousand metric tons"
+      },
+      {
+        "id": 56,
+        "question": "By what brand name are the handicrafts of Uttarakhand sold in other states of India? (Forest Guard - 2021)",
+        "options": [
+          "Dev Bhoomi Brand",
+          "Himalayan Brand",
+          "Uttarakhandi Brand",
+          "Himadri Brand"
+        ],
+        "answer": "Himadri Brand"
+      },
+      {
+        "id": 57,
+        "question": "According to the Sixth Economic Census of Uttarakhand 2012-13, which district of Uttarakhand has the least number of enterprises operated by women entrepreneurs? (Forest Guard - 2021)",
+        "options": ["Uttarkashi", "Chamoli", "Rudraprayag", "Pithoragarh"],
+        "answer": "Rudraprayag"
+      },
+      {
+        "id": 58,
+        "question": "According to the Uttarakhand Economic Survey 2021-22, what was the main export item of Uttarakhand till December 2021 (during 2021-22)? (Forest Guard - 2023)",
+        "options": [
+          "Plastic and Rubber",
+          "Chemical Products",
+          "Base Metals",
+          "Gems, Precious and Semi-Precious Stones"
+        ],
+        "answer": "Chemical Products"
+      },
+      {
+        "id": 59,
+        "question": "Based on the year 2020-21 (Revised Budget Estimates), from which item did the Uttarakhand government receive the maximum revenue? (Patwari Lekhpal - 2023)",
+        "options": [
+          "Direct and Indirect Taxes",
+          "Interest and Property Receipts",
+          "Revenue Grants from the Government of India",
+          "Other Revenue Receipts"
+        ],
+        "answer": "Revenue Grants from the Government of India"
+      },
+      {
+        "id": 60,
+        "question": "When was the 'One District Two Products Scheme' implemented in Uttarakhand?",
+        "options": [
+          "October 2020",
+          "January 2021",
+          "October 2021",
+          "April 2022"
+        ],
+        "answer": "October 2021"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: Welfare Schemes and Other Programs",
+    "questions": [
+      {
+        "id": 1,
+        "question": "When was the new youth policy promulgated in the state?",
+        "options": ["2001", "2005", "2010", "2023"],
+        "answer": "2023"
+      },
+      {
+        "id": 2,
+        "question": "What percentage of reservation for women is provided in panchayats and forest panchayats?",
+        "options": ["33%", "25%", "50%", "40%"],
+        "answer": "50%"
+      },
+      {
+        "id": 3,
+        "question": "What percentage of reservation is provided for differently-abled people in government services? (Group 'C' - 2011)",
+        "options": ["2%", "3%", "4%", "5%"],
+        "answer": "4%"
+      },
+      {
+        "id": 4,
+        "question": "When was the emergency medical service scheme 108 launched in the state?",
+        "options": ["2005", "2007", "2008", "2010"],
+        "answer": "2008"
+      },
+      {
+        "id": 5,
+        "question": "The Chief Minister Mahalakshmi scheme is related to which of the following?",
+        "options": [
+          "Differently-abled people",
+          "Youths",
+          "Women",
+          "Ex-servicemen"
+        ],
+        "answer": "Women"
+      },
+      {
+        "id": 6,
+        "question": "The Pradhan Mantri Matru Vandana Yojana is related to which of the following?",
+        "options": [
+          "Ex-servicemen",
+          "State agitators",
+          "Pregnant women",
+          "Women"
+        ],
+        "answer": "Pregnant women"
+      },
+      {
+        "id": 7,
+        "question": "Which year was declared as the Women Empowerment Year by the state government?",
+        "options": ["2005-06", "2006-07", "2007-08", "2008-09"],
+        "answer": "2006-07"
+      },
+      {
+        "id": 8,
+        "question": "The Chief Minister Dal Poshit Yojana is operational in the state from:",
+        "options": [
+          "September 11, 2019",
+          "September 12, 2019",
+          "September 14, 2019",
+          "September 15, 2019"
+        ],
+        "answer": "September 12, 2019"
+      },
+      {
+        "id": 9,
+        "question": "When was the Atal Ayushman Uttarakhand Yojana implemented in the state?",
+        "options": ["2015", "2016", "2017", "2018"],
+        "answer": "2018"
+      },
+      {
+        "id": 10,
+        "question": "The 108 emergency medical service is named after whom? (Group 'C' - 2011)",
+        "options": [
+          "Pt. Deen Dayal Upadhyay",
+          "Shyama Prasad Mukherjee",
+          "Atal Bihari Vajpayee",
+          "None of these"
+        ],
+        "answer": "Atal Bihari Vajpayee"
+      },
+      {
+        "id": 11,
+        "question": "The JICA project in the state is being run with the cooperation of which country?",
+        "options": ["Britain", "America", "Japan", "Central Government"],
+        "answer": "Japan"
+      },
+      {
+        "id": 12,
+        "question": "The Maulana Azad Education Finance Foundation scheme is for which of the following?",
+        "options": [
+          "Women",
+          "Differently-abled people",
+          "Minorities",
+          "Elderly people"
+        ],
+        "answer": "Minorities"
+      },
+      {
+        "id": 13,
+        "question": "How much pension is given per month for the maintenance of elderly people?",
+        "options": ["₹500", "₹800", "₹1000", "₹1500"],
+        "answer": "₹1500"
+      },
+      {
+        "id": 14,
+        "question": "What percentage of reservation is provided to ex-servicemen in Group 'C' and 'D' services of the state?",
+        "options": ["3%", "4%", "5%", "7%"],
+        "answer": "5%"
+      },
+      {
+        "id": 15,
+        "question": "How much pension is given per month for the maintenance of differently-abled people?",
+        "options": ["₹400", "₹500", "₹800", "₹1200"],
+        "answer": "₹1200"
+      },
+      {
+        "id": 16,
+        "question": "In which districts of Uttarakhand is the 'Minor Girl Scheme' running?",
+        "options": [
+          "Haridwar and Dehradun",
+          "Haridwar and Nainital",
+          "Haridwar and Udham Singh Nagar",
+          "Dehradun and Nainital"
+        ],
+        "answer": "Haridwar and Udham Singh Nagar"
+      },
+      {
+        "id": 17,
+        "question": "When was the Rural Development Agency established?",
+        "options": ["2017", "2018", "2019", "2020"],
+        "answer": "2018"
+      },
+      {
+        "id": 18,
+        "question": "The 'Ustad' scheme is related to:",
+        "options": ["Women", "Minorities", "Youths", "Scheduled Tribes"],
+        "answer": "Minorities"
+      },
+      {
+        "id": 19,
+        "question": "When was the Chief Minister Vatsalya Yojana started?",
+        "options": [
+          "August 14, 2021",
+          "August 15, 2021",
+          "August 3, 2021",
+          "August 2, 2021"
+        ],
+        "answer": "August 3, 2021"
+      },
+      {
+        "id": 20,
+        "question": "The 'Shree Ann Solar Self-Employment Scheme' is for whom?",
+        "options": ["Youths", "Soldiers", "Elderly people", "Children"],
+        "answer": "Youths"
+      },
+      {
+        "id": 21,
+        "question": "The Chief Minister 'Aanchal Amrit Yojana' is running in the state for:",
+        "options": [
+          "Training and nutrition of girls",
+          "Protection of girls' rights",
+          "Protection of girls from trafficking",
+          "Providing milk to children aged 3 to 6 years"
+        ],
+        "answer": "Providing milk to children aged 3 to 6 years"
+      },
+      {
+        "id": 22,
+        "question": "For what purpose was the 'Mission Gaura Shakti' launched in 2021?",
+        "options": [
+          "To empower the economic status of women",
+          "For the safety, empowerment of women, and prevention of violence against them",
+          "To strengthen the political participation of women",
+          "To strengthen the health status of women"
+        ],
+        "answer": "For the safety, empowerment of women, and prevention of violence against them"
+      },
+      {
+        "id": 23,
+        "question": "What is the revised name of the commission previously formed by the Uttarakhand government to address the problem of migration?",
+        "options": [
+          "Migration Commission",
+          "Rural Development and Migration Prevention Commission",
+          "Rural Development and Migration Commission",
+          "Rural Development, Migration, and Panchayati Raj Commission"
+        ],
+        "answer": "Rural Development, Migration, and Panchayati Raj Commission"
+      },
+      {
+        "id": 24,
+        "question": "How much amount is given under the Uttarakhand government's 'Vatsalya Yojana'?",
+        "options": ["₹5,000", "₹2,000", "₹3,000", "₹1,500"],
+        "answer": "₹3,000"
+      },
+      {
+        "id": 25,
+        "question": "Which of the following is not related to the objectives of 'Gramya-I'?",
+        "options": [
+          "Improving the potential productivity of natural resources",
+          "Increasing the income of rural residents",
+          "Environmental sustainability approach",
+          "Increasing the productivity of rain-fed agriculture"
+        ],
+        "answer": "Environmental sustainability approach"
+      },
+      {
+        "id": 26,
+        "question": "In which districts of Uttarakhand has the 'Minor Girl Scheme' been started?",
+        "options": [
+          "Haridwar and Dehradun",
+          "Haridwar and Nainital",
+          "Haridwar and Udham Singh Nagar",
+          "Dehradun and Nainital"
+        ],
+        "answer": "Haridwar and Udham Singh Nagar"
+      },
+      {
+        "id": 27,
+        "question": "The Uttarakhand Start-up Policy 2023 has been launched for:",
+        "options": [
+          "To promote entrepreneurship in education",
+          "To commercialize innovation in educational institutions",
+          "To encourage entrepreneurship among women",
+          "All of these"
+        ],
+        "answer": "All of these"
+      },
+      {
+        "id": 28,
+        "question": "The Char Dham project running in Uttarakhand is related to which work?",
+        "options": [
+          "Maintenance of temples",
+          "Road construction",
+          "Pollution control",
+          "None of the above"
+        ],
+        "answer": "Road construction"
+      },
+      {
+        "id": 29,
+        "question": "Which of the following statements is not correct in the context of Uttarakhand's 'Deendayal Upadhyay Home Stay Development Scheme'?",
+        "options": [
+          "This scheme was started in 2017",
+          "Under this scheme, a 50% (maximum ₹15 lakh) grant is given by the department in hilly areas",
+          "Under this scheme, a 25% (maximum ₹7.5 lakh) grant is given by the tourism department in plain areas",
+          "The objective of this scheme is to improve the economic status of local people by providing self-employment"
+        ],
+        "answer": "This scheme was started in 2017"
+      },
+      {
+        "id": 30,
+        "question": "The 'Char Dham' (Gangotri, Yamunotri, Badrinath, and Kedarnath) of Uttarakhand are located in which group of districts?",
+        "options": [
+          "Uttarkashi - Chamoli - Tehri",
+          "Uttarkashi - Tehri - Pauri",
+          "Uttarkashi - Rudraprayag - Tehri",
+          "Uttarkashi - Rudraprayag - Chamoli"
+        ],
+        "answer": "Uttarkashi - Rudraprayag - Chamoli"
+      },
+      {
+        "id": 31,
+        "question": "Which of the following is the nodal department for the operation of the Pradhan Mantri Kisan Samman Nidhi Yojana in Uttarakhand?",
+        "options": [
+          "Agriculture Department",
+          "Labor Department",
+          "Planning Department",
+          "None of these"
+        ],
+        "answer": "Agriculture Department"
+      },
+      {
+        "id": 32,
+        "question": "The 'Char Dham' project running in Uttarakhand is related to which of the following works?",
+        "options": [
+          "Road construction",
+          "Maintenance of temples",
+          "Pollution control",
+          "Cleaning of urban areas"
+        ],
+        "answer": "Road construction"
+      },
+      {
+        "id": 33,
+        "question": "Who is appointed as the nodal officer for the operation of the 'Pradhan Mantri Kisan Samman Nidhi Yojana' in Uttarakhand?",
+        "options": [
+          "Commissioner and Secretary, Revenue Council",
+          "Commissioner, Finance Department",
+          "Principal Secretary",
+          "None of these"
+        ],
+        "answer": "Commissioner and Secretary, Revenue Council"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: Energy Resources",
+    "questions": [
+      {
+        "id": 1,
+        "question": "The 16 km long underground tunnel built to carry water for the Joshimath to Dharasu hydroelectric project is located on which river? (PCS Main - 2006)",
+        "options": [
+          "Dhauli River",
+          "Sarada River",
+          "Bhagirathi River",
+          "Alaknanda River"
+        ],
+        "answer": "Bhagirathi River"
+      },
+      {
+        "id": 2,
+        "question": "How much electricity is received as royalty from hydroelectric projects established by other states or the central government in the state?",
+        "options": ["15%", "12%", "18%", "11%"],
+        "answer": "12%"
+      },
+      {
+        "id": 3,
+        "question": "In which district of Uttarakhand is the 'Kishau Dam' located? (Female Sub-Inspector - 2016)",
+        "options": ["Pithoragarh", "Chamoli", "Dehradun", "None of these"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 4,
+        "question": "India has the Mahakali River Treaty with which other country? (PCS Main - 2001)",
+        "options": ["Pakistan", "Sri Lanka", "Nepal", "Bangladesh"],
+        "answer": "Nepal"
+      },
+      {
+        "id": 5,
+        "question": "Where is the headquarters of Uttarakhand Renewable Energy Development Agency (UREDA)?",
+        "options": ["Dehradun", "Almora", "Pauri", "Tehri"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 6,
+        "question": "Tehri Dam is the fourth highest dam in the world, while in Asia it is the:",
+        "options": ["Second", "First", "Third", "Eighth"],
+        "answer": "First"
+      },
+      {
+        "id": 7,
+        "question": "The Koteshwar Dam is being built on which river? (PCS Main - 2001)",
+        "options": ["Alaknanda", "Dhauliganga", "Bhagirathi", "Birahi Ganga"],
+        "answer": "Bhagirathi"
+      },
+      {
+        "id": 8,
+        "question": "The first phase of the 1000 MW Tehri project was commissioned in: (Junior Assistant - 2018)",
+        "options": ["2007", "2008", "2009", "2010"],
+        "answer": "2007"
+      },
+      {
+        "id": 9,
+        "question": "The area of Tehri Reservoir (Swami Ramtirtha Sagar) is:",
+        "options": [
+          "42 square km",
+          "48 square km",
+          "345 square km",
+          "480 square km"
+        ],
+        "answer": "42 square km"
+      },
+      {
+        "id": 10,
+        "question": "Under the State Energy Policy, projects up to how many megawatts are placed in the small project category?",
+        "options": ["15 MW", "25 MW", "35 MW", "30 MW"],
+        "answer": "25 MW"
+      },
+      {
+        "id": 11,
+        "question": "The state-level energy park is located in: (Forest Guard - 2016)",
+        "options": ["Dehradun", "Haridwar", "Nainital", "Udham Singh Nagar"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 12,
+        "question": "In which district is 'Nanak Sagar' located? (Forest Guard - 2016)",
+        "options": ["Almora", "Pauri", "Udham Singh Nagar", "Chamoli"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "id": 13,
+        "question": "Which of the following is not correctly matched? (Village Panchayat Development Officer - 2018)",
+        "options": [
+          "Tehari Nagpala Project - Uttarkashi",
+          "Vishnuprayag Project - Rudraprayag",
+          "Maneri Bhali Project - Uttarkashi",
+          "Saptever Project - Pithoragarh"
+        ],
+        "answer": "Vishnuprayag Project - Rudraprayag"
+      },
+      {
+        "id": 14,
+        "question": "In which year was the agreement with Russia signed for cooperation in the Tehri project?",
+        "options": ["1975", "1972", "1986", "1980"],
+        "answer": "1986"
+      },
+      {
+        "id": 15,
+        "question": "The Uttarakhand government's 400 MW Vishnuprayag hydroelectric project is located on which river in Chamoli district?",
+        "options": ["Mandakini", "Alaknanda", "Pindar", "Mandakini"],
+        "answer": "Alaknanda"
+      },
+      {
+        "id": 16,
+        "question": "The first hydroelectric project in the state and North India was built in:",
+        "options": ["Dehradun", "Haridwar", "Nainital", "Tehri"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 17,
+        "question": "The artificial lake with the highest capacity in the state is located in:",
+        "options": ["Tehri", "Kalagarh", "Kotar", "Lakhwad"],
+        "answer": "Tehri"
+      },
+      {
+        "id": 18,
+        "question": "The largest hydroelectric project in the state is: (Lecturer - 2009 & Village Panchayat Officer - 2016, RO/ARO - 2023)",
+        "options": [
+          "Kotli Bhel Hydroelectric Project",
+          "Vishnuprayag Hydroelectric Project",
+          "Tehri Hydroelectric Project",
+          "Maneri Bhali Hydroelectric Project"
+        ],
+        "answer": "Tehri Hydroelectric Project"
+      },
+      {
+        "id": 19,
+        "question": "The Uttarakhand Jal Vidyut Nigam was established in: (Junior Assistant - 2017)",
+        "options": [
+          "February 9, 2001",
+          "February 10, 2001",
+          "February 11, 2001",
+          "February 12, 2001"
+        ],
+        "answer": "February 12, 2001"
+      },
+      {
+        "id": 20,
+        "question": "The first hydroelectric project in the state is: (Village Development Officer - 2017)",
+        "options": [
+          "Dhakpathar Hydroelectric Project",
+          "Maneri Bhali Hydroelectric Project",
+          "Dhauliganga Hydroelectric Project",
+          "Glogi Hydroelectric Project"
+        ],
+        "answer": "Glogi Hydroelectric Project"
+      },
+      {
+        "id": 21,
+        "question": "The highest dam in Uttarakhand is: (Female Constable - 2016)",
+        "options": [
+          "Koteshwar Dam",
+          "Nanak Sagar Dam",
+          "Tehri Dam",
+          "Jamrani Dam"
+        ],
+        "answer": "Tehri Dam"
+      },
+      {
+        "id": 22,
+        "question": "Select the incorrect pair: (Revenue Inspector - 2017)",
+        "options": [
+          "Tehri Dam - Bhagirathi and Bhilangana Rivers",
+          "Kishau Dam - Tons River",
+          "Koteshwar Dam - Saryu River",
+          "Lakhwad Dam - Yamuna River"
+        ],
+        "answer": "Koteshwar Dam - Saryu River"
+      },
+      {
+        "id": 23,
+        "question": "When was the 'Tehri Hydroelectric Development Corporation' established? (Junior Assistant - 2017)",
+        "options": ["1965", "1977", "1980", "1988"],
+        "answer": "1988"
+      },
+      {
+        "id": 24,
+        "question": "The largest water project in the state is: (PCS Pre - 2016)",
+        "options": [
+          "Tehri Project",
+          "Khadodi Project",
+          "Pathri Project",
+          "Sharda Project"
+        ],
+        "answer": "Tehri Project"
+      },
+      {
+        "id": 25,
+        "question": "The 'Vishnugarh Pipalkoti Hydroelectric Project' is being developed on which of the following rivers?",
+        "options": ["Ganga", "Yamuna", "Sabarmati", "Alaknanda"],
+        "answer": "Alaknanda"
+      },
+      {
+        "id": 26,
+        "question": "What is the height of the Tehri Dam? (Enforcement Constable - 2011)",
+        "options": [
+          "240.2 meters",
+          "240.5 meters",
+          "235.5 meters",
+          "None of the above"
+        ],
+        "answer": "240.5 meters"
+      },
+      {
+        "id": 27,
+        "question": "The Uttasu Hydroelectric Project is located on which river? (DEO - 2011)",
+        "options": ["Alaknanda", "Bhagirathi", "Kali", "None of the above"],
+        "answer": "Alaknanda"
+      },
+      {
+        "id": 28,
+        "question": "In which district is the Maneri Bhali Project located? (Patwari Lekhpal - 2023)",
+        "options": ["Tehri", "Dehradun", "Pithoragarh", "Uttarkashi"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "id": 29,
+        "question": "In which district is the Jamrani Dam located? (Junior Assistant - 2023)",
+        "options": ["Pithoragarh", "Dehradun", "Udham Singh Nagar", "Nainital"],
+        "answer": "Nainital"
+      },
+      {
+        "id": 30,
+        "question": "Who led the cycle rally from Gangasagar to Gangotri against the construction of the Tehri Dam on the Bhagirathi River? (Patwari Lekhpal - 2023)",
+        "options": [
+          "Anil Joshi",
+          "Chandi Prasad Bhatt",
+          "Sunderlal Bahuguna",
+          "Rajendra Singh"
+        ],
+        "answer": "Sunderlal Bahuguna"
+      },
+
+      {
+        "id": 32,
+        "question": "Where is the second plant for producing recycled plastic in Uttarakhand established? (Patwari Lekhpal - 2023)",
+        "options": ["Lansdowne", "Kashipur", "Haridwar", "Bhimtal"],
+        "answer": "Kashipur"
+      },
+
+      {
+        "id": 35,
+        "question": "Which of the following river valley projects is related to the Tons River? (EO/RI - 2023)",
+        "options": ["Deval", "Khodri", "Chilla", "Kotli-Bhel"],
+        "answer": "Khodri"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: Transportation System",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which is the last railway station in Uttarakhand that is useful for both Garhwal and Kumaon regions? (PCS Main - 2006)",
+        "options": ["Tanakpur", "Kotdwar", "Rishikesh", "Ramnagar"],
+        "answer": "Rishikesh"
+      },
+      {
+        "id": 2,
+        "question": "The opening of the 'Kandi Marg' motor-travel route in Uttarakhand is significant because it will greatly reduce travel distance between: (PCS Main - 2006)",
+        "options": [
+          "Ramnagar and Haridwar",
+          "Haldwani and Dharchula",
+          "Rishikesh and Gangotri",
+          "Delhi and Dehradun"
+        ],
+        "answer": "Ramnagar and Haridwar"
+      },
+      {
+        "id": 3,
+        "question": "The proposed 'Himalayan Highway Project' is being implemented from:",
+        "options": [
+          "Munsiyari to Mana",
+          "Pangu to Purola",
+          "Lohaghat to Tuini",
+          "None of the above"
+        ],
+        "answer": "Lohaghat to Tuini"
+      },
+      {
+        "id": 4,
+        "question": "At which place in Uttarakhand is the 'Naini Saini Airport' located? (PCS Main - 2006)",
+        "options": ["Chamoli", "Pantnagar", "Pithoragarh", "Dehradun"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "id": 5,
+        "question": "Which place is at the shortest distance from Kailash Mansarovar (China) in Uttarakhand? (PCS Main - 2006)",
+        "options": [
+          "Narayan Ashram",
+          "Mayawati Ashram",
+          "Anasakti Ashram",
+          "Tawaghat"
+        ],
+        "answer": "Tawaghat"
+      },
+      {
+        "id": 6,
+        "question": "How many national highways were there in the state by the end of 2021?",
+        "options": ["5", "7", "9", "22"],
+        "answer": "7"
+      },
+      {
+        "id": 7,
+        "question": "What is the longest national highway in the state?",
+        "options": ["7", "34", "109", "74"],
+        "answer": "7"
+      },
+      {
+        "id": 8,
+        "question": "The Badrinath temple is located on which national highway?",
+        "options": ["7", "34", "109", "107"],
+        "answer": "7"
+      },
+      {
+        "id": 9,
+        "question": "Gaurikund (Kedarnath) is located on which national highway?",
+        "options": ["107", "109", "58", "7"],
+        "answer": "107"
+      },
+      {
+        "id": 10,
+        "question": "Gangotri is located on which national highway?",
+        "options": ["34", "7", "109", "707A"],
+        "answer": "34"
+      },
+      {
+        "id": 11,
+        "question": "Yamunotri is located on which national highway?",
+        "options": ["107", "109", "58", "134"],
+        "answer": "134"
+      },
+      {
+        "id": 12,
+        "question": "What is the shortest national highway in the state?",
+        "options": ["34", "30", "109", "707A"],
+        "answer": "707A"
+      },
+      {
+        "id": 13,
+        "question": "Where is Gochar Airport located? (PCS Main - 2006)",
+        "options": ["Uttarkashi", "Chamoli", "Pithoragarh", "Pauri"],
+        "answer": "Chamoli"
+      },
+
+      {
+        "id": 15,
+        "question": "In how many districts of the state are railway lines laid?",
+        "options": ["5", "6", "7", "4"],
+        "answer": "6"
+      },
+      {
+        "id": 16,
+        "question": "The first railway line in the state was built in 1884. Which was that line?",
+        "options": [
+          "Laksar - Haridwar",
+          "Haridwar - Dehradun",
+          "Haridwar - Rishikesh",
+          "Kichha - Kathgodam"
+        ],
+        "answer": "Kichha - Kathgodam"
+      },
+      {
+        "id": 17,
+        "question": "Which airport is being developed as a greenfield airport?",
+        "options": ["Jolly Grant", "Naini Saini", "Phoolbagh", "Gochar"],
+        "answer": "Phoolbagh"
+      },
+      {
+        "question": "18. In which district is the highest number of railway stations located?",
+        "options": ["K.M.N.", "Haridwar", "Dehradun", "Nainital"],
+        "answer": "Haridwar"
+      },
+      {
+        "question": "19. Which of the following places is not located on National Highway 109?",
+        "options": ["Rudrapur", "Almora", "Kaladhungi", "Ranikhet"],
+        "answer": "Kaladhungi"
+      },
+      {
+        "question": "20. Which of the following places is not located on National Highway 7?",
+        "options": ["Dehradun", "Rishikesh", "Devprayag", "Rudrapur"],
+        "answer": "Rudrapur"
+      },
+      {
+        "question": "21. Which of the following cities is not located on National Highway 9?",
+        "options": ["Sitarganj", "Khatima", "Askote", "Dharchula"],
+        "answer": "Askote"
+      },
+      {
+        "question": "22. Which of the following cities is not located on National Highway 34?",
+        "options": ["Gangotri", "Dharasu", "Rishikesh", "Berinag"],
+        "answer": "Berinag"
+      },
+      {
+        "question": "23. Which airport in the state has the highest number of operations? (PCS Pre - 2016)",
+        "options": ["Pantnagar", "Jolly Grant (Dehradun)", "Gochar", "Bharkot"],
+        "answer": "Jolly Grant (Dehradun)"
+      },
+      {
+        "question": "24. Which of the following is not a final point of rail transport in Uttarakhand? (Review Officer - 2016)",
+        "options": ["Kathgodam", "Dehradun", "Kotdwar", "Laksar"],
+        "answer": "Laksar"
+      },
+      {
+        "question": "25. In which year was the Kumaon Motor Owners Union established? (Junior Assistant - 2018)",
+        "options": ["1938", "1939", "1940", "None of these"],
+        "answer": "1939"
+      },
+      {
+        "question": "26. Which is the longest national highway in Uttarakhand? (Forest Guard - 2016)",
+        "options": ["NH-34", "NH-7", "NH-109", "NH-309"],
+        "answer": "NH-7"
+      },
+      {
+        "question": "27. In which district is the 'Naini Saini Airport' located? (Village Development Officer - 2014)",
+        "options": ["Uttarkashi", "Pithoragarh", "Chamoli", "Dehradun"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "question": "28. In which year was Dehradun connected by railway? (PRO - 2021)",
+        "options": ["1910", "1900", "1890", "1885"],
+        "answer": "1900"
+      },
+      {
+        "question": "29. In which year was the 'Garhwal Motor Owners Union Limited' established? (Village Development Officer - 2021)",
+        "options": ["Pauri", "Dehradun", "Kotdwar", "Kashipur"],
+        "answer": "Pauri"
+      },
+      {
+        "question": "30. To address the problems of whom did Uttarakhand Chief Minister Shri Pushkar Singh Dhami recently inaugurate the innovative 'Pad Reporting App'? (Assistant Engineer - 2021)",
+        "options": ["Schools", "Forests", "Roads", "Rivers"],
+        "answer": "Roads"
       }
     ]
   }

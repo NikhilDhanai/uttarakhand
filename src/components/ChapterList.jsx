@@ -16,7 +16,34 @@ function ChapterList() {
     },
     {
       name: "Uttarakhand Rivers and Lakes",
-      image: "/images/river.jpg", // Added Devprayag image
+      image: "/images/river.jpg",
+    },
+    {
+      name: "Uttarakhand Tradition of Valor, Sports, Awards, Etc.",
+    },
+    {
+      name: "Uttarakhand: Science - Technology, Environment, and Ancient Measurement Systems",
+    },
+    {
+      name: "Uttarakhand Prominent Personalities",
+    },
+    {
+      name: "Uttarakhand Organizations, Institutions, and Museums",
+    },
+    {
+      name: "Uttarakhand: Education, Language, Literature, Books",
+    },
+    {
+      name: "Uttarakhand: Economic Scenario",
+    },
+    {
+      name: "Uttarakhand: Welfare Schemes and Other Programs",
+    },
+    {
+      name: "Uttarakhand: Energy Resources",
+    },
+    {
+      name: "Uttarakhand: Transportation System",
     },
   ];
 
@@ -48,7 +75,7 @@ function ChapterList() {
             <li key={index} className="mb-8">
               <Link
                 to={`/chapter/${chapter.name}`}
-                onMouseEnter={() => setHoveredImage(chapter.image)}
+                onMouseEnter={() => setHoveredImage(chapter.image || null)}
                 onMouseLeave={() => setHoveredImage(null)}
                 className="relative block text-2xl font-semibold text-white py-4 px-10 group transition-all duration-300 overflow-hidden"
               >
@@ -57,15 +84,17 @@ function ChapterList() {
                 {/* Semi-Transparent Overlay for Visibility */}
                 <span className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
 
-                {/* Image with Slanted Cut Effect */}
-                <motion.img
-                  src={chapter.image}
-                  alt="Chapter Thumbnail"
-                  className="absolute right-0 top-0 h-full w-1/5 object-cover opacity-0 group-hover:opacity-100 transition-opacity duration-300"
-                  style={{
-                    clipPath: "polygon(35% 0%, 100% 0%, 100% 100%, 0% 100%)",
-                  }}
-                />
+                {/* Slanted Cut Effect with Image Only if Present */}
+                {chapter.image && (
+                  <motion.img
+                    src={chapter.image}
+                    alt="Chapter Thumbnail"
+                    className="absolute right-0 top-0 h-full w-1/5 object-cover opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+                    style={{
+                      clipPath: "polygon(35% 0%, 100% 0%, 100% 100%, 0% 100%)",
+                    }}
+                  />
+                )}
 
                 {/* Refined Underline Effect */}
                 <span className="absolute left-0 bottom-0 w-full h-[4px] bg-gradient-to-r from-transparent via-white to-transparent transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></span>
