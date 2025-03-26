@@ -5716,5 +5716,5463 @@
         "answer": "Roads"
       }
     ]
+  },
+  {
+    "chapter": "Uttarakhand: Scheduled Castes and Scheduled Tribes",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Where do the Tharu people mostly reside?",
+        "options": ["Dehradun", "Udham Singh Nagar", "Pithoragarh", "Chamoli"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "id": 2,
+        "question": "Which of the following tribes is not found in Uttarakhand?",
+        "options": ["Bhotia", "Boksa", "Raji", "Kharwar"],
+        "answer": "Kharwar"
+      },
+      {
+        "id": 3,
+        "question": "Which of the following festivals is celebrated with the Khichdi dance by the Tharu people?",
+        "options": ["Holi", "Diwali", "Nag Panchami", "Dussehra"],
+        "answer": "Holi"
+      },
+      {
+        "id": 4,
+        "question": "Which district has the highest population of Scheduled Tribes?",
+        "options": ["Nainital", "Almora", "Udham Singh Nagar", "Champawat"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "id": 5,
+        "question": "Which of the following tribes has the highest population in Dehradun?",
+        "options": ["Bhotia", "Boksa", "Jaunsari", "Tharu"],
+        "answer": "Jaunsari"
+      },
+
+      {
+        "id": 7,
+        "question": "Which tribe has the highest population in the state?",
+        "options": ["Jaunsari", "Bhotia", "Boksa", "Tharu"],
+        "answer": "Tharu"
+      },
+      {
+        "id": 8,
+        "question": "On November 15, 2003, three castes of the state were included in the list of Other Backward Classes. Which of the following is not one of them?",
+        "options": ["Kumaliya Bora", "Bahti/Chahang", "Narag", "Gola"],
+        "answer": "Gola"
+      },
+      {
+        "id": 9,
+        "question": "Where do the Raji people mostly reside?",
+        "options": ["Dehradun", "Pithoragarh", "Chamoli", "Udham Singh Nagar"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "id": 10,
+        "question": "Where do the Boksa people mostly reside?",
+        "options": ["Dehradun", "Pauri", "Nainital", "Udham Singh Nagar"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "id": 11,
+        "question": "Most of the people of which tribe live in forests?",
+        "options": ["Bhotia", "Raji", "Jaunsari", "Tharu"],
+        "answer": "Raji"
+      },
+      {
+        "id": 12,
+        "question": "Who is the highest officer of the Boksa tribal panchayat?",
+        "options": ["Daroga", "Sipahi", "Mukhiya", "Patwari"],
+        "answer": "Mukhiya"
+      },
+      {
+        "id": 13,
+        "question": "Which is the second most populous tribe in the state?",
+        "options": ["Tharu", "Raji", "Jaunsari", "Bhotia"],
+        "answer": "Jaunsari"
+      },
+      {
+        "id": 14,
+        "question": "Which tribe's people used to trade with Tibet?",
+        "options": ["Raji", "Boksa", "Bhotia", "Jaunsari"],
+        "answer": "Bhotia"
+      },
+      {
+        "question": "Who is considered the father of Kumaoni music?",
+        "options": [
+          "(a) Jivananda Pathak",
+          "(b) Nandlal Bharti",
+          "(c) Ram Singh Jeer",
+          "(d) Devika Chauhan"
+        ],
+        "answer": "(c) Ram Singh Jeer"
+      },
+      {
+        "question": "Which tribe used to trade with Tibet before the Sino-Indian War (1962)?",
+        "options": ["(a) Bhotia", "(b) Jaunsari", "(c) Boksa", "(d) Tharu"],
+        "answer": "(a) Bhotia"
+      },
+      {
+        "question": "Which tribe practices transhumance (seasonal migration)?",
+        "options": ["(a) Tharu", "(b) Boksa", "(c) Bhotia", "(d) Raji"],
+        "answer": "(c) Bhotia"
+      },
+      {
+        "question": "Which is not a tribe of Uttarakhand?",
+        "options": ["(a) Tharu", "(b) Raji", "(c) Boksa", "(d) Naga"],
+        "answer": "(d) Naga"
+      },
+      {
+        "question": "In which tribe was the political institution called 'Khumri' found?",
+        "options": ["(a) Jaunsari", "(b) Boksa", "(c) Bhotia", "(d) Tharu"],
+        "answer": "(a) Jaunsari"
+      },
+      {
+        "question": "Which scheduled tribe in the state has the highest sex ratio (1040)?",
+        "options": ["(a) Tharu", "(b) Raji", "(c) Bhotia", "(d) Jaunsari"],
+        "answer": "(b) Raji"
+      },
+      {
+        "question": "Tubera, Bajyu, and Timli are folk songs of which tribe?",
+        "options": ["(a) Tharu", "(b) Boksa", "(c) Raji", "(d) Bhotia"],
+        "answer": "(c) Raji"
+      },
+      {
+        "question": "Who among the following is a Jaunsari singer?",
+        "options": [
+          "(a) Jagatram Verma",
+          "(b) Fakir Singh Chauhan",
+          "(c) Nandlal Bharti",
+          "(d) All of these"
+        ],
+        "answer": "(d) All of these"
+      },
+      {
+        "question": "Bissu, Diyai, Nunai, Jagnai, Panchai, and Magh are festivals celebrated by which tribe?",
+        "options": ["(a) Jaunsari", "(b) Boksa", "(c) Tharu", "(d) Bhotia"],
+        "answer": "(a) Jaunsari"
+      },
+      {
+        "question": "The transit of Karak (Cancer) and Makara (Capricorn) are the two major festivals of which tribe?",
+        "options": ["(a) Bhotia", "(b) Raji", "(c) Tharu", "(d) Jaunsari"],
+        "answer": "(d) Jaunsari"
+      },
+      {
+        "question": "Which tribe worships the Kauravas and Pandavas as deities and Kunti as a goddess?",
+        "options": ["(a) Bhotia", "(b) Jaunsari", "(c) Shauka", "(d) Boksa"],
+        "answer": "(b) Jaunsari"
+      },
+      {
+        "question": "Which is the most populous tribe of the Greater Himalayas?",
+        "options": [
+          "(a) Jaunsari",
+          "(b) Bhotia",
+          "(c) Raji or Van Rawat",
+          "(d) Boksa"
+        ],
+        "answer": "(b) Bhotia"
+      },
+      {
+        "question": "Mahasu (Mahashiva) is the deity of which tribe?",
+        "options": ["(a) Jaunsari", "(b) Bhotia", "(c) Boksa", "(d) Jad"],
+        "answer": "(a) Jaunsari"
+      },
+      {
+        "question": "People of which tribe call their relatives 'Swara'?",
+        "options": ["(a) Bhotia", "(b) Jaunsari", "(c) Boksa", "(d) Tharu"],
+        "answer": "(b) Jaunsari"
+      },
+      {
+        "question": "Who among the following have 'Mait' as their summer residence and 'Gunda' or 'Punsa' as their winter residence?",
+        "options": ["(a) Bhotia", "(b) Raji", "(c) Tharu", "(d) Jaunsari"],
+        "answer": "(a) Bhotia"
+      },
+      {
+        "question": "Mangal, Harul, Chhode, Shilong, Kedarkhaya, Godbada, Reikarata, and Biramu are folk songs of which tribe?",
+        "options": ["(a) Bhotia", "(b) Tharu", "(c) Raji", "(d) Jaunsari"],
+        "answer": "(d) Jaunsari"
+      },
+      {
+        "question": "Which of the following fairs is related to the Jaunsari people?",
+        "options": [
+          "(a) Nandadevi Mela",
+          "(b) Sansadevi Mela",
+          "(c) Mahasu Devta Mela",
+          "(d) None of these"
+        ],
+        "answer": "(c) Mahasu Devta Mela"
+      },
+      {
+        "question": "Which of the following scheduled tribes is found in Uttarakhand?",
+        "options": [
+          "(a) Bhotia",
+          "(b) Jaunsari",
+          "(c) Boksa",
+          "(d) All of these"
+        ],
+        "answer": "(d) All of these"
+      },
+      {
+        "question": "How many seats are reserved for Scheduled Castes in the Uttarakhand State Legislative Assembly?",
+        "options": ["(a) 16", "(b) 17", "(c) 11", "(d) 13"],
+        "answer": "(d) 13"
+      },
+      {
+        "question": "Which tribe worships the deity Bhumyal?",
+        "options": ["(a) Tharu", "(b) Boksa", "(c) Jad", "(d) Bhotia"],
+        "answer": "(d) Bhotia"
+      },
+      {
+        "question": "How many seats are reserved for Scheduled Tribes in the Uttarakhand Legislative Assembly?",
+        "options": ["(a) 13", "(b) 5", "(c) 2", "(d) 70"],
+        "answer": "(c) 2"
+      },
+      {
+        "question": "How many castes in the state have been included in the category of Scheduled Castes?",
+        "options": ["(a) 54", "(b) 59", "(c) 63", "(d) 65"],
+        "answer": "(d) 65"
+      },
+      {
+        "question": "On whose martyrdom anniversary is a fair held every year on May 3rd in Chaulidhat?",
+        "options": [
+          "(a) Pt. Shivram",
+          "(b) Gulab Singh",
+          "(c) Devika Chauhan",
+          "(d) Veer Kesari Chand"
+        ],
+        "answer": "(d) Veer Kesari Chand"
+      },
+      {
+        "question": "The Kandali festival is celebrated in the Bhotia tribe after how many years?",
+        "options": ["(a) 6", "(b) 8", "(c) 10", "(d) 12"],
+        "answer": "(d) 12"
+      },
+      {
+        "question": "Which tribe speaks the 'Romba' language?",
+        "options": ["(a) Jaunsari", "(b) Tharu", "(c) Jad", "(d) Raji"],
+        "answer": "(c) Jad"
+      },
+
+      {
+        "question": "In which of the following tribes was the practice of 'Ryang-Bang' (marriage by capture) prevalent?",
+        "options": ["Bhotia", "Shauka", "Jad", "Tharu"],
+        "answer": "Bhotia"
+      },
+      {
+        "question": "People of which tribe worship the deity named Badhnath?",
+        "options": ["Jaunsari", "Tharu", "Boksa", "Raji"],
+        "answer": "Jaunsari"
+      },
+      {
+        "question": "Which of the following is a festival of the Boksa tribe?",
+        "options": ["Hogan", "Helya", "Gotre", "All of these"],
+        "answer": "All of these"
+      },
+      {
+        "question": "People of which tribe speak Maithili, Awadhi, Bhavri, Nepali, and mixed Pahari dialects?",
+        "options": ["Tharu", "Jaunsari", "Boksa", "Raji"],
+        "answer": "Tharu"
+      },
+      {
+        "question": "The political institution called 'Sayana' was found in which tribe?",
+        "options": ["Bhotia", "Jaunsari", "Shauka", "Tharu"],
+        "answer": "Bhotia"
+      },
+      {
+        "question": "Which of the following is not found in Uttarakhand?",
+        "options": ["Bhil", "Meena", "Boksa", "Jaunsari"],
+        "answer": "Meena"
+      },
+      {
+        "question": "Who is the author of 'Veer Kesari' and the first poet of Jaunsar?",
+        "options": [
+          "Kedar Singh",
+          "Pt. Shivram",
+          "Kriparam Joshi",
+          "Nand Lal Bharti"
+        ],
+        "answer": "Pt. Shivram"
+      },
+      {
+        "question": "Who is considered the father of political awareness among the Jaunsari people?",
+        "options": [
+          "Pt. Shivram",
+          "Kedar Singh",
+          "Veer Kesari Chand",
+          "Gulab Singh"
+        ],
+        "answer": "Gulab Singh"
+      },
+      {
+        "question": "What are the folk songs of the Bhotia tribe?",
+        "options": ["Subet", "Tyura", "Bajyu", "All of these"],
+        "answer": "All of these"
+      },
+      {
+        "question": "Where is the Maushamela organized?",
+        "options": ["Chamoli", "Uttarkashi", "Jaunsar", "Ranikhet"],
+        "answer": "Jaunsar"
+      },
+      {
+        "question": "Which tribe used to trade with Tibet before the Sino-Indian War of 1962?",
+        "options": ["Raji", "Boksa", "Bhotia", "Tharu"],
+        "answer": "Bhotia"
+      },
+      {
+        "question": "Which tribe calls their clan 'Gotra'?",
+        "options": ["Bhotia", "Jaunsari", "Tharu", "Raji"],
+        "answer": "Bhotia"
+      },
+      {
+        "question": "Which tribe has the tradition of 'Gotha' system?",
+        "options": ["Bhotia", "Jaunsari", "Tharu", "Raji"],
+        "answer": "Bhotia"
+      },
+      {
+        "question": "According to the 2011 census, which tribe has the highest population in Uttarakhand?",
+        "options": ["Jaunsari", "Bhotia", "Boksa", "Tharu"],
+        "answer": "Tharu"
+      },
+      {
+        "question": "In which of the following districts does the maximum population of the Jaunsari tribe reside?",
+        "options": ["Udham Singh Nagar", "Nainital", "Almora", "Dehradun"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "Which of the following Legislative Assembly seats is reserved for Scheduled Tribes in Uttarakhand?",
+        "options": ["Purula", "Khatima", "Nanakmata", "Thoradun"],
+        "answer": "Nanakmata"
+      },
+      {
+        "question": "Which of the following is not a marriage tradition of the Tharu tribe?",
+        "options": ["Apna-Paraya", "Paki-Paudi", "Timatri", "All of these"],
+        "answer": "Timatri"
+      },
+      {
+        "question": "The Losar festival is related to which tribe of Uttarakhand?",
+        "options": ["Jad-Bhotia", "Tharu", "Jaunsari", "Shauka"],
+        "answer": "Jad-Bhotia"
+      },
+      {
+        "question": "Which of the following tribes is not related to Uttarakhand?",
+        "options": ["Tharu", "Bhotia", "Raji", "Gond"],
+        "answer": "Gond"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: Population and Urbanization",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which district has the lowest percentage of educated people according to 2011?",
+        "options": ["Chamoli", "Dehradun", "Nainital", "Udham Singh Nagar"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "id": 2,
+        "question": "Which district has the highest population of the state according to 2011?",
+        "options": ["Almora", "Dehradun", "Haridwar", "Udham Singh Nagar"],
+        "answer": "Haridwar"
+      },
+      {
+        "id": 3,
+        "question": "Which of the following districts had a negative population growth rate during 2001-11?",
+        "options": ["Almora", "Chamoli", "Nainital", "Pithoragarh"],
+        "answer": "Almora"
+      },
+      {
+        "id": 4,
+        "question": "What was the population of Uttarakhand according to the year 2001?",
+        "options": ["60 lakh", "75 lakh", "85 lakh", "1 crore"],
+        "answer": "85 lakh"
+      },
+      {
+        "id": 5,
+        "question": "Which district has the highest literacy rate according to 2011?",
+        "options": ["Uttarkashi", "Dehradun", "Nainital", "Pauri"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 6,
+        "question": "What is the male and female literacy rate in the state according to the 2011 census?",
+        "options": [
+          "87.84% & 70.00%",
+          "83.1% & 59.5%",
+          "83.8% & 59.2%",
+          "83.6% & 59.3%"
+        ],
+        "answer": "87.84% & 70.00%"
+      },
+      {
+        "id": 7,
+        "question": "What is the average literacy rate in the state according to 2011?",
+        "options": ["79.63%", "87.40%", "78.82%", "75.80%"],
+        "answer": "78.82%"
+      },
+      {
+        "id": 8,
+        "question": "What is the correct descending order of the following districts based on female literacy rate according to the 2011 census?",
+        "options": [
+          "Udham Singh Nagar, Pithoragarh, Rudraprayag",
+          "Pithoragarh, Rudraprayag, Udham Singh Nagar",
+          "Udham Singh Nagar, Rudraprayag, Pithoragarh",
+          "Rudraprayag, Udham Singh Nagar, Pithoragarh"
+        ],
+        "answer": "Pithoragarh, Rudraprayag, Udham Singh Nagar"
+      },
+      {
+        "id": 9,
+        "question": "In 2011, Uttarakhand's decadal growth rate was compared to the national average:",
+        "options": ["Lower", "Higher", "Equal", "Approximately Equal"],
+        "answer": "Lower"
+      },
+      {
+        "id": 10,
+        "question": "Which district has the highest sex ratio according to 2011?",
+        "options": ["Almora", "Rudraprayag", "Pauri", "Pithoragarh"],
+        "answer": "Almora"
+      },
+      {
+        "id": 11,
+        "question": "Which district has the lowest sex ratio according to 2011?",
+        "options": ["Dehradun", "Haridwar", "Udham Singh Nagar", "Nainital"],
+        "answer": "Haridwar"
+      },
+      {
+        "id": 12,
+        "question": "Which district has the lowest population density according to 2011?",
+        "options": ["Bageshwar", "Pithoragarh", "Chamoli", "Uttarkashi"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "id": 13,
+        "question": "Which district has the highest decadal growth rate according to 2011?",
+        "options": ["Udham Singh Nagar", "Haridwar", "Dehradun", "Nainital"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "id": 14,
+        "question": "According to 2011, how many districts in the state have a population of more than 10 lakh?",
+        "options": ["5", "3", "2", "1"],
+        "answer": "3"
+      },
+      {
+        "id": 15,
+        "question": "According to 2011, how many districts in the state have a literacy rate lower than the national average?",
+        "options": ["3", "1", "2", "0"],
+        "answer": "0"
+      },
+      {
+        "id": 16,
+        "question": "Which district has the lowest urbanization rate according to 2011?",
+        "options": ["Champawat", "Bageshwar", "Rudraprayag", "Uttarkashi"],
+        "answer": "Bageshwar"
+      },
+      {
+        "id": 17,
+        "question": "Which district has the highest urbanization rate according to 2011?",
+        "options": ["Haridwar", "Nainital", "Dehradun", "Tehri"],
+        "answer": "Dehradun"
+      },
+      {
+        "id": 18,
+        "question": "According to 2011, which of the following has the minimum population?",
+        "options": ["Uttarkashi", "Rudraprayag", "Bageshwar", "Champawat"],
+        "answer": "Rudraprayag"
+      },
+      {
+        "id": 19,
+        "question": "What is the percentage of child population in the total population of the state according to 2011?",
+        "options": ["16.02%", "16.75%", "13.44%", "14.07%"],
+        "answer": "13.44%"
+      },
+      {
+        "id": 20,
+        "question": "What was the population growth rate in the state during 2001-11 according to 2011?",
+        "options": ["20.41%", "19.71%", "18.75%", "18.81%"],
+        "answer": "18.81%"
+      },
+      {
+        "question": "Which district has the lowest percentage of educated people according to 2011?",
+        "options": ["Chamoli", "Dehradun", "Nainital", "Udham Singh Nagar"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "question": "Which district has the highest population of the state according to 2011?",
+        "options": ["Almora", "Dehradun", "Haridwar", "Udham Singh Nagar"],
+        "answer": "Haridwar"
+      },
+      {
+        "question": "Which of the following districts had a negative population growth rate during 2001-11?",
+        "options": ["Almora", "Chamoli", "Nainital", "Pithoragarh"],
+        "answer": "Almora"
+      },
+      {
+        "question": "What was the population of Uttarakhand according to the year 2001?",
+        "options": ["60 lakh", "75 lakh", "85 lakh", "1 crore"],
+        "answer": "85 lakh"
+      },
+      {
+        "question": "Which district has the highest literacy rate according to 2011?",
+        "options": ["Uttarkashi", "Dehradun", "Nainital", "Pauri"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "What is the male and female literacy rate in the state according to the 2011 census?",
+        "options": [
+          "87.84% & 70.00%",
+          "83.1% & 59.5%",
+          "83.8% & 59.2%",
+          "83.6% & 59.3%"
+        ],
+        "answer": "87.84% & 70.00%"
+      },
+      {
+        "question": "What is the average literacy rate in the state according to 2011?",
+        "options": ["79.63%", "87.40%", "78.82%", "75.80%"],
+        "answer": "78.82%"
+      },
+      {
+        "question": "What is the correct descending order of the following districts based on female literacy rate according to the 2011 census?",
+        "options": [
+          "Udham Singh Nagar, Pithoragarh, Rudraprayag",
+          "Pithoragarh, Rudraprayag, Udham Singh Nagar",
+          "Udham Singh Nagar, Rudraprayag, Pithoragarh",
+          "Rudraprayag, Udham Singh Nagar, Pithoragarh"
+        ],
+        "answer": "Pithoragarh, Rudraprayag, Udham Singh Nagar"
+      },
+      {
+        "question": "In 2011, Uttarakhand's decadal growth rate was compared to the national average:",
+        "options": ["Lower", "Higher", "Equal", "Approximately Equal"],
+        "answer": "Lower"
+      },
+      {
+        "question": "Which district has the highest sex ratio according to 2011?",
+        "options": ["Almora", "Rudraprayag", "Pauri", "Pithoragarh"],
+        "answer": "Almora"
+      },
+      {
+        "question": "Which district has the lowest sex ratio according to 2011?",
+        "options": ["Dehradun", "Haridwar", "Udham Singh Nagar", "Nainital"],
+        "answer": "Haridwar"
+      },
+      {
+        "question": "Which district has the lowest population density according to 2011?",
+        "options": ["Bageshwar", "Pithoragarh", "Chamoli", "Uttarkashi"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "question": "Which district has the highest decadal growth rate according to 2011?",
+        "options": ["Udham Singh Nagar", "Haridwar", "Dehradun", "Nainital"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "question": "According to 2011, how many districts in the state have a population of more than 10 lakh?",
+        "options": ["5", "3", "2", "1"],
+        "answer": "3"
+      },
+      {
+        "question": "According to 2011, how many districts in the state have a literacy rate lower than the national average?",
+        "options": ["3", "1", "2", "0"],
+        "answer": "0"
+      },
+      {
+        "question": "Which district has the lowest urbanization rate according to 2011?",
+        "options": ["Champawat", "Bageshwar", "Rudraprayag", "Uttarkashi"],
+        "answer": "Bageshwar"
+      },
+      {
+        "question": "Which district has the highest urbanization rate according to 2011?",
+        "options": ["Haridwar", "Nainital", "Dehradun", "Tehri"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "According to 2011, which of the following has the minimum population?",
+        "options": ["Uttarkashi", "Rudraprayag", "Bageshwar", "Champawat"],
+        "answer": "Rudraprayag"
+      },
+      {
+        "question": "What is the percentage of child population in the total population of the state according to 2011?",
+        "options": ["16.02%", "16.75%", "13.44%", "14.07%"],
+        "answer": "13.44%"
+      },
+      {
+        "question": "What was the population growth rate in the state during 2001-11 according to 2011?",
+        "options": ["20.41%", "19.71%", "18.75%", "18.81%"],
+        "answer": "18.81%"
+      },
+      {
+        "question": "What was the total population of Uttarakhand state according to the 2011 census?",
+        "options": ["1,50,48,560", "1,00,86,292", "1,90,09,280", "1,51,54,178"],
+        "answer": "1,00,86,292"
+      },
+      {
+        "question": "What was Uttarakhand's rank in the country in terms of literacy according to the 2011 census?",
+        "options": ["17th", "18th", "19th", "20th"],
+        "answer": "17th"
+      },
+      {
+        "question": "Which district has the highest population of Uttarakhand according to the 2011 census?",
+        "options": ["Almora", "Dehradun", "Udham Singh Nagar", "Haridwar"],
+        "answer": "Haridwar"
+      },
+      {
+        "question": "Which district had the lowest literacy rate in Uttarakhand state according to the 2011 census?",
+        "options": [
+          "Uttarkashi",
+          "Tehri Garhwal",
+          "Haridwar",
+          "Udham Singh Nagar"
+        ],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "question": "What was Uttarakhand's rank in India in terms of sex ratio?",
+        "options": ["13th", "17th", "25th", "20th"],
+        "answer": "13th"
+      },
+      {
+        "question": "What was Uttarakhand's rank in India in terms of population density according to the 2011 census?",
+        "options": ["25th", "27th", "28th", "29th"],
+        "answer": "25th"
+      },
+      {
+        "question": "What was the population density of Uttarakhand according to the 2011 census?",
+        "options": ["189", "186", "173", "194"],
+        "answer": "189"
+      },
+      {
+        "question": "Which district has the highest urban population according to the 2011 census?",
+        "options": ["Dehradun", "Udham Singh Nagar", "Haridwar", "Champawat"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "In which districts did the child sex ratio increase according to the 2011 census?",
+        "options": [
+          "Tehri-Bageshwar",
+          "Pauri-Almora",
+          "Uttarkashi-Champawat",
+          "Chamoli-Rudraprayag"
+        ],
+        "answer": "Pauri-Almora"
+      },
+      {
+        "question": "What is the correct descending order of the following districts based on literacy rate according to the 2011 census?",
+        "options": [
+          "Udham Singh Nagar, Pithoragarh, Rudraprayag",
+          "Pithoragarh, Rudraprayag, Udham Singh Nagar",
+          "Udham Singh Nagar, Rudraprayag, Pithoragarh",
+          "Rudraprayag, Udham Singh Nagar, Pithoragarh"
+        ],
+        "answer": "Pithoragarh, Rudraprayag, Udham Singh Nagar"
+      },
+      {
+        "question": "What is the total number of municipal corporations in Uttarakhand state at present?",
+        "options": ["Nine", "Seven", "Eight", "Six"],
+        "answer": "Nine"
+      },
+      {
+        "question": "What was Uttarakhand's rank according to India's sex ratio in 2018?",
+        "options": ["13th", "17th", "25th", "20th"],
+        "answer": "13th"
+      },
+      {
+        "question": "Which of the following urban centers in Uttarakhand registered the highest negative population growth (%) during 2001-2011?",
+        "options": [
+          "Lansdowne Cantonment Board",
+          "Almora Cantonment Board",
+          "Dehradun Cantonment Board",
+          "Roorkee Cantonment Board"
+        ],
+        "answer": "Almora Cantonment Board"
+      },
+      {
+        "question": "What was the child sex ratio in Uttarakhand according to the 2011 census?",
+        "options": ["963", "980", "890", "950"],
+        "answer": "890"
+      },
+      {
+        "question": "Arrange the following districts in ascending order of population density according to the 2011 census?",
+        "options": [
+          "Chamoli, Almora, Dehradun, Haridwar",
+          "Almora, Dehradun, Haridwar, Chamoli",
+          "Dehradun, Haridwar, Almora, Chamoli",
+          "Haridwar, Almora, Dehradun, Chamoli"
+        ],
+        "answer": "Chamoli, Almora, Dehradun, Haridwar"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: Cultural Elements",
+    "questions": [
+      {
+        "question": "The 'Jagar' method of worshiping deities is primarily prevalent in:",
+        "options": ["Madhya Pradesh", "Uttarakhand", "Haryana", "Assam"],
+        "answer": "Uttarakhand"
+      },
+      {
+        "question": "Which of the following fairs in the state is held at the confluence of the Kali and Gori rivers?",
+        "options": [
+          "Joljibi Fair",
+          "Uttarayani Fair",
+          "Bagwal Fair",
+          "Gindi Fair"
+        ],
+        "answer": "Joljibi Fair"
+      },
+      {
+        "question": "Who is the author of the book 'Garhwal Paintings'?",
+        "options": ["Mukundi Lal", "H.G. Walton", "Mola Ram", "Patiram"],
+        "answer": "Mukundi Lal"
+      },
+      {
+        "question": "Which of the following books was written by Mukundi Lal?",
+        "options": [
+          "Some Notes on Bholaram",
+          "Garhwal Paintings",
+          "Garhwal School of Painting and All"
+        ],
+        "answer": "Garhwal Paintings"
+      },
+      {
+        "question": "Which of the following painters is not related to the Garhwal style?",
+        "options": ["Heera Lal", "Mangat Ram", "Vyalram Mangatram", "None"],
+        "answer": "None"
+      },
+      {
+        "question": "For which style of painting is the poet-painter Mola Ram famous?",
+        "options": ["Masoli Garhwal", "Guler", "Kangra"],
+        "answer": "Masoli Garhwal"
+      },
+      {
+        "question": "Which of the following 4 festivals is celebrated in Uttaranchal for the welfare of children?",
+        "options": ["Birudia", "Bhirauli", "Haretta", "Khatadua"],
+        "answer": "Bhirauli"
+      },
+      {
+        "question": "Which of the folk dances of the Garhwal region is performed when a newly married girl visits her maternal home for the first time?",
+        "options": ["Chauphula", "Jagar", "Jhurmala Vadiya"],
+        "answer": "Chauphula"
+      },
+      {
+        "question": "What is the ornament called 'Tilhari' that women in Uttarakhand wear?",
+        "options": [
+          "In the nose",
+          "In the feet",
+          "Around the neck",
+          "In the hands"
+        ],
+        "answer": "Around the neck"
+      },
+      {
+        "question": "The festival 'Bagwal' or 'Bagwai' celebrated in the state is:",
+        "options": ["Holi", "Diwali", "Dussehra", "Sankranti"],
+        "answer": "Diwali"
+      },
+      {
+        "question": "Who composed the tune of the famous folk song 'Bedi Pako Nara Masa' of Uttarakhand?",
+        "options": [
+          "Late Rabindranath Tagore",
+          "Late Kum. Mahadevi Varma",
+          "Late Sumitranandan Pant",
+          "Late Bajendra Lal Shah"
+        ],
+        "answer": "Late Bajendra Lal Shah"
+      },
+      {
+        "question": "Jhal, Vinai, Damama, and Turiyo are:",
+        "options": [
+          "Rivers of Arunachal",
+          "Mountain peaks of Ladakh",
+          "Musical instruments of Kumaon",
+          "Temples of Garhwal"
+        ],
+        "answer": "Musical instruments of Kumaon"
+      },
+      {
+        "question": "What is 'Harela'?",
+        "options": ["Festival", "Place", "Vegetable", "Fruit"],
+        "answer": "Festival"
+      },
+      {
+        "question": "What is the distance covered in the 'Nanda Raj Jat' pilgrimage from 'Kansuwa' to 'Hom Kund'?",
+        "options": ["180 km", "220 km", "280 km", "250 km"],
+        "answer": "280 km"
+      },
+      {
+        "question": "Where is the 'Bagwal Fair' held?",
+        "options": ["Lohaghat", "Bageshwar", "Champawat", "Devidhura"],
+        "answer": "Devidhura"
+      },
+      {
+        "question": "When did the famous 'Gauchar Fair' start?",
+        "options": ["1930", "1951", "1961", "1943"],
+        "answer": "1943"
+      },
+      {
+        "question": "Where was the Sanskrit Academy established? (Lecturer - 2009)",
+        "options": ["Rishikesh", "Kanvashram", "Haridwar", "Devprayag"],
+        "answer": "Haridwar"
+      },
+      {
+        "question": "Where was the Uday Shankar Dance and Drama Academy established in 2003? (Lecturer - 2009)",
+        "options": ["Almora", "Nainital", "Dehradun", "Haridwar"],
+        "answer": "Almora"
+      },
+      {
+        "question": "In which city is the college affiliated to Bhatkhande Hindustani Sangeet Sansthan, Dehradun, not located for music education? (Lecturer - 2009)",
+        "options": ["Dehradun", "Uttarkashi", "Almora", "Pauri"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "question": "Where was the Folk Art Institute established in the state? (UDA 2001)",
+        "options": ["Dehradun", "Almora", "Haridwar", "Pithoragarh"],
+        "answer": "Almora"
+      },
+      {
+        "question": "Where is the 'Devidhura Fair' held? (UDA 2009)",
+        "options": [
+          "Pithoragarh",
+          "Haridwar",
+          "Champawat",
+          "Udham Singh Nagar"
+        ],
+        "answer": "Champawat"
+      },
+      {
+        "question": "In which state is the 'Nanda Devi Mahotsav' celebrated? (UDA 2009)",
+        "options": ["Uttarakhand", "Manipur", "Rajasthan", "Bihar"],
+        "answer": "Uttarakhand"
+      },
+      {
+        "question": "Where is the Somnath (Masi) Fair held? (PCS Pre. 2010)",
+        "options": [
+          "Uttar Pradesh",
+          "Uttarakhand",
+          "Madhya Pradesh",
+          "Rajasthan"
+        ],
+        "answer": "Uttarakhand"
+      },
+      {
+        "question": "The Nanda Raj Jat Yatra is organized:",
+        "options": [
+          "Every 6 years",
+          "Every 10 years",
+          "Every 5 years",
+          "Every 12 years"
+        ],
+        "answer": "Every 12 years"
+      },
+      {
+        "question": "The 'Ramtulla' musical instrument is mandatorily played in which 'Jaunsari folk dance'? (Draftsman - 2023)",
+        "options": ["Budiyal", "Harul", "Taandi", "Pandvart"],
+        "answer": "Budiyal"
+      },
+      {
+        "question": "Where is the Baikunth Chaturdashi Fair held? (PCS Main - 2010)",
+        "options": ["Srinagar", "Satpali", "Devprayag", "Lansdowne"],
+        "answer": "Srinagar"
+      },
+      {
+        "question": "In the Garhwal region, the Thadiya dance is performed:",
+        "options": [
+          "On the birth of a child",
+          "When a woman visits her maternal home for the first time",
+          "At the time of marriage",
+          "At the time of engagement"
+        ],
+        "answer": "When a woman visits her maternal home for the first time"
+      },
+      {
+        "question": "Which of the following was not a famous painter of Uttarakhand? (Draftsman - 2023)",
+        "options": ["Shyamdas Tomar", "Gheela Ram", "Manohar", "Kehar Das"],
+        "answer": "Shyamdas Tomar"
+      },
+      {
+        "question": "Who was a famous painter of the Garhwal style?",
+        "options": [
+          "Kishori Lal",
+          "Mahidhar Dangwal",
+          "Mola Ram",
+          "Mukundi Lal"
+        ],
+        "answer": "Mola Ram"
+      },
+      {
+        "question": "Which of the following is correctly matched?",
+        "options": [
+          "Pithoragarh: Bal Mela",
+          "Rishikesh: Kumbh Mela",
+          "Uttarkashi: Cheti",
+          "Almora: Joljibi"
+        ],
+        "answer": "Almora: Joljibi"
+      },
+      {
+        "question": "Which of the following is not related to Uttarakhand?",
+        "options": ["Jagar", "Ramman", "Nanda Jat", "Phool Walon Ki Sair"],
+        "answer": "Phool Walon Ki Sair"
+      },
+      {
+        "question": "Where is the Cheti Mela held?",
+        "options": ["K.M.N.", "Uttarkashi", "Dehradun", "None of these"],
+        "answer": "K.M.N."
+      },
+      {
+        "question": "Who is the singer of the official state song of Uttarakhand, 'Uttarakhand Devbhoomi Matribhoomi'?",
+        "options": [
+          "Narendra Singh Negi",
+          "Malini Awasthi",
+          "Karan Nawani",
+          "Shivam Sadana"
+        ],
+        "answer": "Narendra Singh Negi"
+      },
+      {
+        "question": "In which language was the film 'Jagwal' made?",
+        "options": ["Kumaoni", "Garhwali", "Hindi", "Jaunsari"],
+        "answer": "Garhwali"
+      },
+      {
+        "question": "In which language is the film 'Megha Aa'?",
+        "options": ["Haryanvi", "Bengali", "Garhwali", "Kumaoni"],
+        "answer": "Kumaoni"
+      },
+      {
+        "question": "Which of the following fairs and their districts are not correctly matched?",
+        "options": [
+          "Jhanda Mela - Dehradun",
+          "Baikunth Chaturdashi Mela - Pauri",
+          "Bissu Mela - Uttarkashi",
+          "Thal Mela - Almora"
+        ],
+        "answer": "Thal Mela - Almora"
+      },
+      {
+        "question": "Which of the following fairs and their districts are not correctly matched?",
+        "options": [
+          "Maneshwar Mela - Champawat",
+          "Somnath Mela - Almora",
+          "Tapkeshwar Mela - Dehradun",
+          "Vikas Mela - Dehradun"
+        ],
+        "answer": "Vikas Mela - Dehradun"
+      },
+      {
+        "question": "Which of the following fairs and their districts are not correctly matched?",
+        "options": [
+          "Ladi Dhura Mela - Champawat",
+          "Gindiya Gir Mela - Pauri",
+          "Jiyarani Mela - Almora",
+          "Gochar Mela - Chamoli"
+        ],
+        "answer": "Jiyarani Mela - Almora"
+      },
+      {
+        "question": "Every year, the fifth Dham Yatra (Khatling-Dharmadevi Kund) is organized in:",
+        "options": ["Chamoli", "Tehri", "Uttarkashi", "Champawat"],
+        "answer": "Tehri"
+      },
+      {
+        "question": "What is 'Chholiya', a dance form of Uttarakhand?",
+        "options": ["River", "Temple", "Folk dance", "Dish"],
+        "answer": "Folk dance"
+      },
+      {
+        "question": "Every year, 'Hijyatra' is celebrated during the paddy sowing season in:",
+        "options": ["Nainital", "Almora", "Champawat", "Pithoragarh"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "question": "Every year, a month-long 'Shravani Mela' is held in the month of Shravan in:",
+        "options": ["Haridwar", "Tehri", "Almora", "Uttarkashi"],
+        "answer": "Almora"
+      },
+      {
+        "question": "The 'Ghughuti' dance is performed by children in:",
+        "options": [
+          "Garhwal region",
+          "Kumaon region",
+          "Jaunsar region",
+          "Bhotia region"
+        ],
+        "answer": "Garhwal region"
+      },
+      {
+        "question": "'Tagdi' is an ornament worn on which part of the body?",
+        "options": ["Neck", "Arm", "Waist", "Feet"],
+        "answer": "Waist"
+      },
+      {
+        "question": "The Nanda Raj Jat Yatra of 2014 was held during which period?",
+        "options": [
+          "August 4th to September 6th",
+          "August 16th to September 16th",
+          "August 18th to September 6th",
+          "August 21st to September 10th"
+        ],
+        "answer": "August 18th to September 6th"
+      },
+      {
+        "question": "'Vipralabdha Nayika' is a painting by:",
+        "options": ["Mola Ram", "Haridas", "Mangatram", "Jwala Ram"],
+        "answer": "Mola Ram"
+      },
+      {
+        "question": "The painting 'Tiger and Bharal (Himalayan Blue Sheep)' is by which of the following?",
+        "options": [
+          "Jwala Ram",
+          "Mola Ram",
+          "Mukundi Lal",
+          "Prithvi Pati Shah"
+        ],
+        "answer": "Mola Ram"
+      },
+      {
+        "question": "The 'Harela' festival of Uttarakhand is related to:",
+        "options": [
+          "Folk dance",
+          "Animal husbandry",
+          "Plantation",
+          "None of these"
+        ],
+        "answer": "Plantation"
+      },
+      {
+        "question": "What type of song is 'Bhata Santa'?",
+        "options": [
+          "Patriotic song",
+          "Religious song",
+          "Entertainment song",
+          "None of these"
+        ],
+        "answer": "Entertainment song"
+      },
+      {
+        "question": "Who are the composers of the songs 'Kaafal Pako' and 'Nandini Geet'?",
+        "options": [
+          "Ghumani Pant",
+          "Chandrakunwar Bartwal",
+          "Gaurda",
+          "Kishori Lal"
+        ],
+        "answer": "Ghumani Pant"
+      },
+      {
+        "question": "The Devidhura or Bagwal fair is organized in which district?",
+        "options": ["Dehradun", "Haridwar", "Pithoragarh", "Champawat"],
+        "answer": "Champawat"
+      },
+      {
+        "question": "Pukhuli, Nakhuli, and Gulband are what?",
+        "options": ["Dance style", "Folk song", "Jewelry", "Towns"],
+        "answer": "Jewelry"
+      },
+      {
+        "question": "The Joljibi fair is organized at the confluence of which rivers?",
+        "options": [
+          "Kali and Bhagirathi",
+          "Alaknanda and Bhagirathi",
+          "Kali and Gori",
+          "Kali and Alaknanda"
+        ],
+        "answer": "Kali and Gori"
+      },
+      {
+        "question": "The Askot-Arakot Abhiyan is conducted by whom?",
+        "options": [
+          "Government of India",
+          "UNESCO",
+          "Pahad Sansthan",
+          "Kumaon Mandal Vikas Nigam"
+        ],
+        "answer": "Pahad Sansthan"
+      },
+      {
+        "question": "The famous 'Kailash-Mansarovar Yatra' passes through which pass?",
+        "options": [
+          "Niti Pass",
+          "Lipulekh Pass",
+          "Lampiya Dhura Pass",
+          "Barahoti Pass"
+        ],
+        "answer": "Lipulekh Pass"
+      },
+      {
+        "question": "In which of the following dances, songs are not sung?",
+        "options": ["Chhopati", "Jhoda", "Chhapeli", "Choliya"],
+        "answer": "Choliya"
+      },
+      {
+        "question": "In which part of the body is the 'Bulak' ornament worn?",
+        "options": ["Neck", "Nose", "Ear", "Feet"],
+        "answer": "Nose"
+      },
+      {
+        "question": "Which of the following is a musical instrument?",
+        "options": ["Chauphula", "Hudka", "Choliya", "None of these"],
+        "answer": "Hudka"
+      },
+      {
+        "question": "Where is the 'Bishu Mela' organized?",
+        "options": ["Champawat", "Pithoragarh", "Jaunsar Bawar", "Chamoli"],
+        "answer": "Jaunsar Bawar"
+      },
+      {
+        "question": "Choose the incorrect pair.",
+        "options": [
+          "Jhanda Mela - Dehradun",
+          "Sonanadi Park - Tehri Garhwal",
+          "Valley of Flowers - Chamoli",
+          "Nanakmatta - Udham Singh Nagar"
+        ],
+        "answer": "Sonanadi Park - Tehri Garhwal"
+      },
+      {
+        "question": "Which of the following is related to the Nanda Raj Jat Yatra?",
+        "options": [
+          "Chausinghya Khadu",
+          "Intoli",
+          "Both (a) and (b)",
+          "None of these"
+        ],
+        "answer": "Both (a) and (b)"
+      },
+      {
+        "question": "The famous traditional ornament 'Tilhari' worn by women in Uttarakhand is worn on which part of the body?",
+        "options": ["Nose", "Feet", "Neck", "Hands"],
+        "answer": "Neck"
+      },
+      {
+        "question": "Which ornament is worn on the hand in Uttarakhand?",
+        "options": ["Bugmal", "Phuli", "Mundri", "Imarti"],
+        "answer": "Mundri"
+      },
+      {
+        "question": "What is the meaning of 'Jagar'?",
+        "options": [
+          "Jagar or songs that awaken society",
+          "Entertainment song",
+          "War song",
+          "None of the above"
+        ],
+        "answer": "Jagar or songs that awaken society"
+      },
+      {
+        "question": "What is the meaning of the word 'Kauthig'?",
+        "options": [
+          "Fair",
+          "Dance",
+          "A food product",
+          "Grains and coarse grains"
+        ],
+        "answer": "Fair"
+      },
+      {
+        "question": "On what occasion is the 'Hudkiya Bol' sung?",
+        "options": [
+          "On the occasion of a wedding ceremony",
+          "On the occasion of planting and weeding",
+          "On the occasion of harvesting crops",
+          "None of the above"
+        ],
+        "answer": "On the occasion of planting and weeding"
+      },
+      {
+        "question": "Which of the following is a folk musical instrument of Uttarakhand?",
+        "options": ["Veena", "Sitar", "Hudka", "Tanpura"],
+        "answer": "Hudka"
+      },
+      {
+        "question": "Which of the following is a film in the Kumaoni language?",
+        "options": ["Jamwal", "Chhoti Bwari", "Chalda Jatra", "None of these"],
+        "answer": "None of these"
+      },
+      {
+        "question": "In which fair of Uttarakhand is there a tradition of catching fish?",
+        "options": [
+          "Moun Mela (Mahaga River)",
+          "Cheti Mela",
+          "Gendi Mela",
+          "Slalde-Bikauti Mela"
+        ],
+        "answer": "Moun Mela (Mahaga River)"
+      },
+      {
+        "question": "Which of the following is a folk dance of Uttarakhand?",
+        "options": [
+          "Chhopati",
+          "Jhora",
+          "Chholiya",
+          "All of the above are folk dances"
+        ],
+        "answer": "All of the above are folk dances"
+      },
+      {
+        "question": "Why is Padmashri Basanti Bisht famous?",
+        "options": [
+          "Jagar singing",
+          "Classical music",
+          "Acting",
+          "None of these"
+        ],
+        "answer": "Jagar singing"
+      },
+      {
+        "question": "What is 'Chauphula'?",
+        "options": ["Tehsil", "Folk instrument", "Dance", "Holy place"],
+        "answer": "Dance"
+      },
+      {
+        "question": "Where is the Winterline Carnival celebrated?",
+        "options": ["Mussoorie", "Bageshwar", "Uttarkashi", "Champawat"],
+        "answer": "Mussoorie"
+      },
+      {
+        "question": "Which fair is held at the Balasundari Devi temple in Kashipur?",
+        "options": [
+          "Ramnavami Mela",
+          "Gochar Mela",
+          "Cheti Mela",
+          "Kumbh Mela"
+        ],
+        "answer": "Cheti Mela"
+      },
+      {
+        "question": "Which statement is incorrect about Ramman?",
+        "options": [
+          "It is a folk festival of Chamoli district",
+          "Dance is performed with masks",
+          "Dhol is used in it",
+          "It has been declared a World Heritage by UNESCO"
+        ],
+        "answer": "Dhol is used in it"
+      },
+      {
+        "question": "The Varuni Panchkosi Yatra takes place in:",
+        "options": ["Chamoli", "Rudraprayag", "Uttarkashi", "Bageshwar"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "question": "What is 'Kandwa' in Uttarakhand?",
+        "options": ["Festival", "Tool", "Jewelry", "Dance style"],
+        "answer": "Jewelry"
+      },
+      {
+        "question": "Which dance uses a sword?",
+        "options": [
+          "Choliya Dance",
+          "Langveer Dance",
+          "Pandav Dance",
+          "Barda Nati Dance"
+        ],
+        "answer": "Choliya Dance"
+      },
+      {
+        "question": "The 'Ramman' folk tradition is related to:",
+        "options": ["Salud, Dungra", "Nagnath", "Guptkashi", "Niti"],
+        "answer": "Salud, Dungra"
+      },
+      {
+        "question": "From which place does the Mansarovar Yatra enter Uttarakhand?",
+        "options": ["Pindari Glacier", "Lipulekh Pass", "Trail Pass", "Milam"],
+        "answer": "Lipulekh Pass"
+      },
+      {
+        "question": "Which of the following fairs was declared a state fair by the Minister of Tourism, Government of Uttarakhand on August 5, 2022?",
+        "options": ["Jagra", "Jiyarani", "Sitavani", "Saman"],
+        "answer": "Jagra"
+      },
+      {
+        "question": "Where is the Shri Nanda Devi Raj Jat Yatra Mela organized in Uttarakhand?",
+        "options": ["Bageshwar", "Chamba", "Kotdwar", "Chamoli"],
+        "answer": "Chamoli"
+      },
+      {
+        "question": "Pappu Karki's art was related to which field?",
+        "options": ["Music", "Dance", "Painting", "Sculpture"],
+        "answer": "Music"
+      },
+      {
+        "question": "What is 'Hardudha' related to?",
+        "options": [
+          "Goddess Durga",
+          "Lord Krishna",
+          "Nagdevta",
+          "All of the above"
+        ],
+        "answer": "Nagdevta"
+      },
+      {
+        "question": "Which of the following is not a traditional ornament worn on the 'nose' in Uttarakhand?",
+        "options": ["Nath", "Mukhi", "Bulak", "Phuli"],
+        "answer": "Mukhi"
+      },
+      {
+        "question": "Which of the following is not a folk musical instrument of Uttarakhand?",
+        "options": ["Bowl Damau", "Ransingha", "Hudka", "Tanpura"],
+        "answer": "Tanpura"
+      },
+      {
+        "question": "When was 'Hilljatra' started?",
+        "options": [
+          "By the Gorkhas",
+          "By the British",
+          "By Muslim rulers",
+          "By the Tehri Naresh"
+        ],
+        "answer": "By the Gorkhas"
+      },
+      {
+        "question": "What is 'Chhapeli'?",
+        "options": [
+          "A form of singing",
+          "A form of dance",
+          "A type of jewelry",
+          "A type of animal"
+        ],
+        "answer": "A form of singing"
+      },
+      {
+        "question": "Which two painters came to the 'Garhwal Darbar' from Shah Jahan's court?",
+        "options": [
+          "Heera Lal and Mangatram",
+          "Shyamdas and Hardas",
+          "Molaram and Dashwant",
+          "None of the above"
+        ],
+        "answer": "Heera Lal and Mangatram"
+      },
+      {
+        "question": "Which of the following is not a wind or reed instrument?",
+        "options": ["Vinai - Dhar", "Makira", "Ransingha", "Nagfani"],
+        "answer": "Vinai - Dhar"
+      },
+      {
+        "question": "Which of the following is a wind instrument?",
+        "options": ["Hudka", "Nagfani", "Bowl", "Yotara"],
+        "answer": "Nagfani"
+      },
+      {
+        "question": "Which of the following ornaments is not worn on the hand?",
+        "options": ["Dhagul", "Gokhale", "Pounchi", "Murkhali"],
+        "answer": "Murkhali"
+      },
+      {
+        "question": "In which district of Uttarakhand are the rock paintings of Lakhudiyar located?",
+        "options": ["Chamoli", "Uttarkashi", "Almora", "Champawat"],
+        "answer": "Almora"
+      }
+    ]
+  },
+  {
+    "chapter": "Major Cities, Tourism and Religious Places",
+    "questions": [
+      {
+        "question": "The Joshimath Auli Ropeway was started in:",
+        "options": [
+          "September 1992",
+          "September 1993",
+          "October 1993",
+          "November 1994"
+        ],
+        "answer": "October 1993"
+      },
+      {
+        "question": "Which river flows from Kedarnath to Rudraprayag?",
+        "options": ["Bhagirathi", "Alaknanda", "Saryu", "Mandakini"],
+        "answer": "Mandakini"
+      },
+      {
+        "question": "The Badrinath Temple is located in:",
+        "options": ["Chamoli", "Rudraprayag", "Tehri", "Uttarkashi"],
+        "answer": "Chamoli"
+      },
+      {
+        "question": "Which of the following is not one of the Panch Kedars?",
+        "options": ["Kalpeshwar", "Rudranath", "Tungnath", "Vishwanath"],
+        "answer": "Vishwanath"
+      },
+      {
+        "question": "The largest glacier in Uttarakhand is:",
+        "options": ["Milam", "Kafni", "Gangotri", "Sundardhunga"],
+        "answer": "Gangotri"
+      },
+      {
+        "question": "Which is the largest glacier of Kumaon?",
+        "options": ["Milam", "Kafni", "Pindari", "Sundar Dhunga"],
+        "answer": "Milam"
+      },
+      {
+        "question": "Which place in the state was called the Switzerland of India by Mahatma Gandhi?",
+        "options": ["Mussoorie", "Auli", "Kausani", "Nainital"],
+        "answer": "Kausani"
+      },
+      {
+        "question": "Hemkund Lake is surrounded by how many mountains?",
+        "options": ["5 mountains", "7 mountains", "8 mountains", "9 mountains"],
+        "answer": "7 mountains"
+      },
+      {
+        "question": "Which place is at the shortest distance from Kailash Mansarovar?",
+        "options": [
+          "Narayan Ashram",
+          "Mayawati Ashram",
+          "Anasakti Ashram",
+          "Tawaghat"
+        ],
+        "answer": "Tawaghat"
+      },
+      {
+        "question": "Where is the Askot Wildlife Sanctuary located?",
+        "options": ["Almora", "Chamoli", "Uttarkashi", "Pithoragarh"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "question": "Which place, located 165 km from Pithoragarh, is known for woolen goods (shawls, pankhi, pashmina shawls), carpets, and herbs?",
+        "options": ["Gwaldam", "Joshimath", "Munsiyari", "Mana"],
+        "answer": "Munsiyari"
+      },
+      {
+        "question": "Where did Gandhiji write his famous introduction 'Anasakti Yog' to the 'Shrimad Bhagavad Gita'?",
+        "options": ["Almora", "Haridwar", "Kausani", "Mussoorie"],
+        "answer": "Kausani"
+      },
+      {
+        "question": "One of the twelve Jyotirlingas of Lord Shiva is located in:",
+        "options": ["Haridwar", "Rishikesh", "Badrinath", "Kedarnath"],
+        "answer": "Kedarnath"
+      },
+      {
+        "question": "Which hill station of Uttarakhand is called the 'Queen of Hills'?",
+        "options": ["Mussoorie", "Nainital", "Kausani", "Ranikhet"],
+        "answer": "Mussoorie"
+      },
+      {
+        "question": "Which of the following is not included in the Panch Prayags?",
+        "options": [
+          "Dev Prayag",
+          "Rudra Prayag",
+          "Karna Prayag",
+          "Nand Prayag"
+        ],
+        "answer": "Dev Prayag"
+      },
+      {
+        "question": "Which temple is included in the twelve Jyotirlingas?",
+        "options": ["Bagnath", "Mungnath", "Kalpeshwarnath", "Kedarnath"],
+        "answer": "Kedarnath"
+      },
+      {
+        "question": "In which district groups are the five Prayags located?",
+        "options": [
+          "Chamoli, Rudraprayag, Pauri",
+          "Chamoli, Rudraprayag, Tehri",
+          "Uttarkashi, Rudraprayag, Tehri",
+          "Rudraprayag, Tehri, Haridwar"
+        ],
+        "answer": "Chamoli, Rudraprayag, Tehri"
+      },
+      {
+        "question": "In which district groups are the Char Dham (Gangotri, Yamunotri, Badrinath, and Kedarnath) of Uttarakhand located?",
+        "options": [
+          "Uttarkashi, Chamoli, Tehri",
+          "Uttarkashi, Tehri, Pauri",
+          "Uttarkashi, Rudraprayag, Chamoli",
+          "Uttarkashi, Rudraprayag, Tehri"
+        ],
+        "answer": "Uttarkashi, Rudraprayag, Chamoli"
+      },
+      {
+        "question": "In which district of Uttarakhand is the Kedarnath temple located?",
+        "options": ["Chamoli", "Tehri", "Rudraprayag", "Uttarkashi"],
+        "answer": "Rudraprayag"
+      },
+      {
+        "question": "Which of the following Panch Kedars is located in Rudraprayag?",
+        "options": [
+          "Kedarnath",
+          "Tungnath",
+          "Madmaheshwarnath",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "Which is the highest Dham among the four Dhams of the state?",
+        "options": ["Badrinath", "Kedarnath", "Gangotri", "Yamunotri"],
+        "answer": "Kedarnath"
+      },
+      {
+        "question": "Which is the highest temple in the state?",
+        "options": ["Vishwanath", "Kedarnath", "Tungnath", "Madmaheshwarnath"],
+        "answer": "Tungnath"
+      },
+      {
+        "question": "According to scholars, Khandavavan was the present-day:",
+        "options": ["Haridwar", "Uttarkashi", "Nainital", "Chamoli"],
+        "answer": "Haridwar"
+      },
+      {
+        "question": "Which of the following temples is located near Ranikhet?",
+        "options": ["Kalika Mandir", "Kot Mai", "Hokara Devi", "Gaura Mai"],
+        "answer": "Kot Mai"
+      },
+      {
+        "question": "What is not found near the Badrinath (Vishal Badri) temple?",
+        "options": [
+          "Panch Dharas",
+          "Panch Shilas",
+          "Panch Kunds",
+          "Panch Guhas"
+        ],
+        "answer": "Panch Guhas"
+      },
+      {
+        "question": "Where is Om Parvat located?",
+        "options": ["Uttarkashi", "Rudraprayag", "Chamoli", "Pithoragarh"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "question": "Which hill station is called the 'Queen of Hills'?",
+        "options": ["Ranikhet", "Mussoorie", "Nainital", "None of these"],
+        "answer": "Mussoorie"
+      },
+      {
+        "question": "Dhikala is the entrance gate of which national park?",
+        "options": ["Rajaji", "Valley of Flowers", "Corbett", "Govind"],
+        "answer": "Corbett"
+      },
+      {
+        "question": "What is the ancient name of 'Kuberpur'?",
+        "options": ["Dehradun", "Rishikesh", "Kumaon", "Almora"],
+        "answer": "Rishikesh"
+      },
+      {
+        "question": "What is the ancient name of Uttarkashi?",
+        "options": ["Dwarahat", "Dodihat", "Barahat", "Yamkeshwar"],
+        "answer": "Barahat"
+      },
+      {
+        "question": "Where is the famous Sun Temple located?",
+        "options": ["Katarmal", "Purnagiri", "Gangotri", "Badrinath"],
+        "answer": "Katarmal"
+      },
+      {
+        "question": "Where is Vashisht Gufa located?",
+        "options": ["Chamoli", "Uttarkashi", "Tehri", "Pithoragarh"],
+        "answer": "Tehri"
+      },
+      {
+        "question": "Badrinath Dham is located in which district of the state?",
+        "options": ["Haridwar", "Chamoli", "Rudraprayag", "Uttarkashi"],
+        "answer": "Chamoli"
+      },
+      {
+        "question": "Where is the Jyotirmath of Shankaracharya located?",
+        "options": ["Gopeshwar", "Chamoli", "Joshimath", "Uttarkashi"],
+        "answer": "Joshimath"
+      },
+      {
+        "question": "Which of the following is not correctly matched?",
+        "options": [
+          "Tamranagari - Almora",
+          "Bal Mithai Ghar - Nainital",
+          "Mini Kashmir - Pithoragarh",
+          "Gayatri Teerth - Haridwar"
+        ],
+        "answer": "Bal Mithai Ghar - Nainital"
+      },
+      {
+        "question": "Which of the following is not correctly matched?",
+        "options": [
+          "Punad - Rudraprayag",
+          "Uttar Kashi - Vibhandeshwar",
+          "Uttar Varanasi - Bageshwar",
+          "City of Tourists - Mussoorie"
+        ],
+        "answer": "City of Tourists - Mussoorie"
+      },
+      {
+        "question": "Which of the following is not correctly matched?",
+        "options": [
+          "Bharat ka Edinburgh - Ranikhet",
+          "Himalaya ki Dwarika - Dwarahat",
+          "Balana - Kausani",
+          "Chhota Kashmir - Pithoragarh"
+        ],
+        "answer": "Balana - Kausani"
+      },
+      {
+        "question": "What is the correct order of the four Dhams in the state in increasing order of distance from Haridwar?",
+        "options": [
+          "Kedarnath, Yamunotri, Gangotri, Badrinath",
+          "Kedarnath, Gangotri, Yamunotri, Badrinath",
+          "Yamunotri, Gangotri, Kedarnath, Badrinath",
+          "Yamunotri, Kedarnath, Gangotri, Badrinath"
+        ],
+        "answer": "Yamunotri, Gangotri, Kedarnath, Badrinath"
+      },
+      {
+        "question": "What is the correct order of the four Dhams in the state in increasing order of altitude above sea level?",
+        "options": [
+          "Gangotri, Badrinath, Yamunotri, Kedarnath",
+          "Gangotri, Kedarnath, Yamunotri, Badrinath",
+          "Yamunotri, Gangotri, Kedarnath, Badrinath",
+          "Badrinath, Kedarnath, Yamunotri, Gangotri"
+        ],
+        "answer": "Yamunotri, Gangotri, Badrinath, Kedarnath"
+      },
+      {
+        "question": "Which of the following Kunds is not near Badrinath?",
+        "options": ["Tapt Kund", "Narad Kund", "Vyas Kund", "Satyapath Kund"],
+        "answer": "Vyas Kund"
+      },
+      {
+        "question": "Which of the following Maths is not correctly matched?",
+        "options": [
+          "Kalimath - Rudraprayag",
+          "Keshorai Math - Tehri",
+          "Shankar Math - Pauri",
+          "Jyotirmath - Chamoli"
+        ],
+        "answer": "Keshorai Math - Tehri"
+      },
+      {
+        "question": "The Nar and Narayan mountains near Badrinath represent:",
+        "options": [
+          "Narad and Vishnu",
+          "Vyas and Vishnu",
+          "Arjun and Vishnu",
+          "Ganesh and Vishnu"
+        ],
+        "answer": "Arjun and Vishnu"
+      },
+      {
+        "question": "Which of the following caves and districts is not correctly matched?",
+        "options": [
+          "Vashisht Gufa - Tehri",
+          "Shringi Rishi Gufa - Uttarkashi",
+          "Ram Gufa - Chamoli",
+          "Shankar Gufa - Rudraprayag"
+        ],
+        "answer": "Shankar Gufa - Rudraprayag"
+      },
+      {
+        "question": "On which mountain is the Mansa Devi temple located in Haridwar?",
+        "options": [
+          "Neel Parvat",
+          "Bilva Parvat",
+          "Drona Parvat",
+          "Saptarishi Parvat"
+        ],
+        "answer": "Bilva Parvat"
+      },
+      {
+        "question": "Who is the presiding deity of Haridwar?",
+        "options": ["Mansa Devi", "Ganga Devi", "Chandi Devi", "Sharda Devi"],
+        "answer": "Mansa Devi"
+      },
+      {
+        "question": "Where is the Tapovan located?",
+        "options": ["Haridwar", "Dehradun", "Tehri", "Pauri"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "Which of the following places is not in Dehradun?",
+        "options": [
+          "Fun Valley",
+          "Robber's Cave",
+          "Malsi Deer Park",
+          "Har Ki Dun"
+        ],
+        "answer": "Har Ki Dun"
+      },
+      {
+        "question": "Which of the following temples is located in Garhwal?",
+        "options": ["Shravan Nag", "Bedinag", "Nag Nath Pokhari", "Kali Nag"],
+        "answer": "Nag Nath Pokhari"
+      },
+      {
+        "question": "What is the architectural style of the Katarmal Sun Temple?",
+        "options": [
+          "Nagara style",
+          "Dravidian style",
+          "Uttarakhand style",
+          "Mughal style"
+        ],
+        "answer": "Uttarakhand style"
+      },
+      {
+        "question": "Which place is known as the gateway to Gangotri and Yamunotri?",
+        "options": ["Rishikesh", "Dev Prayag", "Haridwar", "Mussoorie"],
+        "answer": "Rishikesh"
+      },
+      {
+        "question": "Which of the following is described in Kalidasa's 'Meghadutam' poem?",
+        "options": ["Kanvashram", "Kankhal", "Kalpeshwar", "Kalsi"],
+        "answer": "Kanvashram"
+      },
+      {
+        "question": "Where is a temple of Lakshman Ji located?",
+        "options": ["Devikund", "Har Ki Dun", "Hemkund", "Roopkund"],
+        "answer": "Har Ki Dun"
+      },
+      {
+        "question": "Where is the Chitai Temple located?",
+        "options": ["Nainital", "Champawat", "Almora", "Bageshwar"],
+        "answer": "Almora"
+      },
+      {
+        "question": "Which of the following does not participate in the famous Bagwal fair of Devidhura?",
+        "options": ["Lamgadiya", "Chamyal", "Latayal", "Walik"],
+        "answer": "Walik"
+      },
+      {
+        "question": "The Rawal priests of Badrinath are traditionally residents of which state?",
+        "options": ["Assam", "Maharashtra", "Telangana", "Kerala"],
+        "answer": "Kerala"
+      },
+      {
+        "question": "Which national park is spread across three districts?",
+        "options": [
+          "Gangotri National Park",
+          "Nanda Devi National Park",
+          "Corbett National Park",
+          "Rajaji National Park"
+        ],
+        "answer": "Rajaji National Park"
+      },
+      {
+        "question": "Which national park attracts the most tourists? Corbett National Park is in the first place in this regard. Which is in the second place?",
+        "options": [
+          "Rajaji National Park",
+          "Valley of Flowers",
+          "Nanda Devi National Park",
+          "Gangotri National Park"
+        ],
+        "answer": "Rajaji National Park"
+      },
+      {
+        "question": "The Patli Dun is located in the middle of which national park?",
+        "options": [
+          "Rajaji National Park",
+          "Gangotri National Park",
+          "Corbett National Park",
+          "Govind National Park"
+        ],
+        "answer": "Corbett National Park"
+      },
+      {
+        "question": "Which of the following national parks has the largest area in the state?",
+        "options": [
+          "Rajaji National Park",
+          "Nanda Devi National Park",
+          "Corbett National Park",
+          "Gangotri National Park"
+        ],
+        "answer": "Gangotri National Park"
+      },
+      {
+        "question": "Which of the following wildlife sanctuaries has the largest area in the state?",
+        "options": [
+          "Govind Wildlife Sanctuary",
+          "Kedarnath Wildlife Sanctuary",
+          "Askot Wildlife Sanctuary",
+          "Sonanadi Wildlife Sanctuary"
+        ],
+        "answer": "Kedarnath Wildlife Sanctuary"
+      },
+      {
+        "question": "The idol installed by Adi Guru Shankaracharya in Badrinath was retrieved from:",
+        "options": ["Narad Kund", "Gauri Kund", "Hom Kund", "Hem Kund"],
+        "answer": "Narad Kund"
+      },
+      {
+        "question": "Where is the temple of Rahu located?",
+        "options": [
+          "Dangsera (Paithani)",
+          "Balisain",
+          "Ranikhet",
+          "Pabau (Pauri)"
+        ],
+        "answer": "Dangsera (Paithani)"
+      },
+      {
+        "question": "In which district is the Mahakali Shaktipeeth located?",
+        "options": ["Pithoragarh", "Nainital", "Tehri", "Haridwar"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "question": "In which district is the ancient Nag Nath temple located?",
+        "options": ["Almora", "Nainital", "Chamoli", "Champawat"],
+        "answer": "Champawat"
+      },
+      {
+        "question": "The temple of 'Golu Devta' is located in which of the following districts?",
+        "options": ["Tehri", "Nainital", "Almora", "Pithoragarh"],
+        "answer": "Almora"
+      },
+      {
+        "question": "The 'Muni ki Reti' located in Rishikesh falls under which district?",
+        "options": ["Tehri", "Pauri", "Haridwar", "Dehradun"],
+        "answer": "Tehri"
+      },
+      {
+        "question": "Which of the following is not included in the 'Panch Kedar'?",
+        "options": ["Tungnath", "Rudranath", "Kalpeshwar", "Jogeshwar"],
+        "answer": "Jogeshwar"
+      },
+      {
+        "question": "At which place in Uttarakhand was the first Arya Samaj temple of India built?",
+        "options": ["Almora", "Nainital", "Kausani", "Ranikhet"],
+        "answer": "Almora"
+      },
+      {
+        "question": "Which of the following is not correctly matched?",
+        "options": [
+          "Gateway to the Gods - Haridwar",
+          "Gateway to Gangotri-Yamunotri - Mussoorie",
+          "Entrance gate of Corbett - Dhikala",
+          "Gateway of Ganga - Gangotri"
+        ],
+        "answer": "Gateway to Gangotri-Yamunotri - Mussoorie"
+      },
+      {
+        "question": "In which district is the Chiplakedar temple located?",
+        "options": ["Rudraprayag", "Chamoli", "Pithoragarh", "Pauri"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "question": "The religious journey of which of the following starts on foot from Gauri Kund?",
+        "options": ["Badrinath", "Gangotri", "Kedarnath", "Amarnath"],
+        "answer": "Kedarnath"
+      },
+      {
+        "question": "Where is the Bagnath temple located?",
+        "options": ["Pithoragarh", "Nainital", "Dehradun", "Bageshwar"],
+        "answer": "Bageshwar"
+      },
+      {
+        "question": "Kanvashram is situated on the banks of which river?",
+        "options": ["Yamuna", "Malini", "Koshi", "Tons"],
+        "answer": "Malini"
+      },
+      {
+        "question": "Choose the correct pair.",
+        "options": [
+          "Gangotri and Yamunotri temples - Uttarkashi",
+          "Nanakmatta - Udham Singh Nagar",
+          "Jhanda Mela - Dehradun",
+          "All the above pairs are correct"
+        ],
+        "answer": "All the above pairs are correct"
+      },
+      {
+        "question": "The tourism area 'Khirsu' is located in which of the following districts?",
+        "options": ["Tehri", "Pithoragarh", "Pauri", "Chamoli"],
+        "answer": "Pauri"
+      },
+      {
+        "question": "Where is the famous Tapkeshwar Mahadev temple located?",
+        "options": [
+          "Chamoli district",
+          "Bageshwar district",
+          "Almora district",
+          "Dehradun district"
+        ],
+        "answer": "Dehradun district"
+      },
+      {
+        "question": "Where is the Nag Devtal located?",
+        "options": ["Tehri", "Pauri", "Haridwar", "Dehradun"],
+        "answer": "Tehri"
+      },
+      {
+        "question": "Where is 'Piran Kaliyar' located?",
+        "options": ["Haridwar", "Dehradun", "Near Roorkee", "Rishikesh"],
+        "answer": "Near Roorkee"
+      },
+      {
+        "question": "Which British traveler discovered Nainital?",
+        "options": ["Henry Ramsay", "E. Gardner", "E.T. Atkinson", "P. Barron"],
+        "answer": "P. Barron"
+      },
+      {
+        "question": "The famous temple of Katarmal is dedicated to which deity?",
+        "options": ["Shiva", "Surya", "Ganesh", "None of these"],
+        "answer": "Surya"
+      },
+      {
+        "question": "Which of the following is Patal Bhuvaneshwar?",
+        "options": ["A cave", "A lake", "A park", "A river"],
+        "answer": "A cave"
+      },
+      {
+        "question": "Choose the correct pair from the following.",
+        "options": [
+          "Harshil - Uttarkashi",
+          "Ukhimath - Rudraprayag",
+          "Kalimath - Nainital",
+          "Both (a) and (b) are true"
+        ],
+        "answer": "Both (a) and (b) are true"
+      },
+      {
+        "question": "Which of the following pair/pairs is/are correct?",
+        "options": [
+          "Tapkeshwar Temple - Dehradun",
+          "Kedarnath Temple - Rudraprayag",
+          "Jageshwar Temple Group - Almora",
+          "All the above are true"
+        ],
+        "answer": "All the above are true"
+      },
+      {
+        "question": "Choose the incorrect pair.",
+        "options": [
+          "Bharat Mata Mandir - Haridwar",
+          "Kainchi Dham - Almora",
+          "Kalimath - Rudraprayag",
+          "Kunjapuri Temple - Tehri"
+        ],
+        "answer": "Kainchi Dham - Almora"
+      },
+      {
+        "question": "In ancient times, which of the following was known as Kubjagrak?",
+        "options": ["Rishikesh", "Devprayag", "Haridwar", "Srinagar"],
+        "answer": "Rishikesh"
+      },
+      {
+        "question": "Which of the following is a sub-mountainous city?",
+        "options": ["Kathgodam", "Rishikesh", "Kotdwar", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "Where is the Kamaleshwar temple located?",
+        "options": ["Srinagar", "Roorkee", "Kashipur", "Dharchula"],
+        "answer": "Srinagar"
+      },
+      {
+        "question": "What is the ancient name of Haridwar?",
+        "options": [
+          "Haridun",
+          "Mayawati or Gangadwara",
+          "Gangotri",
+          "None of the above"
+        ],
+        "answer": "Mayawati or Gangadwara"
+      },
+      {
+        "question": "What is the historical name of Uttarkashi?",
+        "options": ["Somya Kashi", "Shrikshetra", "Gangotri", "Barahat"],
+        "answer": "Barahat"
+      },
+      {
+        "question": "Which of the following is not a sub-mountainous city?",
+        "options": ["Tanakpur", "Kotdwar", "Rudrapur", "Haridwar"],
+        "answer": "Rudrapur"
+      },
+      {
+        "question": "In which district of Uttarakhand is the Shri Purnagiri temple located?",
+        "options": ["Almora", "Champawat", "Nainital", "Tehri"],
+        "answer": "Champawat"
+      },
+      {
+        "question": "Which of the following places are located in Dehradun district?",
+        "options": [
+          "Malsi Deer Park",
+          "Tiger Fall",
+          "Lachhiwala",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "Where is 'Vyas Gufa' located?",
+        "options": ["Badrinath", "Kedarnath", "Yamunotri", "Gangotri"],
+        "answer": "Badrinath"
+      },
+      {
+        "question": "Where is the tourist spot named 'Lal Tibba' located?",
+        "options": ["Haldwani", "Mussoorie", "Pithoragarh", "Rudraprayag"],
+        "answer": "Mussoorie"
+      },
+      {
+        "question": "Where is Tiffin Top located?",
+        "options": ["Nainital", "Bhimtal", "Ranikhet", "Haldwani"],
+        "answer": "Nainital"
+      },
+      {
+        "question": "Where is 'Mahasu Devta' worshipped?",
+        "options": ["Pauri Garhwal", "Chamoli", "Almora", "Dehradun"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "Which of the following hill stations was called the 'Switzerland of India' by Mahatma Gandhi?",
+        "options": ["Nainital", "Mussoorie", "Ranikhet", "Kausani"],
+        "answer": "Kausani"
+      },
+      {
+        "question": "What is the mythological name of Uttarkashi?",
+        "options": [
+          "Varanasi",
+          "Somya Kashi",
+          "Dev Kashi",
+          "None of the above"
+        ],
+        "answer": "Somya Kashi"
+      },
+      {
+        "question": "In which district is the northernmost village of India, 'Mana', located?",
+        "options": ["Tehri Garhwal", "Chamoli", "Uttarkashi", "Rudraprayag"],
+        "answer": "Chamoli"
+      },
+      {
+        "question": "Who discovered the Valley of Flowers?",
+        "options": [
+          "Corbett Fall",
+          "Valley of Flowers",
+          "Kali Valley",
+          "Buddha Stupa"
+        ],
+        "answer": "Valley of Flowers"
+      },
+      {
+        "question": "Where is the Shriyantra Tapu located in Uttarakhand?",
+        "options": ["Haridwar", "Srinagar", "Dehradun", "Udham Singh Nagar"],
+        "answer": "Srinagar"
+      },
+      {
+        "question": "Which of the following is not included in the ancient four Siddhpeeths located in Dehradun district?",
+        "options": [
+          "Bhairav ​​Siddh",
+          "Lakshman Siddh",
+          "Manak Siddh",
+          "Mandoo Siddh"
+        ],
+        "answer": "Bhairav ​​Siddh"
+      },
+      {
+        "question": "Where is the Varahi Devi temple located in Uttarakhand?",
+        "options": ["Didihat", "Devidhura", "Yunagiri", "Pithoragarh"],
+        "answer": "Devidhura"
+      },
+      {
+        "question": "The Jageshwar Dham is situated on the banks of which river?",
+        "options": ["Ramganga", "Karali Ganga", "Gori Ganga", "Jataganga"],
+        "answer": "Jataganga"
+      },
+      {
+        "question": "Where is the famous 'Hat Kalika' temple located?",
+        "options": ["Badrinath", "Kedarnath", "Joshimath", "Gangolihat"],
+        "answer": "Gangolihat"
+      },
+      {
+        "question": "The famous Garjia Devi temple is situated on the banks of which river?",
+        "options": ["Nayar River", "Kosi River", "Tons River", "Pindar River"],
+        "answer": "Kosi River"
+      },
+      {
+        "question": "Where is Muchukunda Cave located?",
+        "options": [
+          "Near Badrinath",
+          "Near Kedarnath",
+          "Near Yamunotri",
+          "Near Gangotri"
+        ],
+        "answer": "Near Badrinath"
+      },
+      {
+        "question": "Where is Shankar Cave located?",
+        "options": ["Bageshwar", "Kotdwar", "Srinagar", "Devprayag"],
+        "answer": "Devprayag"
+      },
+      {
+        "question": "Which of the following Prayags is located at the highest altitude?",
+        "options": ["Karnaprayag", "Rudraprayag", "Nandprayag", "Vishnuprayag"],
+        "answer": "Vishnuprayag"
+      },
+      {
+        "question": "Which of the following pairs is a World Heritage Site?",
+        "options": [
+          "Kedarnath - Dunagiri",
+          "Jim Corbett Park and Binsar",
+          "Binsar and Valley of Flowers",
+          "Nanda Devi Park and Valley of Flowers"
+        ],
+        "answer": "Nanda Devi Park and Valley of Flowers"
+      },
+      {
+        "question": "In which year was Ramman declared a World Heritage?",
+        "options": ["2009", "2011", "2008", "2012"],
+        "answer": "2009"
+      },
+      {
+        "question": "In which year was the state declared as a Tourism Year?",
+        "options": ["2010 AD", "2009 AD", "2015 AD", "2016 AD"],
+        "answer": "2015 AD"
+      },
+      {
+        "question": "Who is the main deity of Jageshwar Dham?",
+        "options": [
+          "Lord Shiva",
+          "Lord Vishnu",
+          "Lord Ganesh",
+          "Goddess Durga"
+        ],
+        "answer": "Lord Shiva"
+      },
+      {
+        "question": "Who established Kainchi Dham?",
+        "options": [
+          "Munshi Ram",
+          "Maharani Guleria",
+          "Maharaj Neem Karoli",
+          "Swami Brahmanand"
+        ],
+        "answer": "Maharaj Neem Karoli"
+      },
+      {
+        "question": "Kathgodam is situated on the banks of which river?",
+        "options": ["Panar", "Koshi", "Ramganga", "Gaula"],
+        "answer": "Gaula"
+      },
+      {
+        "question": "India's 'Lichen Park' is being developed in:",
+        "options": ["Bharadisain", "Munsiyari", "Gangotri", "Doonagiri"],
+        "answer": "Munsiyari"
+      },
+      {
+        "question": "The famous temple of Neelkanth Mahadev is situated in which district of Uttarakhand?",
+        "options": ["Tehri Garhwal", "Pauri Garhwal", "Uttarkashi", "Chamoli"],
+        "answer": "Pauri Garhwal"
+      },
+      {
+        "question": "When was the Veer Chandra Singh Garhwali Tourism Self-Employment Scheme launched in Uttarakhand?",
+        "options": ["May 2001", "August 2001", "June 2002", "June 2006"],
+        "answer": "June 2002"
+      },
+      {
+        "question": "Bhadraj is a folk deity of:",
+        "options": [
+          "Jaunsar Bawar",
+          "Niti Valley",
+          "Kali Kumaon",
+          "Garhwal's 'Raat' region"
+        ],
+        "answer": "Jaunsar Bawar"
+      },
+      {
+        "question": "Kotishwar Cave is located in which district of Uttarakhand?",
+        "options": ["Dehradun", "Pithoragarh", "Rudraprayag", "Almora"],
+        "answer": "Rudraprayag"
+      },
+      {
+        "question": "The 'Lakha Mandal Temple' is built in which style?",
+        "options": [
+          "Besar style",
+          "Nagar style",
+          "Dravidian style",
+          "Chand style"
+        ],
+        "answer": "Nagar style"
+      },
+      {
+        "question": "Lakha Mandal is located in which district of Uttarakhand?",
+        "options": ["Tehri", "Dehradun", "Pauri", "Haridwar"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "What is the objective of the Parvatmala Yojana?",
+        "options": [
+          "To promote development",
+          "To promote rail network",
+          "To promote tourism",
+          "To promote culture"
+        ],
+        "answer": "To promote tourism"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: Soil, Agriculture, Animal Husbandry and Irrigation",
+    "questions": [
+      {
+        "question": "What is the pH value of most of the soil in the mountainous regions of the state?",
+        "options": [
+          "Less than 4.5",
+          "Between 4.5 and 5.0",
+          "Between 5.5 and 6.5",
+          "Between 7.0 and 7.5"
+        ],
+        "answer": "Between 5.5 and 6.5"
+      },
+      {
+        "question": "For terraced farming in mountainous regions, terraces should be constructed on slopes with a maximum percentage of:",
+        "options": ["15", "30", "45", "60"],
+        "answer": "30"
+      },
+      {
+        "question": "Which crop is seen in the flowering stage in the Terai region of the state in the month of April?",
+        "options": [
+          "Soybean",
+          "Arhar (Pigeonpea)",
+          "Sunflower",
+          "None of the above"
+        ],
+        "answer": "Sunflower"
+      },
+      {
+        "question": "Human labor contributes the most (approximately 60%) to agriculture in the mountainous regions of the state, which is provided by:",
+        "options": [
+          "Adult male workers",
+          "Child workers",
+          "Female workers",
+          "Agricultural laborers"
+        ],
+        "answer": "Female workers"
+      },
+      {
+        "question": "Milk and milk products in the state are sold under which brand name?",
+        "options": ["Aanchal", "Parag", "Nandan", "Amul"],
+        "answer": "Aanchal"
+      },
+      {
+        "question": "Which state has declared itself a 'Bio State' to promote organic farming?",
+        "options": [
+          "Uttarakhand",
+          "Chhattisgarh",
+          "Arunachal Pradesh",
+          "Rajasthan"
+        ],
+        "answer": "Uttarakhand"
+      },
+      {
+        "question": "The most important crop group grown in Uttarakhand is:",
+        "options": [
+          "Paddy, sugarcane, jhingora and arhar",
+          "Wheat, paddy, mandua and potato",
+          "Wheat, mandua, jhingora and potato",
+          "Paddy, wheat, arhar and lentil"
+        ],
+        "answer": "Wheat, paddy, mandua and potato"
+      },
+      {
+        "question": "Assertion (A): Terraced agriculture is an eco-friendly agricultural system in Garhwal.\nReason (R): It is a proper measure for soil and water conservation on hilly slopes.",
+        "options": [
+          "(A) and (R) are both true and (R) is the correct explanation of (A)",
+          "(A) and (R) are both true but (R) is not the correct explanation of (A)",
+          "(A) is true but (R) is false",
+          "(A) is false but (R) is true"
+        ],
+        "answer": "(A) and (R) are both true and (R) is the correct explanation of (A)"
+      },
+      {
+        "question": "The first land settlement done using scientific methods in the state was:",
+        "options": ["Fourth", "Seventh", "Ninth", "Eleventh"],
+        "answer": "Ninth"
+      },
+      {
+        "question": "The unit for measuring agricultural land in Uttarakhand is:",
+        "options": [
+          "Meter and centimeter",
+          "Yard and feet",
+          "Nali and Mutthi",
+          "Bigha and Biswa"
+        ],
+        "answer": "Nali and Mutthi"
+      },
+      {
+        "question": "In which place in the Garhwal region was a tea factory established in the year 1843?",
+        "options": ["Hawalbagh", "Lohba", "Gaholi", "None of these"],
+        "answer": "Lohba"
+      },
+      {
+        "question": "Which district has been included in the 'Litchi Export Zone' by the Government of India?",
+        "options": [
+          "Nainital",
+          "Dehradun",
+          "Udham Singh Nagar",
+          "All of the above"
+        ],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "How many square meters is 'one nali' of land equal to in Uttarakhand?",
+        "options": ["100 sq m", "200 sq m", "500 sq m", "1000 sq m"],
+        "answer": "200 sq m"
+      },
+      {
+        "question": "Which two-year crop rotation is popular in the rain-fed areas of Uttarakhand?",
+        "options": [
+          "Paddy - Wheat - Maize - Ginger",
+          "Paddy - Lentil - Maize - Pea",
+          "Paddy - Wheat - Mandua - Fallow",
+          "Paddy - Wheat - Mandua - Rye"
+        ],
+        "answer": "Paddy - Wheat - Mandua - Fallow"
+      },
+      {
+        "question": "Where is the State-Level Dairy Training Institute located in Uttarakhand?",
+        "options": ["Dehradun", "Almora", "Lalkuan", "Haridwar"],
+        "answer": "Lalkuan"
+      },
+      {
+        "question": "What is the sowing time for the Mentha crop?",
+        "options": [
+          "June 1st to 15th",
+          "September 1st to 15th",
+          "November 15th to 30th",
+          "January 15th to 30th"
+        ],
+        "answer": "January 15th to 30th"
+      },
+      {
+        "question": "What is the origin place of the Upper Ganga Canal?",
+        "options": ["Haridwar", "Kalagarh", "Karnaprayag", "Tehri"],
+        "answer": "Haridwar"
+      },
+      {
+        "question": "When did the wicket settlement occur?",
+        "options": ["1863-73", "1873-83", "1853-63", "1883-93"],
+        "answer": "1863-73"
+      },
+      {
+        "question": "The Mandua (Kodo) grain produced in the state is exported to:",
+        "options": ["America", "Japan", "Britain", "Singapore"],
+        "answer": "Japan"
+      },
+      {
+        "question": "When was the first land settlement done by the British in the state?",
+        "options": ["1823", "1817", "1816", "1815"],
+        "answer": "1816"
+      },
+      {
+        "question": "When was the first Milk Union established in the state in Haldwani?",
+        "options": ["1949", "1972", "1974", "1980"],
+        "answer": "1949"
+      },
+      {
+        "question": "Which of the following is not an agricultural implement of Uttarakhand?",
+        "options": ["Kutta", "Hal", "Maya", "Karboja"],
+        "answer": "Karboja"
+      },
+      {
+        "question": "The two crops cultivated on the maximum area in the state are:",
+        "options": [
+          "Wheat and rice",
+          "Wheat and sugarcane",
+          "Wheat and potato",
+          "Wheat and gram"
+        ],
+        "answer": "Wheat and rice"
+      },
+      {
+        "question": "Which of the following crops is cultivated in the hilly regions of the state?",
+        "options": ["Sugarcane", "Soybean", "Jhingora", "Moong"],
+        "answer": "Jhingora"
+      },
+      {
+        "question": "The maximum cultivable land in the state is in:",
+        "options": ["Haridwar", "Nainital", "Dehradun", "Udham Singh Nagar"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "question": "The minimum cultivable land in the state is in:",
+        "options": ["Uttarkashi", "Bageshwar", "Pauri", "Rudraprayag"],
+        "answer": "Rudraprayag"
+      },
+      {
+        "question": "When was the first land settlement after independence in the state?",
+        "options": ["1951-53", "1954-58", "1960-64", "1974-78"],
+        "answer": "1960-64"
+      },
+      {
+        "question": "Volcanic type soil is found in the state in:",
+        "options": ["Nainital", "Haridwar", "Almora", "Udham Singh Nagar"],
+        "answer": "Nainital"
+      },
+      {
+        "question": "Which of the following is not a pulse?",
+        "options": ["Gahet", "Toor", "Masoor", "Mung"],
+        "answer": "Mung"
+      },
+      {
+        "question": "According to the irrigation facility in the mountainous regions of the state, agricultural land is divided into three types. Which of the following is not included in those three types?",
+        "options": ["Talaun land", "Upraun land", "Ijran land", "Nam land"],
+        "answer": "Nam land"
+      },
+      {
+        "question": "When the land is more sandy, farming is done using the terraced method. These fields are plowed:",
+        "options": ["Straight", "Across", "Slanting", "From the middle"],
+        "answer": "Across"
+      },
+      {
+        "question": "Which medicinal plant cultivation was started first in the state?",
+        "options": ["Pyrethrum", "Belladonna", "Geranium", "Kutki"],
+        "answer": "Belladonna"
+      },
+      {
+        "question": "Geranium is cultivated in the state. What is the main product of Geranium?",
+        "options": [
+          "Beverage juice",
+          "Medicinal powder",
+          "Aromatic oil",
+          "Edible jelly"
+        ],
+        "answer": "Aromatic oil"
+      },
+      {
+        "question": "In which of the following districts is tea cultivation not done?",
+        "options": ["Haridwar", "Nainital", "Almora", "Chamoli"],
+        "answer": "Haridwar"
+      },
+      {
+        "question": "In which district of the state has a state-of-the-art tea production unit been established?",
+        "options": ["Nainital", "Almora", "Pithoragarh", "Bageshwar"],
+        "answer": "Bageshwar"
+      },
+      {
+        "question": "Which of the following soils is suitable for sugarcane and paddy cultivation in the state of Uttarakhand?",
+        "options": ["Volcanic soil", "Loam soil", "Red soil", "Terai soil"],
+        "answer": "Terai soil"
+      },
+      {
+        "question": "Which district ranks first in maize production?",
+        "options": ["Pithoragarh", "Udham Singh Nagar", "Nainital", "Dehradun"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "question": "Where is the maximum production of rice?",
+        "options": ["Nainital", "Pithoragarh", "Chamoli", "Udham Singh Nagar"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "question": "What type of silk is produced in the state?",
+        "options": ["Mulberry", "Tussar", "Munga", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What is the name given to the 'Bawangad' in the state?",
+        "options": [
+          "Bawangad Fort",
+          "Bawangad Hills",
+          "Bawangad Village",
+          "None of these"
+        ],
+        "answer": "Bawangad Fort"
+      },
+      {
+        "question": "Where is the Advanced Frozen Semen Production Center established in the state?",
+        "options": [
+          "Shyampur (Nainital)",
+          "Shyampur (Almora)",
+          "Shyampur (Dehradun)",
+          "Shyampur (Pithoragarh)"
+        ],
+        "answer": "Shyampur (Dehradun)"
+      },
+      {
+        "question": "Which of the following districts has the highest production of apples in Uttarakhand?",
+        "options": ["Uttarkashi", "Almora", "Chamoli", "Pithoragarh"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "question": "Which district is famous for tea production?",
+        "options": ["Pithoragarh", "Nainital", "Chamoli", "Tehri"],
+        "answer": "Nainital"
+      },
+      {
+        "question": "Who was the main propagator of the 'Chipko Movement'?",
+        "options": [
+          "Indira Gandhi",
+          "Sunderlal Bahuguna",
+          "Chandiprasad Bhatt",
+          "None of these"
+        ],
+        "answer": "Sunderlal Bahuguna"
+      },
+      {
+        "question": "Where was the Dairy Research and Development Institute established?",
+        "options": ["Almora", "Nainital", "Pithoragarh", "Dehradun"],
+        "answer": "Nainital"
+      },
+      {
+        "question": "Which of the following tea gardens has been famous as a tea estate since the British period?",
+        "options": ["Kausani", "Bhimtal", "Bhowali", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What is the percentage of cultivable land in Uttarakhand?",
+        "options": ["20%", "15%", "13%", "50%"],
+        "answer": "13%"
+      },
+      {
+        "question": "What is the contribution of canals to the state's net irrigated area?",
+        "options": ["Maximum", "Second highest", "Third highest", "Lowest"],
+        "answer": "Maximum"
+      },
+      {
+        "question": "Which fruit is not produced in the state of Uttarakhand?",
+        "options": ["Coconut", "Apple", "Litchi", "Malta"],
+        "answer": "Coconut"
+      },
+      {
+        "question": "The word 'Mudi' is used to measure which of the following in rural Uttarakhand?",
+        "options": [
+          "Trees",
+          "Land",
+          "Width of the river",
+          "Length of the road"
+        ],
+        "answer": "Land"
+      },
+      {
+        "question": "The word 'Bhakar' is used for:",
+        "options": [
+          "Water storage",
+          "Storage of fruit juices",
+          "Storage of food grains",
+          "Storage of milk"
+        ],
+        "answer": "Storage of food grains"
+      },
+      {
+        "question": "The seeds of which crop were brought to the state by the British?",
+        "options": ["Mandua", "Jhingora", "Potato", "Buckwheat"],
+        "answer": "Potato"
+      },
+      {
+        "question": "What is the average size of landholding in Uttarakhand?",
+        "options": [
+          "0.69 hectares",
+          "0.79 hectares",
+          "0.99 hectares",
+          "0.84 hectares"
+        ],
+        "answer": "0.84 hectares"
+      },
+      {
+        "question": "What is the oldest canal in Uttarakhand?",
+        "options": [
+          "Sharda Canal",
+          "Upper Ganga Canal",
+          "Eastern Ganga Canal",
+          "Ramganga Canal"
+        ],
+        "answer": "Upper Ganga Canal"
+      },
+      {
+        "question": "Which of the following is the canal constructed by the British in the state?",
+        "options": [
+          "Upper Ganga Canal",
+          "Eastern Ganga Canal",
+          "Ramganga Canal",
+          "Tons Canal"
+        ],
+        "answer": "Upper Ganga Canal"
+      },
+      {
+        "question": "Tea development program is being run in how many districts of the state?",
+        "options": ["7", "8", "9", "10"],
+        "answer": "9"
+      },
+      {
+        "question": "What is 'Ragi' called in Uttarakhand?",
+        "options": ["Indla", "Bajra", "Cheena", "Mandua"],
+        "answer": "Mandua"
+      },
+      {
+        "question": "Who was the main leader of the 'Beej Bachao Andolan'?",
+        "options": [
+          "Vijay Jardhari",
+          "Sunderlal Bahuguna",
+          "Ghum Singh Negi",
+          "Chandiprasad Bhatt"
+        ],
+        "answer": "Vijay Jardhari"
+      },
+      {
+        "question": "When was tea production first started in Uttarakhand?",
+        "options": ["1830", "1930", "1859", "1939"],
+        "answer": "1830"
+      },
+      {
+        "question": "When was the first agricultural policy implemented in Uttarakhand?",
+        "options": ["2008", "2011", "2016", "2006"],
+        "answer": "2011"
+      },
+      {
+        "question": "Which of the following pairs is not correctly matched?",
+        "options": [
+          "Fragrance Crop Excellence Center - Selakui",
+          "Aroma Park - Kashipur",
+          "Soil Testing Laboratory - Bhowali",
+          "Tea Factory - Udham Singh Nagar"
+        ],
+        "answer": "Tea Factory - Udham Singh Nagar"
+      },
+      {
+        "question": "Which district has the highest production of sugarcane in Uttarakhand?",
+        "options": ["Nainital", "Udham Singh Nagar", "Dehradun", "Bageshwar"],
+        "answer": "Udham Singh Nagar"
+      },
+      {
+        "question": "What is irrigated agricultural land called in Uttarakhand?",
+        "options": ["Talaun", "Jalov", "Uprav", "Khet"],
+        "answer": "Talaun"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: Mineral Resources",
+    "questions": [
+      {
+        "question": "When was the first 'Mining Policy' announced in the state of Uttarakhand?",
+        "options": ["2000", "2001", "2002", "2003"],
+        "answer": "2001"
+      },
+      {
+        "question": "The mining of minerals from the mines located in the forest areas of the state is done by which of the following?",
+        "options": [
+          "Garhwal Mandal Vikas Nigam",
+          "Kumaon Mandal Vikas Nigam",
+          "Uttarakhand Forest Development Corporation",
+          "Mineral Development Corporation"
+        ],
+        "answer": "Uttarakhand Forest Development Corporation"
+      },
+      {
+        "question": "In which of the following areas is there no reserve of high-quality limestone?",
+        "options": [
+          "Mandram area",
+          "Barkot area",
+          "Pipalkoti",
+          "Devaldhari area"
+        ],
+        "answer": "Devaldhari area"
+      },
+      {
+        "question": "Which of the following minerals is used in making cosmetics, soaps, etc.?",
+        "options": ["Chalk", "Magnesite", "Talc", "Selenite"],
+        "answer": "Talc"
+      },
+      {
+        "question": "What is found in the water of Sahastradhara Falls?",
+        "options": ["Soapstone", "Sulfur", "Gypsum", "Graphite"],
+        "answer": "Sulfur"
+      },
+      {
+        "question": "Which district has the largest reserves of marble in the state?",
+        "options": ["Chamoli", "Nainital", "Almora", "Dehradun"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "Where is the reserve of cream-colored, heavy, and hard type of limestone?",
+        "options": [
+          "Mandram area",
+          "Barkot area",
+          "Mussoorie area",
+          "Doiwala area"
+        ],
+        "answer": "Mussoorie area"
+      },
+      {
+        "question": "What is found in the Kaladhungi and Ramgarh areas of Nainital?",
+        "options": ["Iron", "Copper", "Limestone", "Talc"],
+        "answer": "Iron"
+      },
+      {
+        "question": "Which of the following is an ore of lead?",
+        "options": ["Magnesite", "Phosphorite", "Graphite", "Silica Sand"],
+        "answer": "Silica Sand"
+      },
+      {
+        "question": "Which of the following is used as a fire retardant?",
+        "options": ["Gypsum", "Sulfur", "Asbestos", "Talc"],
+        "answer": "Asbestos"
+      },
+      {
+        "question": "Which of the following is used as a lubricant?",
+        "options": ["Graphite", "Gypsum", "Talc", "Chalk"],
+        "answer": "Graphite"
+      },
+      {
+        "question": "Stone is an example of which type of rock?",
+        "options": [
+          "Sedimentary rock",
+          "Igneous rock",
+          "Metamorphic rock",
+          "Volcanic rock"
+        ],
+        "answer": "Sedimentary rock"
+      },
+      {
+        "question": "Which of the following minerals is found in Uttarakhand?",
+        "options": ["Pure Pitchstone", "Gypsum", "Graphite", "All of these"],
+        "answer": "All of these"
+      },
+      {
+        "question": "Barite mineral is found in:",
+        "options": ["Dehradun", "Uttarkashi", "Nainital", "Pauri Garhwal"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "The Jhiroli magnesite mine is famous in Almora district for:",
+        "options": [
+          "Copper mining",
+          "Magnesite mining",
+          "Gypsum mining",
+          "Graphite mining"
+        ],
+        "answer": "Copper mining"
+      },
+      {
+        "question": "Which of the following is a good type of iron ore?",
+        "options": ["Siderite", "Limonite", "Magnetite", "Hematite"],
+        "answer": "Magnetite"
+      },
+      {
+        "question": "Who led the anti-mining movement of the women of Khirakot?",
+        "options": [
+          "Gaura Devi",
+          "Bandana Shiva",
+          "Radha Behn",
+          "Basanti Devi"
+        ],
+        "answer": "Radha Behn"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: Forests, Forest Movements and Wildlife",
+    "questions": [
+      {
+        "question": "Which of the following is a Tiger Reserve?",
+        "options": [
+          "Nanda Devi National Park",
+          "Rajaji National Park",
+          "Corbett National Park",
+          "Binsar Wildlife Sanctuary"
+        ],
+        "answer": "Corbett National Park"
+      },
+      {
+        "question": "Where is the Wildlife Institute of India located?",
+        "options": ["New Delhi", "Shimla", "Dehradun", "Bhopal"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "Which of the following meadows is located in Uttarkashi district?",
+        "options": ["Bugyal", "Bedni", "Dayara", "Bugyal and Bedni"],
+        "answer": "Dayara"
+      },
+      {
+        "question": "Handicraft material 'Mosta' is made from:",
+        "options": ["Bamboo", "Rangal", "Pine bark", "Pangar wood"],
+        "answer": "Rangal"
+      },
+      {
+        "question": "What is India's first national park?",
+        "options": [
+          "Rajaji National Park",
+          "Valley of Flowers",
+          "Jim Corbett National Park",
+          "Gangotri National Park"
+        ],
+        "answer": "Jim Corbett National Park"
+      },
+      {
+        "question": "In which district of Uttarakhand did the Chipko Movement start?",
+        "options": ["Uttarkashi", "Tehri", "Chamoli", "Pauri"],
+        "answer": "Chamoli"
+      },
+      {
+        "question": "Where is the Askot Wildlife Sanctuary located?",
+        "options": ["Almora", "Chamoli", "Uttarkashi", "Pithoragarh"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "question": "Which tree is used to provide fodder to animals in the state?",
+        "options": ["Pine", "Oak", "Deodar", "Teak"],
+        "answer": "Oak"
+      },
+      {
+        "question": "Where is the Valley of Flowers located?",
+        "options": [
+          "Himachal Pradesh",
+          "Jammu and Kashmir",
+          "Sikkim",
+          "Uttarakhand"
+        ],
+        "answer": "Uttarakhand"
+      },
+      {
+        "question": "What is Kanchula Khark in Uttarakhand?",
+        "options": [
+          "A national park",
+          "A dam",
+          "A hill",
+          "A musk deer breeding center"
+        ],
+        "answer": "A musk deer breeding center"
+      },
+      {
+        "question": "Approximately how many species of herbs are found in Uttarakhand?",
+        "options": ["100", "500", "1000", "1800"],
+        "answer": "500"
+      },
+      {
+        "question": "Resin is obtained from:",
+        "options": ["Pine tree", "Deodar tree", "Oak tree", "Shisham tree"],
+        "answer": "Pine tree"
+      },
+      {
+        "question": "Who was the woman who led the women of the village in the Chipko Movement in 1974?",
+        "options": [
+          "Amrita Devi",
+          "Gaura Devi",
+          "Kamala Devi",
+          "None of these"
+        ],
+        "answer": "Gaura Devi"
+      },
+      {
+        "question": "Which tree is known as the 'Manav Tree'?",
+        "options": [
+          "Govind Vallabh Pant",
+          "Sunderlal Bahuguna",
+          "Chandi Prasad Bhatt",
+          "Vishveshwar Dutt Saklani"
+        ],
+        "answer": "Vishveshwar Dutt Saklani"
+      },
+      {
+        "question": "Smt. Gaura Devi of Reni village (Chamoli) was associated with:",
+        "options": [
+          "Beej Bachao Andolan",
+          "Maiti Movement",
+          "Chipko Movement",
+          "Prohibition Movement"
+        ],
+        "answer": "Chipko Movement"
+      },
+      {
+        "question": "Which of the following is a 'World Heritage Site'?",
+        "options": [
+          "Nanda Devi Biosphere Reserve",
+          "Rajaji National Park",
+          "Corbett Park",
+          "None of these"
+        ],
+        "answer": "Nanda Devi Biosphere Reserve"
+      },
+      {
+        "question": "Where is the maximum biodiversity found?",
+        "options": [
+          "Silent Valley",
+          "Kashmir Valley",
+          "Surma Valley",
+          "Valley of Flowers"
+        ],
+        "answer": "Valley of Flowers"
+      },
+      {
+        "question": "According to the 17th Forest Report, what percentage of the state's total area is covered by forests?",
+        "options": ["46.71", "46.25", "45.44", "45.25"],
+        "answer": "45.44"
+      },
+      {
+        "question": "Where is the Forest Research Institute located?",
+        "options": ["Delhi", "Dehradun", "Bhopal", "Lucknow"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "Which tree is called the 'Blessing of Uttarakhand'?",
+        "options": ["Buransh", "Oak", "Pine", "Birch"],
+        "answer": "Oak"
+      },
+      {
+        "question": "Taxol, a chemical for cancer treatment, is obtained from which medicinal tree in Uttarakhand?",
+        "options": ["Brahmi", "Bhimal", "Jhola", "Yew"],
+        "answer": "Yew"
+      },
+      {
+        "question": "Which of the following is not a name of the Valley of Flowers?",
+        "options": [
+          "Nandankanan",
+          "Byundar Park",
+          "Pushpawali",
+          "Pushpasarovar"
+        ],
+        "answer": "Pushpasarovar"
+      },
+      {
+        "question": "Which of the following is not a name of the Valley of Flowers?",
+        "options": ["Baikunth", "Alka", "Frank Smythe Valley", "Silent Valley"],
+        "answer": "Silent Valley"
+      },
+      {
+        "question": "In which district was the Chipko movement first started?",
+        "options": ["Uttarkashi", "Chamoli", "Tehri", "Pauri"],
+        "answer": "Chamoli"
+      },
+      {
+        "question": "What is the area of Corbett National Park?",
+        "options": ["520.82 sq km", "195.5 sq km", "3300 sq km", "1316 sq km"],
+        "answer": "520.82 sq km"
+      },
+      {
+        "question": "Which of the following is a Biosphere Reserve?",
+        "options": ["Govind", "Corbett", "Rajaji", "Nanda Devi"],
+        "answer": "Nanda Devi"
+      },
+      {
+        "question": "What is 'Mandan Kanan' mentioned in Mahabharata, currently known as?",
+        "options": [
+          "Dayara Bugyal",
+          "Valley of Flowers",
+          "Bedni Bugyal",
+          "Har Ki Dun"
+        ],
+        "answer": "Valley of Flowers"
+      },
+      {
+        "question": "Which is the wildlife sanctuary with the largest area in the state?",
+        "options": [
+          "Govind Wildlife Sanctuary",
+          "Kedarnath Wildlife Sanctuary",
+          "Askot Wildlife Sanctuary",
+          "Sonanadi Wildlife Sanctuary"
+        ],
+        "answer": "Kedarnath Wildlife Sanctuary"
+      },
+      {
+        "question": "Which of the following is related to the forest-related Chipko movement?",
+        "options": [
+          "Gaura Devi",
+          "Jaspaal Rana",
+          "Vidyadat Nautiyal",
+          "Ajit Doval"
+        ],
+        "answer": "Gaura Devi"
+      },
+      {
+        "question": "In which district group is the world-famous 'Jim Corbett National Park' located in Uttarakhand?",
+        "options": [
+          "Pithoragarh and Champawat",
+          "Chamoli and Rudraprayag",
+          "Nainital and Pauri Garhwal",
+          "Nainital and Udham Singh Nagar"
+        ],
+        "answer": "Nainital and Pauri Garhwal"
+      },
+      {
+        "question": "In which district is the world-famous Valley of Flowers located?",
+        "options": ["Rudraprayag", "Pithoragarh", "Chamoli", "Uttarkashi"],
+        "answer": "Chamoli"
+      },
+      {
+        "question": "Askot Wildlife Sanctuary is protected for:",
+        "options": [
+          "Musk deer species",
+          "Elephant species",
+          "Tiger species",
+          "None of the above"
+        ],
+        "answer": "Musk deer species"
+      },
+      {
+        "question": "When were forest panchayats formed for the first time in Uttarakhand?",
+        "options": ["1921 AD", "1927 AD", "1931 AD", "None of the above"],
+        "answer": "1931 AD"
+      },
+      {
+        "question": "Which Bugyal is famous for skiing in Chamoli district?",
+        "options": ["Bugji", "Dayara", "Auli", "Bedni"],
+        "answer": "Auli"
+      },
+      {
+        "question": "The Tilari incident is related to:",
+        "options": [
+          "Forest rights",
+          "Forest conservation",
+          "Forest trade",
+          "Wildlife conservation"
+        ],
+        "answer": "Forest rights"
+      },
+      {
+        "question": "Patli Dun is located in the middle of which national park?",
+        "options": [
+          "Govind National Park",
+          "Jim Corbett National Park",
+          "Nanda Devi National Park",
+          "Gangotri National Park"
+        ],
+        "answer": "Jim Corbett National Park"
+      },
+      {
+        "question": "The name 'Rajaji National Park' is dedicated to which famous person?",
+        "options": [
+          "Raja Harishchandra",
+          "C. Rajagopalachari",
+          "Raja Harkishan Singh",
+          "None of the above"
+        ],
+        "answer": "C. Rajagopalachari"
+      },
+      {
+        "question": "Where is Bedni Bugyal located?",
+        "options": ["Chamoli", "Uttarkashi", "Almora", "Pauri"],
+        "answer": "Chamoli"
+      },
+      {
+        "question": "When was Jim Corbett National Park established?",
+        "options": ["1930", "1936", "1932", "1926"],
+        "answer": "1936"
+      },
+      {
+        "question": "Choose the incorrect pair.",
+        "options": [
+          "Nanda Devi National Park - Uttarkashi",
+          "Jim Corbett National Park - Nainital",
+          "Askot Wildlife Sanctuary - Pithoragarh",
+          "Binsar Wildlife Sanctuary - Almora"
+        ],
+        "answer": "Nanda Devi National Park - Uttarkashi"
+      },
+      {
+        "question": "Where is the Jim Corbett National Park Museum located?",
+        "options": ["Kaladhungi", "Kashipur", "Almora", "None of these"],
+        "answer": "Kaladhungi"
+      },
+      {
+        "question": "Where is Askot Wildlife Sanctuary located?",
+        "options": ["Uttarkashi", "Haridwar", "Pithoragarh", "Tehri"],
+        "answer": "Pithoragarh"
+      },
+      {
+        "question": "From which tree is Pirul obtained?",
+        "options": [
+          "Chir pine tree",
+          "Rosewood tree",
+          "Both (a) and (b)",
+          "None of the above"
+        ],
+        "answer": "Chir pine tree"
+      },
+      {
+        "question": "In which districts of Uttarakhand is Rajaji National Park located?",
+        "options": ["Dehradun", "Pauri", "Haridwar", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "Choose the correct pair.",
+        "options": [
+          "Gangotri National Park - Uttarkashi",
+          "Binsar Wildlife Sanctuary - Almora",
+          "Sonanadi Wildlife Sanctuary - Nainital",
+          "Both (a) and (b) are correct"
+        ],
+        "answer": "Both (a) and (b) are correct"
+      },
+      {
+        "question": "Who is the proponent of the 'Maiti Movement'?",
+        "options": [
+          "Kalyan Singh Rawat",
+          "Jagat Singh Choudhary",
+          "Sunderlal Bahuguna",
+          "Gaura Devi"
+        ],
+        "answer": "Kalyan Singh Rawat"
+      },
+      {
+        "question": "Which of the following pairs is correctly matched?",
+        "options": [
+          "Corbett National Park - Alaknanda",
+          "Valley of Flowers - Yamuna",
+          "Gangotri National Park - Ramganga",
+          "None of the above"
+        ],
+        "answer": "None of the above"
+      },
+      {
+        "question": "Where is Nanda Devi National Park located?",
+        "options": ["Dehradun", "Nainital", "Chamoli", "None of these"],
+        "answer": "Chamoli"
+      },
+      {
+        "question": "Charak Samhita refers to the Uttarakhand region as:",
+        "options": [
+          "Medicine Garden",
+          "Botanical Garden",
+          "Medicinal Land",
+          "Medicinal Forest"
+        ],
+        "answer": "Medicine Garden"
+      },
+      {
+        "question": "The Rakhi or Tilari movement, which occurred due to the Tehri monarchy declaring farmers' agricultural land as forest land, happened in:",
+        "options": ["1921", "1925", "1930", "1937"],
+        "answer": "1930"
+      },
+      {
+        "question": "Who gave the slogan 'Save Himalayas, Save the Country'?",
+        "options": [
+          "Chandi Prasad Bhatt",
+          "Gaura Devi",
+          "Sunderlal Bahuguna",
+          "Sachchidanand Bharti"
+        ],
+        "answer": "Sunderlal Bahuguna"
+      },
+      {
+        "question": "When was the state-level movement against the auction of forests?",
+        "options": ["1954-55", "1962-63", "1977-78", "1983-84"],
+        "answer": "1977-78"
+      },
+      {
+        "question": "Who was the pioneer of the Pani Rakho Andolan?",
+        "options": [
+          "Radha Behn",
+          "Kalyan Paul",
+          "Vijay Jardhari",
+          "Sachchidanand Bharti"
+        ],
+        "answer": "Sachchidanand Bharti"
+      },
+      {
+        "question": "Which national park of the state was included in Project Tiger in 2016?",
+        "options": ["Govind", "Gangotri", "Rajaji", "Corbett"],
+        "answer": "Corbett"
+      },
+      {
+        "question": "Which of the following wildlife sanctuary groups represents the correct order from West to East?",
+        "options": [
+          "Kedarnath - Askot - Nanda Devi - Binsar",
+          "Kedarnath - Nanda Devi - Askot - Binsar",
+          "Kedarnath - Nanda Devi - Binsar - Askot",
+          "Nanda Devi - Kedarnath - Binsar - Askot"
+        ],
+        "answer": "Kedarnath - Nanda Devi - Binsar - Askot"
+      },
+      {
+        "question": "Where is the High Altitude Plant Research Center located in Uttarakhand?",
+        "options": ["Srinagar", "Pauri", "Haridwar", "Haldwani"],
+        "answer": "Srinagar"
+      },
+      {
+        "question": "Which district has the least forest area?",
+        "options": ["Haridwar", "Udham Singh Nagar", "Champawat", "Chamoli"],
+        "answer": "Haridwar"
+      },
+      {
+        "question": "Which species of tree is found most in the forests of the state?",
+        "options": ["Deodar", "Pine", "Eucalyptus", "Sal"],
+        "answer": "Pine"
+      },
+      {
+        "question": "When was the Kedarnath Wildlife Sanctuary established for musk deer?",
+        "options": ["1970", "1971", "1972", "1973"],
+        "answer": "1972"
+      },
+      {
+        "question": "When was Rajaji National Park established?",
+        "options": ["1983", "1987", "1990", "1992"],
+        "answer": "1983"
+      },
+      {
+        "question": "At what altitude are 'Montane Temperate Forests' found in the state?",
+        "options": [
+          "Less than 1800 meters",
+          "1800 to 2700 meters",
+          "2800 to 3400 meters",
+          "3600 to 4800 meters"
+        ],
+        "answer": "1800 to 2700 meters"
+      },
+      {
+        "question": "What are the shepherds living in the high altitude Bugyal region called?",
+        "options": ["Bakarwal", "Palsi", "Patach", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "Which of the following is famous for snow leopard conservation?",
+        "options": [
+          "Sonanadi Wildlife Sanctuary",
+          "Binsar Wildlife Sanctuary",
+          "Govind Wildlife Sanctuary",
+          "Rajaji National Park"
+        ],
+        "answer": "Govind Wildlife Sanctuary"
+      },
+      {
+        "question": "When was Hailey National Park established?",
+        "options": ["1924", "1930", "1936", "1951"],
+        "answer": "1936"
+      },
+      {
+        "question": "Which district has the highest forest area?",
+        "options": ["Pauri Garhwal", "Uttarkashi", "Chamoli", "Champawat"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "question": "What is the name of the Bugyal in Skanda Purana?",
+        "options": ["Bedini", "Oli", "Valley of Flowers", "Kalpnath"],
+        "answer": "Valley of Flowers"
+      },
+      {
+        "question": "Which of the following is the state tree of Uttarakhand?",
+        "options": ["Sal", "Sagwan", "Buransh", "Brahma Kamal"],
+        "answer": "Buransh"
+      },
+      {
+        "question": "In which type of forest is 'Khair' (Catechu) found?",
+        "options": [
+          "Sub-alpine forests",
+          "Cold temperate forests",
+          "Subtropical forests",
+          "Temperate forests"
+        ],
+        "answer": "Subtropical forests"
+      },
+      {
+        "question": "Kedarnath Wildlife Sanctuary was established for the conservation of which animal?",
+        "options": ["Himalayan Musk Deer", "Elephant", "Snow Leopard", "Monal"],
+        "answer": "Himalayan Musk Deer"
+      },
+      {
+        "question": "Which of the following is included in 'Govind National Park'?",
+        "options": [
+          "Origin area of Bhagirathi River",
+          "Origin area of Bhilangana River",
+          "Origin area of Yamuna River",
+          "Origin area of Tons River"
+        ],
+        "answer": "Origin area of Tons River"
+      },
+      {
+        "question": "According to the Indian Forest Survey Report 2021, which of the following districts has the highest forest area?",
+        "options": ["Chamoli", "Dehradun", "Pithoragarh", "Uttarkashi"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "question": "Which of the following trees is not found in the state of Uttarakhand?",
+        "options": ["Blue Pine", "Mendi", "Spruce", "Deodar"],
+        "answer": "Mendi"
+      },
+      {
+        "question": "Choose the correct sequence of trees found in Uttarakhand in increasing order of height.",
+        "options": [
+          "Pine, Deodar, Teak, Oak",
+          "Teak, Oak, Deodar, Pine",
+          "Deodar, Pine, Teak, Oak",
+          "Teak, Pine, Oak, Deodar"
+        ],
+        "answer": "Teak, Pine, Oak, Deodar"
+      },
+      {
+        "question": "What is 'Nakudun' related to?",
+        "options": [
+          "Type of wild herb",
+          "Folk song",
+          "Folk dance",
+          "None of the above"
+        ],
+        "answer": "Type of wild herb"
+      },
+      {
+        "question": "How many wildlife sanctuaries are there in total in Uttarakhand?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      },
+      {
+        "question": "Which of the following is the largest national park (in terms of area)?",
+        "options": [
+          "Rajaji National Park",
+          "Gangotri National Park",
+          "Govind National Park",
+          "Nanda Devi National Park"
+        ],
+        "answer": "Gangotri National Park"
+      },
+      {
+        "question": "What was the rank of Corbett National Park in the list of the world's best maintained national parks in 2021?",
+        "options": ["Second", "Fifth", "First", "Fourth"],
+        "answer": "First"
+      },
+      {
+        "question": "Where is the first animal quarantine center established in Uttarakhand?",
+        "options": [
+          "Rajaji National Park",
+          "Govind Pashulok",
+          "Jim Corbett National Park",
+          "Askot Sanctuary"
+        ],
+        "answer": "Jim Corbett National Park"
+      },
+      {
+        "question": "Govind Wildlife Sanctuary is located in which of the following districts?",
+        "options": ["Uttarkashi", "Chamoli", "Nainital", "Almora"],
+        "answer": "Uttarkashi"
+      },
+      {
+        "question": "In which year was Uttarakhand Nanda Devi National Park established?",
+        "options": ["1982", "1986", "1984", "1988"],
+        "answer": "1982"
+      },
+      {
+        "question": "In which year was Nanda Devi National Park declared a World Heritage Site by UNESCO?",
+        "options": ["1986", "1988", "1990", "1992"],
+        "answer": "1988"
+      },
+      {
+        "question": "Who was the chairman of the 'Forest Grievances Committee' formed in 1921?",
+        "options": ["Campbell", "Whittam", "Finley", "Ibbetson"],
+        "answer": "Whittam"
+      },
+      {
+        "question": "Which of the following pairs is not correctly matched?",
+        "options": [
+          "Nanda Devi - National Park",
+          "Jhilmil Tal - Wildlife Sanctuary",
+          "Naina Devi Himalayan Bird - Conservation Reserve",
+          "Kedarnath - Wildlife Sanctuary"
+        ],
+        "answer": "Jhilmil Tal - Wildlife Sanctuary"
+      }
+    ]
+  },
+  {
+    "chapter": "Uttarakhand: A Historical Study",
+    "questions": [
+      {
+        "question": "What is the name used for Garhwal in the Skanda Purana?",
+        "options": ["Kedarkhand", "Manaskhand", "Himvant", "None of these"],
+        "answer": "Kedarkhand"
+      },
+      {
+        "question": "Which of the following regions is known as the 'Bardoli of Kumaon'?",
+        "options": [
+          "Bhabar area",
+          "Salt region",
+          "Kichha area",
+          "Garhwal region"
+        ],
+        "answer": "Salt region"
+      },
+      {
+        "question": "Ashoka's inscription has been found in which place in the state?",
+        "options": ["Srinagar", "Kedarnath", "Kalsi", "Dehradun"],
+        "answer": "Kalsi"
+      },
+      {
+        "question": "Kalidas composed Abhigyan Shakuntalam in Kanvashram, located in Pauri. It was on the banks of which river?",
+        "options": ["Yamuna", "Bhagirathi", "Alaknanda", "Malini"],
+        "answer": "Malini"
+      },
+      {
+        "question": "Who among the following is not a historian of Uttarakhand?",
+        "options": [
+          "Harikrishna Khudi",
+          "Badridutt Pandey",
+          "Chandrasinh Garhwali",
+          "Shiv Prasad Dabral"
+        ],
+        "answer": "Chandrasinh Garhwali"
+      },
+      {
+        "question": "When was Kumaon liberated from the Gorkhas?",
+        "options": ["1814", "1815", "1816", "1817"],
+        "answer": "1815"
+      },
+      {
+        "question": "The Katarmal temple is particularly related to which deity?",
+        "options": ["Shiva", "Surya", "Ganesh", "Kartikeya"],
+        "answer": "Surya"
+      },
+      {
+        "question": "Which Mughal prince took refuge in Srinagar Garhwal?",
+        "options": ["Murad", "Aurangzeb", "Dara Shikoh", "Suleiman Shikoh"],
+        "answer": "Suleiman Shikoh"
+      },
+      {
+        "question": "The 'Dandak Movement' in Tehri Garhwal was related to:",
+        "options": ["Farmers", "Laborers", "Army", "None of these"],
+        "answer": "Farmers"
+      },
+      {
+        "question": "The 'Dola-Palki' movement in Tehri was related to:",
+        "options": ["Brahmins", "Artisans", "Rajputs", "Islam"],
+        "answer": "Artisans"
+      },
+      {
+        "question": "Who was the first Commissioner of Kumaon?",
+        "options": [
+          "Mr. Gardner",
+          "Sir Henry Ramsay",
+          "J.H. Batten",
+          "G. New Trail"
+        ],
+        "answer": "Mr. Gardner"
+      },
+      {
+        "question": "Where was the 'Purka State' located?",
+        "options": ["Pauri Garhwal", "Pithoragarh", "Chamoli", "Almora"],
+        "answer": "Pauri Garhwal"
+      },
+      {
+        "question": "The famous historical site of Uttarakhand, Govishan, has been identified with:",
+        "options": ["Kashipur", "Haridwar", "Srinagar", "Rudraprayag"],
+        "answer": "Kashipur"
+      },
+      {
+        "question": "The famous cave painting site 'Lakhyuodyar' is located in:",
+        "options": ["Pauri", "Almora", "Chamoli", "Nainital"],
+        "answer": "Almora"
+      },
+      {
+        "question": "In which year was the Almora Congress established?",
+        "options": ["1911", "1919", "1895", "1912"],
+        "answer": "1912"
+      },
+      {
+        "question": "Who was the last king of the Chand dynasty?",
+        "options": ["Deepchand", "Mahendrachand", "Shivchand", "Mohanchand"],
+        "answer": "Mohanchand"
+      },
+      {
+        "question": "Which of the following statements related to Tehri is not correct?",
+        "options": [
+          "Tehri state merged with the Indian Republic in 1949.",
+          "The Tehri Dam was proposed in 1972.",
+          "The Tehri Dam swallowed Tehri city.",
+          "After the merger, Tehri region was carved out as a separate division."
+        ],
+        "answer": "After the merger, Tehri region was carved out as a separate division."
+      },
+      {
+        "question": "When was the state of Uttaranchal established?",
+        "options": [
+          "April 9, 2000",
+          "November 1, 2000",
+          "November 9, 2000",
+          "November 15, 2000"
+        ],
+        "answer": "November 9, 2000"
+      },
+      {
+        "question": "What was the original name of Sister Behn?",
+        "options": [
+          "Catherine Heilman",
+          "Annie Besant",
+          "Nightingale Florence",
+          "None of the above"
+        ],
+        "answer": "Catherine Heilman"
+      },
+      {
+        "question": "When and where did the 'Begar Movement' start?",
+        "options": [
+          "January 20, 1921, Pauri",
+          "January 15, 1921, Tehri",
+          "January 13, 1921, Almora",
+          "January 13-14, 1921, Bageshwar"
+        ],
+        "answer": "January 13-14, 1921, Bageshwar"
+      },
+      {
+        "question": "Which place/site was called the 'Bardoli' of Uttarakhand?",
+        "options": ["Salt", "Ramnagar", "Deghat", "Katyur Valley"],
+        "answer": "Salt"
+      },
+      {
+        "question": "When was the Home Rule League established in Almora?",
+        "options": ["1914", "1913", "1916", "1917"],
+        "answer": "1914"
+      },
+      {
+        "question": "When was the Kumaon Parishad established?",
+        "options": ["1912", "1914", "1916", "1918"],
+        "answer": "1916"
+      },
+      {
+        "question": "Where did the 'Rawai Kand' take place?",
+        "options": ["Uttarkashi", "Rudraprayag", "Tilari", "Bageshwar"],
+        "answer": "Tilari"
+      },
+      {
+        "question": "Who is considered the first freedom fighter of Kumaon?",
+        "options": [
+          "Kalu Mehra",
+          "Mohan Singh Mehta",
+          "Badridutt Pandey",
+          "Govind Ballabh Pant"
+        ],
+        "answer": "Kalu Mehra"
+      },
+      {
+        "question": "Who from the state attended the Calcutta session of Congress (1886)?",
+        "options": [
+          "Indra Singh Jalal",
+          "Mukundi Lal",
+          "Jwalandatt Joshi",
+          "Govind Ballabh Pant"
+        ],
+        "answer": "Jwalandatt Joshi"
+      },
+      {
+        "question": "When did the publication of the 'Shakti' newspaper begin?",
+        "options": [
+          "September 15, 1918",
+          "October 15, 1921",
+          "October 22, 1921",
+          "October 15, 1918"
+        ],
+        "answer": "September 15, 1918"
+      },
+      {
+        "question": "When did Gandhiji first visit Kumaon?",
+        "options": ["June 1929", "July 1929", "August 1931", "October 1931"],
+        "answer": "June 1929"
+      },
+      {
+        "question": "Who was the pioneer of the 'Dolapalki Movement' in Uttaranchal?",
+        "options": [
+          "Jayanand Bharti",
+          "Khushiram",
+          "Hari Prasad Tamta",
+          "Baldev Singh Arya"
+        ],
+        "answer": "Jayanand Bharti"
+      },
+      {
+        "question": "Who was Bishni Devi?",
+        "options": [
+          "A poet",
+          "A social reformer",
+          "A writer",
+          "A freedom fighter"
+        ],
+        "answer": "A freedom fighter"
+      },
+      {
+        "question": "Who participated in Mahatma Gandhiji's Dandi March?",
+        "options": [
+          "Mohan Joshi",
+          "Nagendra Saklani",
+          "Bhairav Dutt Joshi",
+          "Bholuram"
+        ],
+        "answer": "Bhairav Dutt Joshi"
+      },
+      {
+        "question": "Which freedom fighter was known as 'Garh Kesari'?",
+        "options": [
+          "Ghumani Pant",
+          "Anusuya Prasad Bahuguna",
+          "Badridutt Joshi",
+          "Indramani Badoni"
+        ],
+        "answer": "Anusuya Prasad Bahuguna"
+      },
+      {
+        "question": "Who was the king of Garhwal at the time of India's independence?",
+        "options": [
+          "Manvendra Shah",
+          "Prithvi Shah",
+          "Pradyumna Shah",
+          "None of these"
+        ],
+        "answer": "Manvendra Shah"
+      },
+      {
+        "question": "During the Indian National Movement, at which place did Gandhiji stay for a long time?",
+        "options": ["Mussoorie", "Nainital", "Kausani", "Haridwar"],
+        "answer": "Kausani"
+      },
+      {
+        "question": "On which date did the Tehri state merge with Uttar Pradesh?",
+        "options": [
+          "August 1, 1949",
+          "August 15, 1947",
+          "January 26, 1950",
+          "December 1, 1949"
+        ],
+        "answer": "August 1, 1949"
+      },
+      {
+        "question": "In January 1921, at which of the following places on the banks of the Saryu River was the oath taken not to give 'Coolie Begar'?",
+        "options": ["Srinagar", "Chamoli", "Bageshwar", "Someshwar"],
+        "answer": "Bageshwar"
+      },
+      {
+        "question": "Who died on July 25, 1944, after an 84-day hunger strike?",
+        "options": [
+          "Nagendra Saklani",
+          "Molu Ram",
+          "Shri Dev Suman",
+          "A.P. Bahuguna"
+        ],
+        "answer": "Shri Dev Suman"
+      },
+      {
+        "question": "In which year did the 'Salt' incident occur?",
+        "options": [
+          "September 5, 1942",
+          "September 6, 1942",
+          "September 10, 1942",
+          "September 8, 1942"
+        ],
+        "answer": "September 5, 1942"
+      },
+      {
+        "question": "In which year did the publication of 'Almora Akhbar' begin?",
+        "options": ["1871", "1771", "1971", "1870"],
+        "answer": "1871"
+      },
+      {
+        "question": "Where did Mahatma Gandhi write 'Anasakti Yog Tika'?",
+        "options": ["Kausani", "Almora", "Haridwar", "Pauri"],
+        "answer": "Kausani"
+      },
+      {
+        "question": "Who is called the hero of the Peshawar incident?",
+        "options": [
+          "Keshar Singh Rawat",
+          "Veer Chandra Singh Garhwali",
+          "Harak Singh Rawat",
+          "Narayan Singh Gusain"
+        ],
+        "answer": "Veer Chandra Singh Garhwali"
+      },
+      {
+        "question": "When did Shri Dev Suman become a martyr?",
+        "options": [
+          "July 24, 1943",
+          "July 22, 1944",
+          "July 24, 1944",
+          "July 25, 1944"
+        ],
+        "answer": "July 25, 1944"
+      },
+      {
+        "question": "Who was the founder of the Katyuri dynasty?",
+        "options": [
+          "Vasant Dev",
+          "Nimbar Dev",
+          "Lakhan Pal Dev",
+          "Subhiksha Raj Dev"
+        ],
+        "answer": "Vasant Dev"
+      },
+      {
+        "question": "When and by whom was the Uttaranchal Utthan Parishad formed?",
+        "options": [
+          "May 30-31, 1982 by Dr. D.D. Pant",
+          "August 15, 1958 by Govind Ballabh Pant",
+          "May 30-31, 1988 by Soban Singh Jeena",
+          "November 9, 2000 by Nityanand Swami"
+        ],
+        "answer": "May 30-31, 1988 by Soban Singh Jeena"
+      },
+      {
+        "question": "Who is considered the first freedom fighter of the state?",
+        "options": [
+          "Har Govind Pant",
+          "Ram Singh Dhoni",
+          "M. Hari Prasad Tamta",
+          "Kalu Mehra"
+        ],
+        "answer": "Kalu Mehra"
+      },
+      {
+        "question": "Where is 'Gwarkhya Udyar' located?",
+        "options": ["Almora", "Champawat", "Chamoli", "U.Si.N."],
+        "answer": "Chamoli"
+      },
+      {
+        "question": "Which party's government was at the center at the time of the formation of the Uttaranchal state?",
+        "options": [
+          "Janata Dal",
+          "National Democratic Alliance",
+          "United Progressive Alliance",
+          "CPI"
+        ],
+        "answer": "National Democratic Alliance"
+      },
+      {
+        "question": "When was the Garhwal Sarvadalit Parishad formed?",
+        "options": [
+          "1928 by Mohan Singh Mehta",
+          "1928 by Badridutt Pandey",
+          "1928 by Jayanand Bharti",
+          "1928 by Har Govind Pant"
+        ],
+        "answer": "1928 by Jayanand Bharti"
+      },
+      {
+        "question": "What was the objective of establishing 'Praja Mandal' in Dehradun?",
+        "options": [
+          "To liberate the people from the misrule of the Tehri state",
+          "To achieve independence from British rule",
+          "To achieve independence from Gorkha rule",
+          "To organize the people for social reform"
+        ],
+        "answer": "To liberate the people from the misrule of the Tehri state"
+      },
+      {
+        "question": "Which of the following kings and their capital/fort is correctly matched?",
+        "options": [
+          "Kanakpal - Devalgarh",
+          "Ajaypal - Tehri",
+          "Manshah - Chandpur Garh",
+          "Somchand - Rajbunga"
+        ],
+        "answer": "Somchand - Rajbunga"
+      },
+      {
+        "question": "Who formed the 'Garhdesh Seva Sangh'?",
+        "options": [
+          "Badridutt Pandey",
+          "Shri Dev Suman",
+          "Rampal",
+          "Gopichand"
+        ],
+        "answer": "Shri Dev Suman"
+      },
+      {
+        "question": "Who was the first president of Uttarakhand Kranti Dal?",
+        "options": [
+          "DD Pant",
+          "Badrinath Pandey",
+          "Diwakar Bhatt",
+          "Mathura Prasad"
+        ],
+        "answer": "DD Pant"
+      },
+      {
+        "question": "Borax was imported by the goldsmiths of Kumaon from which region?",
+        "options": ["Tibet", "Rajasthan", "Nepal", "Bhutan"],
+        "answer": "Tibet"
+      },
+      {
+        "question": "Which of the following places is known as the 'Bardoli of Garhwal'?",
+        "options": ["Badrinath", "Landsdowne", "Dasholi", "Kakodakhal"],
+        "answer": "Kakodakhal"
+      },
+      {
+        "question": "In which scripture is the word 'Devbhumi' used for the Garhwal region?",
+        "options": [
+          "Aitareya Veda",
+          "Skanda Purana",
+          "Mahabharata",
+          "Rig Veda"
+        ],
+        "answer": "Rig Veda"
+      },
+      {
+        "question": "The words 'Kedarkhand' for Garhwal and 'Manaskhand' for Kumaon are mentioned in:",
+        "options": [
+          "Aitareya Brahmana",
+          "Skanda Purana",
+          "Mahabharata",
+          "Vedas"
+        ],
+        "answer": "Skanda Purana"
+      },
+      {
+        "question": "The extensive region from Maya Kshetra (Haridwar) to the Shwet Parvat (Himalayas) is called in the Skanda Purana:",
+        "options": ["Manaskhand", "Kedarkhand", "Uttarakhand", "Khasdesh"],
+        "answer": "Kedarkhand"
+      },
+      {
+        "question": "The region from Nandadevi Parvat to Kalagiri and Tons in the Skanda Purana is called:",
+        "options": ["Khasdesh", "Uttarakhand", "Manaskhand", "Kedarkhand"],
+        "answer": "Manaskhand"
+      },
+      {
+        "question": "According to the Puranas, where was the abode of the first human ancestor 'Manu' and the capital of Kubera, the god of wealth, near Badrikashram?",
+        "options": ["Mana", "Joshimath", "Alkapuri", "Pandukeshwar"],
+        "answer": "Alkapuri"
+      },
+      {
+        "question": "Where is Vashisht Gufa and Vashisht Kund located?",
+        "options": ["Chamoli", "Uttarkashi", "Rudraprayag", "Tehri"],
+        "answer": "Tehri"
+      },
+      {
+        "question": "For whom was the word 'Bhugtung' used in ancient texts?",
+        "options": ["Kedarnath", "Badrinath", "Alkapuri", "Mana"],
+        "answer": "Kedarnath"
+      },
+      {
+        "question": "What was the capital of Banasur, the king of the Ramayana period?",
+        "options": ["Devprayag", "Alkapuri", "Champawat", "Joshimath"],
+        "answer": "Joshimath"
+      },
+      {
+        "question": "Chakravarti Emperor 'Bharat', after whom our country is named 'Bharat', was born in:",
+        "options": ["Kanvashram", "Devprayag", "Badrikashram", "Kalimath"],
+        "answer": "Kanvashram"
+      },
+      {
+        "question": "According to the Van Parva of Mahabharata, what was the capital of the Pulinda king Subahu?",
+        "options": ["Joshimath", "Devprayag", "Srinagar", "Alkapuri"],
+        "answer": "Srinagar"
+      },
+      {
+        "question": "Where is the Gorkha-era Naithada fort located?",
+        "options": ["Dehradun", "Almora", "Pithoragarh", "Nainital"],
+        "answer": "Almora"
+      },
+      {
+        "question": "In which scripture is the word 'Uttarkuru' used for the Garhwal region?",
+        "options": [
+          "Aitareya Veda",
+          "Rigveda",
+          "Aitareya Brahmana",
+          "None of these"
+        ],
+        "answer": "Aitareya Brahmana"
+      },
+      {
+        "question": "The Jakhan Devi temple in Almora confirms the presence of whose residence?",
+        "options": ["Gandharvas", "Yakshas", "Nagas", "Khasas"],
+        "answer": "Yakshas"
+      },
+      {
+        "question": "Kanakpal was the ruler of which of the following dynasties?",
+        "options": [
+          "Panwar dynasty",
+          "Chand dynasty",
+          "Katyuri dynasty",
+          "Pal dynasty"
+        ],
+        "answer": "Panwar dynasty"
+      },
+      {
+        "question": "Who is called the Muhammad Tughlaq of Kumaon?",
+        "options": ["Jagat Chand", "Devi Chand", "Anand Chand", "Deep Chand"],
+        "answer": "Devi Chand"
+      },
+      {
+        "question": "What was the royal symbol of the Chand kings?",
+        "options": ["Deer", "Bull", "Cow", "Elephant"],
+        "answer": "Cow"
+      },
+      {
+        "question": "Who established the Nanda Devi temple in Almora?",
+        "options": ["Bhimchand", "Somchand", "Gyanchand", "Kalyan Chand"],
+        "answer": "Kalyan Chand"
+      },
+      {
+        "question": "Which of the following dynasties is considered the first historical dynasty of Uttarakhand?",
+        "options": [
+          "Chand dynasty",
+          "Panwar dynasty",
+          "Kartikeyapura dynasty",
+          "Nimbar dynasty"
+        ],
+        "answer": "Kartikeyapura dynasty"
+      },
+      {
+        "question": "What was the official language of the Kartikeyapura dynasty?",
+        "options": ["Pali", "Garhwali", "Kumaoni", "Sanskrit"],
+        "answer": "Sanskrit"
+      },
+      {
+        "question": "During the time of the Kartikeyapura rulers, which of the following famous saints/ascetics visited Uttarakhand?",
+        "options": [
+          "Shankaracharya",
+          "Ramanandacharya",
+          "Vallabhacharya",
+          "Ramanujacharya"
+        ],
+        "answer": "Shankaracharya"
+      },
+      {
+        "question": "The system of appointing village headmen in villages was started by:",
+        "options": ["Katyuri", "Chandras", "Panwars", "Nimbaras"],
+        "answer": "Chandras"
+      },
+      {
+        "question": "54 coins of Almora type have been found in:",
+        "options": [
+          "Vyasa Valley",
+          "Katyur Valley",
+          "Nayar Valley",
+          "Yamuna Valley"
+        ],
+        "answer": "Katyur Valley"
+      },
+      {
+        "question": "Who is famous by the name 'Nakakati Rani'?",
+        "options": ["Karnavati", "Teelu Rauteli", "Jiya Rani", "Durgavati"],
+        "answer": "Karnavati"
+      },
+      {
+        "question": "Who was the last king of the undivided Garhwal state?",
+        "options": [
+          "Sudarsan Shah",
+          "Mahipat Shah",
+          "Fateh Shah",
+          "Pradyumna Shah"
+        ],
+        "answer": "Pradyumna Shah"
+      },
+      {
+        "question": "Where was the first recognized power center of the Katyuri rulers in Garhwal located?",
+        "options": ["Joshimath", "Karnaprayag", "Uttarkashi", "Srinagar"],
+        "answer": "Joshimath"
+      },
+      {
+        "question": "Who did penance in Tapovan?",
+        "options": ["Rama", "Lakshmana", "Bharata", "Kapil"],
+        "answer": "Lakshmana"
+      },
+      {
+        "question": "What is the word used for the Uttarakhand region in the Pali language Buddhist literature?",
+        "options": ["Himadri", "Devbhumi", "Himvant", "Tapobhumi"],
+        "answer": "Himvant"
+      },
+      {
+        "question": "When did Adi Shankaracharya relinquish his body at Kedarnath shrine?",
+        "options": ["720 AD", "790 AD", "800 AD", "820 AD"],
+        "answer": "820 AD"
+      },
+      {
+        "question": "Who was the most powerful ruler of the Kuninda dynasty?",
+        "options": ["Amoghabhuti", "Kanakpal", "Fateh Shah", "Upendra Shah"],
+        "answer": "Amoghabhuti"
+      },
+      {
+        "question": "The love affair of Dushyant and Shakuntala is associated with:",
+        "options": ["Kalimath", "Keshoray Math", "Kanvashram", "Kotdwar"],
+        "answer": "Kanvashram"
+      },
+      {
+        "question": "How many gems lived in the court of which Garhwali ruler?",
+        "options": [
+          "Balabhadra Shah",
+          "Pradyumna Shah",
+          "Man Shah",
+          "Fateh Shah"
+        ],
+        "answer": "Fateh Shah"
+      },
+      {
+        "question": "When was the Treaty of Sugauli signed between the British and the Gorkhas?",
+        "options": ["1815", "1816", "1817", "1818"],
+        "answer": "1815"
+      },
+      {
+        "question": "When was the first Trisala settlement of the British Garhwal region?",
+        "options": ["1816", "1817", "1820", "1823"],
+        "answer": "1817"
+      },
+      {
+        "question": "When was the Prajamandal recognized in the Tehri princely state?",
+        "options": ["1944", "1945", "1946", "1947"],
+        "answer": "1946"
+      },
+      {
+        "question": "Who has been given the title of 'Jhansi ki Rani' in the history of Garhwal?",
+        "options": [
+          "Teelu Rauteli",
+          "Maharani Laddha Devi",
+          "Jiya Rani",
+          "Karnavati"
+        ],
+        "answer": "Teelu Rauteli"
+      },
+      {
+        "question": "When did the Nepalese king Ashok Challa invade Uttarakhand and occupy some mountainous areas?",
+        "options": ["1191", "1192", "1193", "1194"],
+        "answer": "1191"
+      },
+      {
+        "question": "When was the first Panchshala settlement in British Garhwal?",
+        "options": ["1819", "1823", "1829", "1833"],
+        "answer": "1823"
+      },
+      {
+        "question": "Where is the samadhi of Adi Guru Shankaracharya located?",
+        "options": ["Badrinath", "Kedarnath", "Yamunotri", "Gangotri"],
+        "answer": "Kedarnath"
+      },
+      {
+        "question": "When was the post of Patwari created in British Garhwal?",
+        "options": ["1815", "1817", "1819", "1821"],
+        "answer": "1819"
+      },
+      {
+        "question": "During his Kumaon tour, Gandhiji laid the foundation stone of Swaraj Bhawan in:",
+        "options": ["Bageshwar", "Champawat", "Haldwani", "Kausani"],
+        "answer": "Bageshwar"
+      },
+      {
+        "question": "Whose reign is called the 'Golden Age of Kumaon'?",
+        "options": [
+          "Somchand",
+          "Jagatchand",
+          "Lakshmichand",
+          "Baz Bahadur Chand"
+        ],
+        "answer": "Jagatchand"
+      },
+      {
+        "question": "Which Parmar ruler was entrusted with the state affairs by Rani Guleria?",
+        "options": ["Lalit Shah", "Narendra Shah", "Pratap Shah", "Kirti Shah"],
+        "answer": "Kirti Shah"
+      },
+      {
+        "question": "Who shifted the capital from Srinagar to Tehri?",
+        "options": [
+          "Pradyumna Shah",
+          "Prithvipati Shah",
+          "Sudarsan Shah",
+          "Manvendra Shah"
+        ],
+        "answer": "Sudarsan Shah"
+      },
+      {
+        "question": "Who among the following was given the title of 'Sir' by the British?",
+        "options": [
+          "Bhawani Shah",
+          "Pratap Shah",
+          "Kirti Shah",
+          "Narendra Shah"
+        ],
+        "answer": "Kirti Shah"
+      },
+      {
+        "question": "During whose reign did English education begin in Tehri?",
+        "options": [
+          "Sudarsan Shah",
+          "Bhawani Shah",
+          "Pratap Shah",
+          "Narendra Shah"
+        ],
+        "answer": "Pratap Shah"
+      },
+      {
+        "question": "The rule of the Gorkhas over Kumaon and Garhwal was very unjust and oppressive. What is this oppressive rule called in the local language?",
+        "options": ["Bhorkhyali", "Gorkhyali", "Morkhyali", "Jorkhyali"],
+        "answer": "Gorkhyali"
+      },
+      {
+        "question": "Which of the following places is situated on the confluence of the Badrinath and Alaknanda routes?",
+        "options": [
+          "Vishnuprayag",
+          "Nandprayag",
+          "Karnaprayag",
+          "Keshavprayag"
+        ],
+        "answer": "Vishnuprayag"
+      },
+      {
+        "question": "Where have the maximum number of Kushan-era remains been found?",
+        "options": [
+          "Rishikesh",
+          "Moradhwaj (near Kotdwar)",
+          "Govishan (Kashipur)",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "When did Kanakpal establish the Parmar dynasty in Chandpur Garh?",
+        "options": ["687 AD", "688 AD", "889 AD", "890 AD"],
+        "answer": "888 AD"
+      },
+      {
+        "question": "Who started the land settlement system in the Kumaon region?",
+        "options": ["Panwar kings", "Chand kings", "Gorkhas", "British"],
+        "answer": "Chand kings"
+      },
+      {
+        "question": "During whose reign was the public movement demanding a separate Garhwal division held?",
+        "options": [
+          "Pratap Shah",
+          "Bhawani Shah",
+          "Narendra Shah",
+          "Manvendra Shah"
+        ],
+        "answer": "Narendra Shah"
+      },
+      {
+        "question": "During whose reign was the four-member Prajamandal established in 1939 for democratic governance?",
+        "options": [
+          "Manvendra Shah",
+          "Kirti Shah",
+          "Narendra Shah",
+          "Bhawani Shah"
+        ],
+        "answer": "Narendra Shah"
+      },
+      {
+        "question": "When was the first land settlement done in British Garhwal?",
+        "options": ["1799", "1815", "1856", "1902"],
+        "answer": "1815"
+      },
+      {
+        "question": "Which of the following poems was composed during the time of the Panwar kings?",
+        "options": [
+          "Garh Rajvansh Kavya",
+          "Sudarshanodaya Kavya",
+          "Manodaya Kavya",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "The decisive battle between the Gorkhas and King Pradyumna Shah for complete control over Garhwal, in which King Pradyumna Shah was martyred, took place in the Khurbura field of Dehradun on:",
+        "options": [
+          "May 12, 1804",
+          "May 13, 1804",
+          "May 14, 1804",
+          "May 15, 1804"
+        ],
+        "answer": "May 14, 1804"
+      },
+      {
+        "question": "Which of the following statements is/are correct?",
+        "options": [
+          "Somchand established the Chand dynasty.",
+          "Rudrachand established the present Rudrapur city.",
+          "Gyanchand received the title of Garuda."
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "When was the Kumaon Parishad merged with the Congress?",
+        "options": ["1926", "1927", "1928", "1929"],
+        "answer": "1926"
+      },
+      {
+        "question": "When was the Almora Congress established in Kumaon?",
+        "options": ["1892 AD", "1902 AD", "1912 AD", "1922 AD"],
+        "answer": "1912 AD"
+      },
+      {
+        "question": "The Kota Kharra movement was in the interest of whom?",
+        "options": ["Women", "Untouchables", "Landless", "Landlords"],
+        "answer": "Landless"
+      },
+      {
+        "question": "When was the Debating Club established in Almora for political awareness?",
+        "options": ["1865", "1867", "1868", "1870"],
+        "answer": "1870"
+      },
+      {
+        "question": "The Gandhi Ashram was established at Chanauda (Someshwar, Almora) through the efforts of Shanti Lal Trivedi in:",
+        "options": ["1937", "1938", "1939", "1940"],
+        "answer": "1937"
+      },
+      {
+        "question": "When did the famous Peshawar incident occur, in which Havildar Veer Chandra Singh Garhwali refused to fire on unarmed Afghan freedom fighters?",
+        "options": ["1929", "1930", "1931", "1932"],
+        "answer": "1930"
+      },
+      {
+        "question": "Who announced the celebration of Garhwal Day across the country, influenced by the Peshawar incident?",
+        "options": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Motilal Nehru",
+          "Vallabhbhai Patel"
+        ],
+        "answer": "Motilal Nehru"
+      },
+      {
+        "question": "Which two leaders from Garhwal participated in the Amritsar Congress (1919) to gain full control over Garhwal?",
+        "options": [
+          "Anusuya Prasad and Mukundilal",
+          "Mukundi Lal and Hargovind Pant",
+          "Badridutt Pandey and Chiranjilal",
+          "Govind Ballabh and Victor Mohan Joshi"
+        ],
+        "answer": "Anusuya Prasad and Mukundilal"
+      },
+      {
+        "question": "Who among the 78 salt satyagrahis of Gandhiji in 1930 were from Uttarakhand?",
+        "options": [
+          "Jyotiram Kandpal",
+          "Bhairav Dutt Joshi",
+          "Gorakhveer Khadak Bahadur",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "Inspired by Tilak and Annie Besant, who started the Home Rule League movement in Uttarakhand?",
+        "options": [
+          "Victor Mohan Joshi",
+          "Badridutt Pandey",
+          "Chiranjilal",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "Who among the following established the Lakshmi Ashram in Kausani?",
+        "options": [
+          "Sarla Behn (Hailaaman)",
+          "Vidya Devi",
+          "Kunti Devi",
+          "Bhagirathi"
+        ],
+        "answer": "Sarla Behn (Hailaaman)"
+      },
+      {
+        "question": "Who from Uttarakhand was involved in the Gaadoliya Store Robbery Case?",
+        "options": [
+          "Ram Singh",
+          "Suryapratap Singh",
+          "Bhawani Singh",
+          "Suryakant Tripathi"
+        ],
+        "answer": "Bhawani Singh"
+      },
+      {
+        "question": "Who hoisted the tricolor at the Almora Municipal Building during the Salt Satyagraha?",
+        "options": ["Vishni Devi Shah", "Kunti Verma", "Jeevanti", "Mangala"],
+        "answer": "Vishni Devi Shah"
+      },
+      {
+        "question": "Which female activist was ordered to be caught alive or dead in 1932?",
+        "options": ["Vishni Shah Devi", "Kamala", "Basanti", "Kunti Verma"],
+        "answer": "Kunti Verma"
+      },
+      {
+        "question": "During his 1929 stay in Kausani, for how many days did Gandhiji write the preface to the Gita titled 'Anasakti Yog'?",
+        "options": ["12", "13", "14", "15"],
+        "answer": "12"
+      },
+      {
+        "question": "Led by Badridutt Pandey, Hargovind Pant, and Chiranjilal, when did 40,000 freedom fighters end the Coolie Begar practice by throwing registers related to it into the Saryu River in Bageshwar?",
+        "options": [
+          "January 13-14, 1920",
+          "January 13-14, 1921",
+          "January 13-14, 1922",
+          "January 13-14, 1923"
+        ],
+        "answer": "January 13-14, 1921"
+      },
+      {
+        "question": "The publication of the weekly 'Garhwali', imbued with national sentiment, started from Dehradun in:",
+        "options": ["1905", "1906", "1907", "1908"],
+        "answer": "1905"
+      },
+      {
+        "question": "Which of the following are real sisters associated with Lakshmi Ashram, who propagated Sarvodaya?",
+        "options": [
+          "Kunti - Kamala",
+          "Kamala - Vidya",
+          "Basanti - Saraswati",
+          "Kamala and Basanti"
+        ],
+        "answer": "Kamala and Basanti"
+      },
+      {
+        "question": "Gandhiji visited Kumaon from June 13 to July 4, 1929, while he visited the Garhwal region in the same year from:",
+        "options": [
+          "October 16-20",
+          "October 16-22",
+          "October 16-24",
+          "October 16-26"
+        ],
+        "answer": "October 16-24"
+      },
+      {
+        "question": "When were native physicians appointed by Trail in 1833?",
+        "options": ["Nainital", "Almora", "Dehradun", "Srinagar"],
+        "answer": "Almora"
+      },
+      {
+        "question": "When did the 'Kumaon Water Rules' (Kumaon Jal Niyam) begin?",
+        "options": ["1915", "1917", "1921", "1936"],
+        "answer": "1917"
+      },
+      {
+        "question": "To expand political consciousness in the state, Hargovind Pant and Govind Ballabh Pant established the Happy Club in:",
+        "options": ["1901", "1902", "1903", "1904"],
+        "answer": "1903"
+      },
+      {
+        "question": "After the revolution of 1857, who formed a secret organization called Krantiveer in the Kali Kumaon region to oppose the British?",
+        "options": [
+          "Jwala Dutt Joshi",
+          "Hemchand",
+          "Kalu Mehra",
+          "Badridutt Pandey"
+        ],
+        "answer": "Kalu Mehra"
+      },
+      {
+        "question": "Trade between Uttarakhand and Tibet was closed after which event?",
+        "options": [
+          "Kargil War",
+          "Doklam Standoff",
+          "Indo-China War (1962)",
+          "Indo-Pak War (1971)"
+        ],
+        "answer": "Indo-China War (1962)"
+      },
+      {
+        "question": "Which of the following cities of Uttarakhand came into existence first?",
+        "options": ["Mussoorie", "Almora", "Haridwar", "Gopeshwar"],
+        "answer": "Haridwar"
+      },
+      {
+        "question": "Who established the Garhdesh Seva Sangh in Delhi in 1938 to demand a separate state?",
+        "options": [
+          "Bhairavdutt Joshi",
+          "Barrister Mukundi Lal",
+          "Shridev Suman",
+          "Anusuya Prasad Bahuguna"
+        ],
+        "answer": "Shridev Suman"
+      },
+      {
+        "question": "The demand for a separate state was first raised at the special session of the Indian National Congress held in Srinagar (Garhwal) in:",
+        "options": ["1937", "1938", "1939", "1940"],
+        "answer": "1938"
+      },
+      {
+        "question": "Uttarakhand Kranti Dal MLA Jaswant Singh Bisht introduced the first resolution related to Uttarakhand in the UP Assembly in:",
+        "options": ["1990", "1991", "1992", "1993"],
+        "answer": "1990"
+      },
+      {
+        "question": "Who among the following is not a martyr of the Mussoorie incident?",
+        "options": [
+          "Dhanpat Singh",
+          "Belmati Chauhan",
+          "Yashodhara Baijwal",
+          "Hansa Dhanai"
+        ],
+        "answer": "Yashodhara Baijwal"
+      },
+      {
+        "question": "When did Prime Minister H.D. Deve Gowda announce the state of Uttarakhand from the Red Fort?",
+        "options": [
+          "August 15, 1994",
+          "August 15, 1995",
+          "August 15, 1996",
+          "August 15, 1997"
+        ],
+        "answer": "August 15, 1996"
+      },
+      {
+        "question": "Who was the first king of the Tehri princely state?",
+        "options": [
+          "Kirti Shah",
+          "Medini Shah",
+          "Sudarshan Shah",
+          "Parakram Shah"
+        ],
+        "answer": "Sudarshan Shah"
+      },
+      {
+        "question": "Who founded the Tehri Rajya Praja Mandal?",
+        "options": [
+          "Shri Dev Suman",
+          "Badridutt Pandey",
+          "Veer Chandra Singh Garhwali",
+          "Indramani Badoni"
+        ],
+        "answer": "Shri Dev Suman"
+      },
+      {
+        "question": "Who threw a letter bomb in Parliament on April 23, 1987, demanding a separate state?",
+        "options": [
+          "Divendra Panwar",
+          "Kashi Singh Airy",
+          "Shobhan Singh Jeena",
+          "Daya Krishna Pandey"
+        ],
+        "answer": "Divendra Panwar"
+      },
+      {
+        "question": "The Khatima incident occurred on:",
+        "options": [
+          "May 1, 1994",
+          "September 2, 1994",
+          "September 3, 1994",
+          "September 4, 1994"
+        ],
+        "answer": "September 2, 1994"
+      },
+      {
+        "question": "The Muzaffarnagar (Rampur Tiraha) firing incident occurred on:",
+        "options": [
+          "October 2, 1993",
+          "October 2, 1994",
+          "September 2, 1994",
+          "October 2, 1995"
+        ],
+        "answer": "October 2, 1994"
+      },
+      {
+        "question": "When was the Garhwal Mandal established?",
+        "options": ["1664", "1972", "1982", "1969"],
+        "answer": "1969"
+      },
+      {
+        "question": "Which of the following is not correctly matched?",
+        "options": [
+          "Khatima incident - September 1, 1994",
+          "Muzaffarnagar incident - October 2, 1994",
+          "Mussoorie incident - September 3, 1994",
+          "Black Day - September 1, 1994"
+        ],
+        "answer": "Black Day - September 1, 1994"
+      },
+      {
+        "question": "What was the tax levied by the Gorkhas on leather goods called?",
+        "options": ["Salani", "Manga", "Bhikhshahi", "Kurahi"],
+        "answer": "Kurahi"
+      },
+      {
+        "question": "Under whose leadership was the first land settlement started by the Gorkhas in Kumaon?",
+        "options": [
+          "Bhawani Shah",
+          "Kirti Shah",
+          "Jogmal Shah",
+          "None of these"
+        ],
+        "answer": "Jogmal Shah"
+      },
+      {
+        "question": "In 2023, the central government declared a 500-year-old Naula (stepwell) of Uttarakhand as a protected monument. Where is it located?",
+        "options": ["Bageshwar", "Binsar", "Syundrakot", "Ranikhet"],
+        "answer": "Syundrakot"
+      },
+      {
+        "question": "When did the Tehri princely state merge with the Indian Union?",
+        "options": [
+          "August 1, 1949",
+          "August 15, 1947",
+          "January 20, 1950",
+          "January 26, 1952"
+        ],
+        "answer": "August 1, 1949"
+      },
+      {
+        "question": "Who founded the Prem Sabha in Kashipur?",
+        "options": [
+          "Narayan Datt Tiwari",
+          "B.C. Joshi",
+          "Pt. Govind Ballabh Pant",
+          "Mohan Singh Rawat"
+        ],
+        "answer": "Pt. Govind Ballabh Pant"
+      },
+      {
+        "question": "When did the Saklana revolt occur?",
+        "options": ["Tehri", "Joshimath", "Jyotsar", "None of the above"],
+        "answer": "Tehri"
+      },
+      {
+        "question": "Where is the 'Lakhu Cave' with ancient rock paintings located?",
+        "options": [
+          "Chamoli district",
+          "Nainital district",
+          "Haridwar district",
+          "Almora district"
+        ],
+        "answer": "Almora district"
+      },
+      {
+        "question": "Which of the following is not an ancient tribe of Uttarakhand?",
+        "options": ["Yakshas", "Khasas", "Nagas", "Kirats"],
+        "answer": "Kirats"
+      },
+      {
+        "question": "When did the Battle of Khurbura take place?",
+        "options": ["1800 AD", "1804 AD", "1710 AD", "1805 AD"],
+        "answer": "1804 AD"
+      },
+      {
+        "question": "When was the Treaty of Sugauli signed?",
+        "options": ["1800 AD", "1803 AD", "1805 AD", "1815 AD"],
+        "answer": "1815 AD"
+      },
+      {
+        "question": "Who was the founder of the Parmar dynasty?",
+        "options": ["Ajay Pal", "Kanak Rao", "Kanakpal", "Jagatpal"],
+        "answer": "Kanakpal"
+      },
+      {
+        "question": "Where was the first capital of the Parmar rulers?",
+        "options": ["Srinagar", "Tehri", "Devalgarh", "Chandpur Garhi"],
+        "answer": "Chandpur Garhi"
+      },
+      {
+        "question": "When was the Chandpur Garh kingdom established?",
+        "options": ["Pauri Garhwal", "Haridwar", "Chamoli", "Pithoragarh"],
+        "answer": "Chamoli"
+      },
+      {
+        "question": "The 'Dola-Palki' movement was particularly related to:",
+        "options": ["Farmers", "Artisans", "Women", "Tribals"],
+        "answer": "Artisans"
+      },
+      {
+        "question": "Which Mughal prince took refuge in Srinagar Garhwal?",
+        "options": ["Murad", "Aurangzeb", "Dara Shikoh", "Suleiman Shikoh"],
+        "answer": "Suleiman Shikoh"
+      },
+      {
+        "question": "Which scripture mentions that Srinagar was the capital of King Subahu?",
+        "options": ["Ramayana", "Mahabharata", "Raghuvamsa", "Rigveda"],
+        "answer": "Mahabharata"
+      },
+      {
+        "question": "In which battle did Pradyumna Shah die fighting against the Gorkhas?",
+        "options": ["Srinagar", "Khurbura", "Almora", "None of these"],
+        "answer": "Khurbura"
+      },
+      {
+        "question": "Who was the last ruler of the Garhwal Parmar dynasty?",
+        "options": [
+          "Manvendra Shah",
+          "Narendra Shah",
+          "Mayani Shah",
+          "Kirti Shah"
+        ],
+        "answer": "Manvendra Shah"
+      },
+      {
+        "question": "The widely used word 'Gorkhyani' in Uttarakhand is a symbol of:",
+        "options": ["Purity", "Spirituality", "Love", "Cruelty"],
+        "answer": "Cruelty"
+      },
+      {
+        "question": "What was the purpose of establishing the 'Praja Mandal'?",
+        "options": [
+          "To achieve independence from British rule",
+          "To achieve independence from Gorkha rule",
+          "To organize the public for social reform",
+          "To liberate the public from the misrule of the Tehri state"
+        ],
+        "answer": "To liberate the public from the misrule of the Tehri state"
+      },
+      {
+        "question": "In which language are the 'Pandukeshwar Copper Plates' written?",
+        "options": ["Pali", "Prakrit", "Sanskrit", "Aramaic"],
+        "answer": "Sanskrit"
+      },
+      {
+        "question": "Under which section of the Skanda Purana is the description of the Garhwal region found?",
+        "options": [
+          "Kedarkhand",
+          "Manaskhand",
+          "Himalaya Khanda",
+          "Jalandhar Khanda"
+        ],
+        "answer": "Kedarkhand"
+      },
+      {
+        "question": "The Almora coins are related to which empire?",
+        "options": ["Shah", "Ashoka", "Maurya", "Kuninda"],
+        "answer": "Kuninda"
+      },
+      {
+        "question": "The Kalsi inscription is related to:",
+        "options": [
+          "Akbar",
+          "Swami Vivekananda",
+          "Dayanand Saraswati",
+          "Emperor Ashoka"
+        ],
+        "answer": "Emperor Ashoka"
+      },
+      {
+        "question": "What was the court language of the Katyuri rulers?",
+        "options": ["Kumaoni", "Garhwali", "Sanskrit", "Prakrit"],
+        "answer": "Sanskrit"
+      },
+      {
+        "question": "Who was worshipped as the 'Kul Devi' (family deity) of the Katyuri kings?",
+        "options": ["Kamakhya", "Saraswati", "Prithvi Pal", "Nanda Devi"],
+        "answer": "Nanda Devi"
+      },
+      {
+        "question": "Who was the founder of the Panwar dynasty of Garhwal?",
+        "options": ["Ajaypal", "Kanakpal", "Prithvi Pal", "Shyampal"],
+        "answer": "Kanakpal"
+      },
+      {
+        "question": "When did the British establish their authority over Garhwal and Kumaon?",
+        "options": [
+          "April 26, 1813",
+          "April 27, 1814",
+          "March 25, 1817",
+          "None of the above"
+        ],
+        "answer": "None of the above"
+      },
+      {
+        "question": "Where did the 'Coolie Begar' movement start?",
+        "options": ["Bageshwar", "Jageshwar", "Mukteshwar", "Tanakpur"],
+        "answer": "Bageshwar"
+      },
+      {
+        "question": "Which rebellion is called the 'Bardoli of Kumaon'?",
+        "options": ["Saklana", "Tilari", "Salt", "Askot"],
+        "answer": "Salt"
+      },
+      {
+        "question": "When was the 'Kumaon Parishad' formed?",
+        "options": ["1910 AD", "1912 AD", "1916 AD", "None of the above"],
+        "answer": "1916 AD"
+      },
+      {
+        "question": "Which king gave refuge to the painters Chaitu and Mankoo in his court?",
+        "options": [
+          "Fateh Shah",
+          "Pritam Shah",
+          "Sudarshan Shah",
+          "Kirti Shah"
+        ],
+        "answer": "Sudarshan Shah"
+      },
+      {
+        "question": "Kanakpal belonged to which dynasty?",
+        "options": ["Katyuri", "Panwar", "Gorkha", "Chandravansh"],
+        "answer": "Panwar"
+      },
+      {
+        "question": "Who was the last king of the Tehri princely state?",
+        "options": [
+          "Sudarshan Shah",
+          "Narendra Shah",
+          "Kirti Shah",
+          "Manvendra Shah"
+        ],
+        "answer": "Manvendra Shah"
+      },
+      {
+        "question": "Who was the pioneer of the 'Dola-Palki' movement in Uttarakhand?",
+        "options": [
+          "Khushiram",
+          "Baldev Arya",
+          "Jayanand Bharti",
+          "Hari Prasad Tamta"
+        ],
+        "answer": "Jayanand Bharti"
+      },
+      {
+        "question": "In ancient literature, the Kumaon region is called:",
+        "options": ["Kedarkhand", "Manaskhand", "Dev-Bhumi", "Punya Bhumi"],
+        "answer": "Manaskhand"
+      },
+      {
+        "question": "Who was the founder of the Katyuri dynasty?",
+        "options": ["Vasant Dev", "Sudev", "Kalyanrajdev", "Lakhanpaldev"],
+        "answer": "Vasant Dev"
+      },
+      {
+        "question": "Who was the king of Tehri princely state when India became independent?",
+        "options": [
+          "Manvendra Shah",
+          "Narendra Shah",
+          "Kirti Shah",
+          "None of these"
+        ],
+        "answer": "Manvendra Shah"
+      },
+      {
+        "question": "The Kalsi inscription belongs to which dynasty?",
+        "options": ["Katyuri", "Panwar", "Kuninda", "Maurya"],
+        "answer": "Maurya"
+      },
+      {
+        "question": "Which king built the 'Khagmara Fort' in Almora?",
+        "options": [
+          "Raja Bhimchand",
+          "Raja Kalyan Chand",
+          "Raja Somchand",
+          "Baz Bahadur Chand"
+        ],
+        "answer": "Raja Bhimchand"
+      },
+      {
+        "question": "In which year was the Tehri Rajya Praja Mandal established?",
+        "options": ["1939", "1938", "1937", "1936"],
+        "answer": "1939"
+      },
+      {
+        "question": "The establishment of which newspaper started from Almora in the year 1935?",
+        "options": ["Shakti", "Swadhin Praja", "Samata", "Almora Akhbar"],
+        "answer": "Swadhin Praja"
+      },
+      {
+        "question": "Who was the progenitor of the Chand rule in Kumaon?",
+        "options": [
+          "Rana Gyanchand",
+          "Raja Kalyan Chand",
+          "Raja Thohar Chand",
+          "Raja Somchand"
+        ],
+        "answer": "Raja Somchand"
+      },
+      {
+        "question": "Which Garhwali king gave refuge to the Mughal prince Suleiman Shikoh of Delhi?",
+        "options": [
+          "Sudarshan Shah",
+          "Prithvipal Shah",
+          "Pradyumna Shah",
+          "Kirti Shah"
+        ],
+        "answer": "Prithvipal Shah"
+      },
+      {
+        "question": "Information about Lalitaditya's invasion of Kedarmandal is obtained from:",
+        "options": [
+          "Rajtarangini",
+          "Harshacharita",
+          "Ramasar",
+          "None of these"
+        ],
+        "answer": "Rajtarangini"
+      },
+      {
+        "question": "Which rule is known as the golden age in Uttarakhand?",
+        "options": [
+          "Katyuri Empire",
+          "Magadha Empire",
+          "Kuninda Empire",
+          "Gorkha Empire"
+        ],
+        "answer": "Katyuri Empire"
+      },
+      {
+        "question": "Who was the first king of Garhwal to use the title 'Shah'?",
+        "options": [
+          "Balbhadra Shah",
+          "Pradyumna Shah",
+          "Manvendra Shah",
+          "None of these"
+        ],
+        "answer": "Balbhadra Shah"
+      },
+      {
+        "question": "When Somchand arrived, which Katyuri king was ruling over Kumaon?",
+        "options": ["Vasudev", "Nimbar Dev", "Brahmadev", "Padamdev"],
+        "answer": "Brahmadev"
+      },
+      {
+        "question": "Which was the first Chand ruler to meet Delhi Sultan Firoz Shah Tughlaq?",
+        "options": ["Rudra Chand", "Gyanchand", "Lakshmi Chand", "Jagat Chand"],
+        "answer": "Gyanchand"
+      },
+      {
+        "question": "Who founded the 'Kumaon National Front'?",
+        "options": [
+          "Devi Datt Pant",
+          "Chandra Singh",
+          "P.C. Joshi",
+          "Govind Singh Mehra"
+        ],
+        "answer": "P.C. Joshi"
+      },
+      {
+        "question": "Who started the publication of 'Almora Akhbar' in 1871?",
+        "options": [
+          "Gaura Dutt Joshi",
+          "Sanand Melwan",
+          "Buddhi Ballabh Pant",
+          "Ikhtiyar Ali"
+        ],
+        "answer": "Buddhi Ballabh Pant"
+      },
+      {
+        "question": "When was the headquarters of the Kumaon Commissionerate brought to Nainital?",
+        "options": ["1842", "1847", "1851", "1854"],
+        "answer": "1854"
+      },
+      {
+        "question": "From which village in Chamoli have Stone Age burials been found?",
+        "options": ["Malari", "Kosa", "Kailashpur", "Niti"],
+        "answer": "Malari"
+      },
+      {
+        "question": "Near Kathgodam, Ranibagh is situated on the banks of which river?",
+        "options": ["Karnavati", "Jiyarani", "Khaneti", "Gularia"],
+        "answer": "Gularia"
+      },
+      {
+        "question": "Which of the following is the oldest inscription found in Uttarakhand?",
+        "options": ["Baijnath", "Paleshti", "Kalsi", "Pandukeshwar"],
+        "answer": "Kalsi"
+      },
+      {
+        "question": "Which of the following castes is not counted among the prehistoric tribes of the Himalayas?",
+        "options": ["Gandharva", "Yakshas", "Kinnar", "Shaka"],
+        "answer": "Shaka"
+      },
+      {
+        "question": "Who was the last Chand king of Kumaon?",
+        "options": [
+          "Mohan Chand",
+          "Mahendra Chand",
+          "Kalyan Chand",
+          "Pradyumna Chand"
+        ],
+        "answer": "Mahendra Chand"
+      },
+      {
+        "question": "Who is the founder of Almora/Alamnagar?",
+        "options": [
+          "Somchand",
+          "Rudrachand",
+          "Baz Bahadur Chand",
+          "Balu Kalyan Chand"
+        ],
+        "answer": "Balu Kalyan Chand"
+      },
+      {
+        "question": "Where is the place called Sangoli, where the Treaty of Sangoli was signed between the English and Nepal in 1815 AD, currently located?",
+        "options": ["Dehradun", "Uttar Pradesh", "Bihar", "Almora"],
+        "answer": "Bihar"
+      },
+      {
+        "question": "When was whose merger with Congress in 1926?",
+        "options": [
+          "Kumaon Parishad",
+          "Hill Council",
+          "Uttaranchal Council",
+          "Garhwal Council"
+        ],
+        "answer": "Kumaon Parishad"
+      },
+      {
+        "question": "Which ruler of the Chand dynasty was a contemporary of Akbar?",
+        "options": ["Rudrachand", "Jagatchand", "Somchand", "Kalyan Chand"],
+        "answer": "Rudrachand"
+      },
+      {
+        "question": "Who was the ruler who attacked Tibet after Ajaypal?",
+        "options": [
+          "Mahipati Shah",
+          "Prithvi Pati Shah",
+          "Shyam Shah",
+          "Man Shah"
+        ],
+        "answer": "Mahipati Shah"
+      },
+      {
+        "question": "Which of the following plays is composed by Rudrachand?",
+        "options": [
+          "Arunima Ragoday",
+          "Usha Ragoday",
+          "Vihan Ragoday",
+          "Vihag Ragoday"
+        ],
+        "answer": "Usha Ragoday"
+      },
+      {
+        "question": "In the Mahabharata, Garhwal is described as:",
+        "options": ["Arthakuru", "Vibhatikuru", "Uttarkuru", "Nagakuru"],
+        "answer": "Uttarkuru"
+      },
+      {
+        "question": "Who established the temple of his family deity Raj Rajeshwari in Devalgarh, near Srinagar?",
+        "options": ["Devpal", "Bhimpala", "Ajaypal", "Dharmpal"],
+        "answer": "Ajaypal"
+      },
+      {
+        "question": "In which year did the British defeat the Gorkha rulers?",
+        "options": ["1810 AD", "1815 AD", "1817 AD", "1818 AD"],
+        "answer": "1815 AD"
+      },
+      {
+        "question": "In Pali Buddhist literature, Uttarakhand is called:",
+        "options": [
+          "Himvas Khand",
+          "Himvant",
+          "Manas Khand",
+          "None of the above"
+        ],
+        "answer": "Himvant"
+      },
+      {
+        "question": "When was the Home Rule League established in Uttarakhand?",
+        "options": ["1914 AD", "1918 AD", "1920 AD", "1919 AD"],
+        "answer": "1914 AD"
+      },
+      {
+        "question": "When did the Peshawar incident occur?",
+        "options": ["1932", "1930", "1919", "1942"],
+        "answer": "1930"
+      },
+      {
+        "question": "When did the Kirtinagar movement take place?",
+        "options": ["1947", "1948", "1949", "1950"],
+        "answer": "1948"
+      },
+      {
+        "question": "When did the Gorkhas occupy Kumaon?",
+        "options": ["1803", "1894", "1796", "1790"],
+        "answer": "1790"
+      },
+      {
+        "question": "What was the capital of the Katyuri rulers?",
+        "options": ["Brahmapur", "Jageshwar", "Kartikeyapura", "Govishan"],
+        "answer": "Kartikeyapura"
+      },
+      {
+        "question": "What is the most ancient known tribe of Uttarakhand?",
+        "options": ["Kirat", "Raji", "Motiya", "Kol"],
+        "answer": "Kirat"
+      },
+      {
+        "question": "Two brothers, Gangaram and Khimdev, were martyred in:",
+        "options": [
+          "Salt Satyagraha",
+          "Dola-Palki Movement",
+          "Coolie-Begar Movement",
+          "Quit India Movement"
+        ],
+        "answer": "Quit India Movement"
+      },
+      {
+        "question": "In which script is Ashoka's 'Kalsi Inscription' written?",
+        "options": ["Kharosthi", "Aramaic", "Brahmi", "Devanagari"],
+        "answer": "Brahmi"
+      },
+      {
+        "question": "Who among the following was called the uncrowned king of Kumaon?",
+        "options": [
+          "G.W. Trail",
+          "George Lushington",
+          "Henry Ramsay",
+          "Edward Gowan"
+        ],
+        "answer": "Henry Ramsay"
+      },
+      {
+        "question": "Kalu Mehra is related to:",
+        "options": [
+          "Coolie Begar Movement",
+          "Revolt of 1857",
+          "Dola Palki Movement",
+          "Chipko Movement"
+        ],
+        "answer": "Revolt of 1857"
+      },
+      {
+        "question": "Garhwal is located in which culture?",
+        "options": [
+          "Copper Hoard Culture",
+          "Mahapashaniya Shavdhan",
+          "Mesolithic Culture",
+          "Painted Grey Ware"
+        ],
+        "answer": "Mahapashaniya Shavdhan"
+      },
+      {
+        "question": "Which Purana is a part of 'Badrika Khand'?",
+        "options": [
+          "Vayu Purana",
+          "Kurma Purana",
+          "Skanda Purana",
+          "Padma Purana"
+        ],
+        "answer": "Skanda Purana"
+      },
+      {
+        "question": "In 'Manaskhand', which of the following regions is called 'Ram Kshetra'?",
+        "options": ["Almora", "Haridwar", "Rishikesh", "Badrinath"],
+        "answer": "Almora"
+      },
+      {
+        "question": "Which place is called Mayapuri in ancient scriptures?",
+        "options": ["Rishikesh", "Kotdwar", "Almora", "Haridwar"],
+        "answer": "Haridwar"
+      },
+      {
+        "question": "Assertion (A): Shaivism is the most prevalent sect in Uttarakhand.Reason (R): In Shiva Mahapurana, Lord Shiva has been called the resident of the Kedara region.",
+        "options": [
+          "Assertion (A) is true, but Reason (R) is false.",
+          "Reason (R) is true, but Assertion (A) is false.",
+          "Both Assertion (A) and Reason (R) are true.",
+          "Neither Assertion (A) nor Reason (R) is true."
+        ],
+        "answer": "Both Assertion (A) and Reason (R) are true."
+      },
+      {
+        "question": "Coins of rulers named Shivdutt, Shivpalit, and Haridutt have been found in which place?",
+        "options": ["Sunari", "Ranikhet", "Almora", "Purola"],
+        "answer": "Almora"
+      },
+      {
+        "question": "The Taleshwar Copper Plate is related to which king of Uttarakhand?",
+        "options": [
+          "Dyutivarman",
+          "Vishnuvarman-I",
+          "Varishavarman",
+          "Agnivarman"
+        ],
+        "answer": "Vishnuvarman-I"
+      },
+      {
+        "question": "Which dynasty of Uttarakhand is described by Xuanzang?",
+        "options": ["Katyuri", "Paurav", "Chand", "Parmar"],
+        "answer": "Paurav"
+      },
+      {
+        "question": "What was Kashipur formerly known as?",
+        "options": ["Karthikeyapur", "Govishan", "Katarmal", "Lakhanpur"],
+        "answer": "Govishan"
+      },
+      {
+        "question": "What is the historical name of Uttarkashi?",
+        "options": ["Barahat", "Brahmapur", "Ranikhet", "Baijnath"],
+        "answer": "Barahat"
+      },
+      {
+        "question": "During the period of anarchy, which Doti king first conquered Kumaon and Kedarbhoomi?",
+        "options": [
+          "Kachalladev",
+          "Ashok Challa",
+          "Ran Bahadur",
+          "Amar Singh Thapa"
+        ],
+        "answer": "Ashok Challa"
+      },
+      {
+        "question": "Which of the following medieval texts is not a source of Uttarakhand's history?",
+        "options": [
+          "Tarikh-i-Badayuni",
+          "Jahangirnama",
+          "Shahjahanama",
+          "Baburnama"
+        ],
+        "answer": "Baburnama"
+      },
+      {
+        "question": "What was the grain taken instead of cash during the Chand period called?",
+        "options": ["Bhet", "Sahu", "Sirti", "None of the above"],
+        "answer": "Sirti"
+      },
+      {
+        "question": "What was 'Dastur' under the Chand administration?",
+        "options": [
+          "Land revenue",
+          "Judicial tax",
+          "Nazrana",
+          "None of the above"
+        ],
+        "answer": "Nazrana"
+      },
+      {
+        "question": "The Gobasa copper plate inscription of Saka Samvat 1340 mentions the donation of which king?",
+        "options": [
+          "Trilokchandra",
+          "Kalyanachandra",
+          "Gyanchandra",
+          "Abhayachandra"
+        ],
+        "answer": "Gyanchandra"
+      },
+      {
+        "question": "Which Mughal ruler honored Baz Bahadur Chand, the king of Kumaon, with the title 'Bahadur'?",
+        "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+        "answer": "Shah Jahan"
+      },
+      {
+        "question": "Which Chand ruler established the administrative unit called 'Patti'?",
+        "options": [
+          "Trimalla Chand",
+          "Dilip Chand",
+          "Udyot Chand",
+          "Baz Bahadur Chand"
+        ],
+        "answer": "Baz Bahadur Chand"
+      },
+      {
+        "question": "Which Chand ruler refused to give refuge to Suleiman Shikoh, the fugitive son of Dara Shikoh?",
+        "options": [
+          "Jagat Chand",
+          "Baz Bahadur Chand",
+          "Roopchand",
+          "Kalyan Chand"
+        ],
+        "answer": "Baz Bahadur Chand"
+      },
+      {
+        "question": "Who was the founder of Srinagar (Garhwal)?",
+        "options": ["Sahajpal", "Ajaypal", "Man Shah", "Fatehpati Shah"],
+        "answer": "Ajaypal"
+      },
+      {
+        "question": "Which Parmar ruler organized the 52 'garhis' into the Garhwal state?",
+        "options": ["Ajaypal", "Sahajpal", "Mahipat Shah", "Prithvipati Shah"],
+        "answer": "Ajaypal"
+      },
+      {
+        "question": "Which of the following pairs is not correctly matched?",
+        "options": [
+          "Srinagar - Ajaypal",
+          "Chandpur Garhi - Bhanupratap",
+          "Almora - Kanakpal",
+          "Tehri - Sudarshan Shah"
+        ],
+        "answer": "Almora - Kanakpal"
+      },
+      {
+        "question": "Choose the correct sequence of Parmar dynasty rulers.",
+        "options": [
+          "Shyam Shah, Man Shah, Mahipat Shah, Prithvipati Shah",
+          "Man Shah, Shyam Shah, Mahipat Shah, Prithvipati Shah",
+          "Mahipat Shah, Man Shah, Shyam Shah, Prithvipati Shah",
+          "Man Shah, Shyam Shah, Prithvipati Shah, Mahipat Shah"
+        ],
+        "answer": "Man Shah, Shyam Shah, Mahipat Shah, Prithvipati Shah"
+      },
+      {
+        "question": "Which Panwar ruler went to the court of Mughal Emperor Jahangir with gifts?",
+        "options": [
+          "Man Shah",
+          "Balabhadra Shah",
+          "Shyam Shah",
+          "None of the above"
+        ],
+        "answer": "Shyam Shah"
+      },
+      {
+        "question": "Which of the following Parmar rulers had the great commander Madho Singh Bhandari?",
+        "options": ["Man Shah", "Fateh Shah", "Mahipat Shah", "Lalit Shah"],
+        "answer": "Mahipat Shah"
+      },
+      {
+        "question": "Which Garhwal ruler invaded Tibet three times?",
+        "options": ["Man Shah", "Mahipat Shah", "Prithvi Shah", "Fateh Shah"],
+        "answer": "Mahipat Shah"
+      },
+      {
+        "question": "Which Parmar ruler of Garhwal was ruling as the protector of 'Nak Katti Rani'?",
+        "options": [
+          "Shyam Shah",
+          "Mahipat Shah",
+          "Prithvipati Shah",
+          "Fateh Shah"
+        ],
+        "answer": "Prithvipati Shah"
+      },
+      {
+        "question": "Whom did Aurangzeb send to the court of Prithvipati Shah to obtain Suleiman Shikoh?",
+        "options": ["Mohan Singh", "Ram Singh", "Shyam Singh", "Man Singh"],
+        "answer": "Ram Singh"
+      },
+      {
+        "question": "Which of the following places was not the capital of the Parmar rulers of Garhwal?",
+        "options": ["Chandpur Garhi", "Dehradun", "Devalgarh", "Srinagar"],
+        "answer": "Dehradun"
+      },
+      {
+        "question": "What was the head of the royal kitchen called during the Panwar dynasty rule?",
+        "options": [
+          "Security officer of the king",
+          "In-charge of the royal kitchen",
+          "Highest administrative officer",
+          "Crown prince"
+        ],
+        "answer": "In-charge of the royal kitchen"
+      },
+      {
+        "question": "Which Garhwal king gave land in Dehradun to Sikh Guru Ram Rai?",
+        "options": [
+          "Fatehpati Shah",
+          "Prithvipati Shah",
+          "Pradeep Shah",
+          "Medini Shah"
+        ],
+        "answer": "Fatehpati Shah"
+      },
+      {
+        "question": "Who was the Mahant of the Guru Ram Rai Darbar at the time of the Gorkha occupation of Dehradun?",
+        "options": [
+          "Guru Ram Rai",
+          "Harsevak Das",
+          "Swaroop Das",
+          "Pritam Das"
+        ],
+        "answer": "Harsevak Das"
+      },
+      {
+        "question": "Who did the Gorkhas appoint as their 'Subba' after conquering Kumaon in 1790?",
+        "options": [
+          "Rituraj Thapa",
+          "Bam Shah",
+          "Jogmal Shah",
+          "Rudravir Shah"
+        ],
+        "answer": "Jogmal Shah"
+      },
+      {
+        "question": "Between which years was the Gorkha rule in Garhwal?",
+        "options": ["1804-1815", "1815-1837", "1800-1835", "1803-1900"],
+        "answer": "1804-1815"
+      },
+      {
+        "question": "Which of the following was a land tax during the Gorkha rule?",
+        "options": ["Timari", "Salami", "Sonia Fagun", "Pungahi"],
+        "answer": "Pungahi"
+      },
+      {
+        "question": "What was the tax levied on Brahmins during the Gorkha rule?",
+        "options": ["Kushahi", "Pungadi", "Salami", "Timahi"],
+        "answer": "Kushahi"
+      },
+      {
+        "question": "Who was the first king of the Tehri princely state?",
+        "options": [
+          "Sudarshan Shah",
+          "Lalit Shah",
+          "Mahipat Shah",
+          "Fateh Shah"
+        ],
+        "answer": "Sudarshan Shah"
+      },
+      {
+        "question": "Who from Uttarakhand was appointed as the commander of Netaji's bodyguard battalion?",
+        "options": [
+          "PC Raturi",
+          "Chandra Singh Negi",
+          "Saur Kesari Chand",
+          "Nandev Singh Bano"
+        ],
+        "answer": "PC Raturi"
+      },
+      {
+        "question": "Who among the following is known as the 'King of Kumaon'?",
+        "options": [
+          "Colonel Godhan",
+          "Commissioner Trail",
+          "Commissioner Ramsay",
+          "Commissioner Batten"
+        ],
+        "answer": "Commissioner Ramsay"
+      },
+      {
+        "question": "Which of the following commissioners of colonial Kumaon and Garhwal started the 'Revenue Police' system?",
+        "options": [
+          "George William Trail",
+          "Lt. Col. Gardner",
+          "Sir Henry Ramsay",
+          "Daniel Ibbetson"
+        ],
+        "answer": "George William Trail"
+      },
+      {
+        "question": "Who was responsible for the extensive land settlement of Garhwal among the following?",
+        "options": ["Hardwick", "Atkinson", "Beckett", "Ross"],
+        "answer": "Beckett"
+      },
+      {
+        "question": "What was the function of 'Kamin' in Uttarakhand?",
+        "options": [
+          "To collect revenue from certain villages",
+          "To manage water supply",
+          "To collect food from weddings",
+          "To arrange marriages"
+        ],
+        "answer": "To collect revenue from certain villages"
+      },
+      {
+        "question": "What was land called in Kumaon during British rule?",
+        "options": ["Kshetra Yat", "Ghumao", "Bhumi", "Jot"],
+        "answer": "Jot"
+      },
+      {
+        "question": "Who represented Uttarakhand at the Calcutta session of the Indian National Congress in 1886?",
+        "options": [
+          "Jwaladutt Joshi",
+          "Munshi Sadanand Sanwal",
+          "Badridutt Pandey",
+          "Buddhivallabh Pant"
+        ],
+        "answer": "Jwaladutt Joshi"
+      },
+      {
+        "question": "Who is famous by the nickname 'Sher of Salem'?",
+        "options": [
+          "Ram Singh Azad",
+          "Indra Singh Nayal",
+          "Mohan Lal",
+          "Sadanand Kukreti"
+        ],
+        "answer": "Ram Singh Azad"
+      },
+      {
+        "question": "Who said that after seeing Lokmanya Bal Gangadhar Tilak four times, it was as if his Char Dham Yatra was complete?",
+        "options": [
+          "Jayadutt Joshi",
+          "Buddhi Ballabh Pant",
+          "Lok Ratna Pant",
+          "Badridutt Pandey"
+        ],
+        "answer": "Badridutt Pandey"
+      },
+      {
+        "question": "Who was the first politician from Uttarakhand to be jailed during the Non-Cooperation Movement?",
+        "options": [
+          "Mohan Singh Mehta",
+          "Badridutt Pandey",
+          "Govind Ballabh Pant",
+          "Anusuya Prasad Bahuguna"
+        ],
+        "answer": "Badridutt Pandey"
+      },
+      {
+        "question": "Where did the great martyr Chandrashekhar Azad stay near Dugadda with his young associates at whose invitation?",
+        "options": [
+          "Pratap Singh",
+          "Kunwar Singh",
+          "Bhawani Singh",
+          "Man Singh"
+        ],
+        "answer": "Man Singh"
+      },
+      {
+        "question": "Where did Mahatma Gandhi complete the translation of Anasakti Yog in 1929?",
+        "options": ["Kausani", "Nainital", "Almora", "Ranikhet"],
+        "answer": "Kausani"
+      },
+      {
+        "question": "Who among the following was not associated with the establishment of the 'Home Rule League' in Kumaon?",
+        "options": [
+          "Mohan Joshi",
+          "Shridhar Aajay",
+          "Chiranjilal",
+          "Badridutt Pandey"
+        ],
+        "answer": "Shridhar Aajay"
+      },
+      {
+        "question": "Who among the following was not arrested in 1931 for boycotting English clothes?",
+        "options": [
+          "Kunti Verma",
+          "Mangala Devi",
+          "Bhagirathi Devi",
+          "Homvati Devi"
+        ],
+        "answer": "Homvati Devi"
+      },
+      {
+        "question": "Who started the 'Individual Satyagraha' in Kumaon in 1940?",
+        "options": [
+          "Har Govind Pant",
+          "Badridutt Pandey",
+          "Govind Ballabh Pant",
+          "Durgadutt Joshi"
+        ],
+        "answer": "Govind Ballabh Pant"
+      },
+      {
+        "question": "Who among the following went to jail with Gandhiji during the 'Salt Satyagraha'?",
+        "options": [
+          "Badridutt Pandey",
+          "Govind Ballabh Pant",
+          "Bhairavdutt",
+          "Jyotiram Kandpal"
+        ],
+        "answer": "Jyotiram Kandpal"
+      },
+      {
+        "question": "Gangaram and Khimdev, two brothers, were martyred during which movement?",
+        "options": [
+          "Salt Satyagraha Movement",
+          "Dola-Palki Movement",
+          "Coolie-Begar Movement",
+          "Quit India Movement"
+        ],
+        "answer": "Quit India Movement"
+      },
+      {
+        "question": "Who was the king of the Tehri state at the time of its merger with the Indian Union?",
+        "options": [
+          "Narendra Shah",
+          "Kirti Shah",
+          "Pratap Shah",
+          "Manvendra Shah"
+        ],
+        "answer": "Manvendra Shah"
+      },
+      {
+        "question": "Who among the following gave the message to women, 'Do not cry, move forward'?",
+        "options": [
+          "Bishni Devi",
+          "Vijay Lakshmi Suman",
+          "Tulsi Devi",
+          "Tincheri Mai"
+        ],
+        "answer": "Tulsi Devi"
+      },
+      {
+        "question": "Who among the following was not among the founders of the Kumaon Parishad?",
+        "options": [
+          "Pt. Har Govind Pant",
+          "Govind Ballabh Pant",
+          "Lala Indralal",
+          "Haricharan Pandey"
+        ],
+        "answer": "Haricharan Pandey"
+      },
+      {
+        "question": "Who is known as 'The Pilgrim'?",
+        "options": [
+          "Frederick Wilson",
+          "P. Barron",
+          "A. Gansser",
+          "None of the above"
+        ],
+        "answer": "Frederick Wilson"
+      },
+      {
+        "question": "Which of the following pairs is correctly matched?",
+        "options": [
+          "Kumaon Parishad - 1926",
+          "Almora Congress - 1927",
+          "Himalayan Seva Sangh - 1946",
+          "Garhwal Jagriti Sanstha - 1939"
+        ],
+        "answer": "Kumaon Parishad - 1926"
+      },
+      {
+        "question": "Shri Dev Suman was related to:",
+        "options": [
+          "Tehri Rajya Praja Mandal",
+          "Coolie Begar",
+          "Coolie Utar",
+          "Dola-Palki Movement"
+        ],
+        "answer": "Tehri Rajya Praja Mandal"
+      },
+      {
+        "question": "Who was the founder president of the 'Uttarakhand Kranti Dal'?",
+        "options": [
+          "D.D. Pant",
+          "Diwakar Bhatt",
+          "Kashi Singh Airy",
+          "Indramani Badoni"
+        ],
+        "answer": "D.D. Pant"
+      }
+    ]
   }
 ]

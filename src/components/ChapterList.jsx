@@ -45,6 +45,14 @@ function ChapterList() {
     {
       name: "Uttarakhand: Transportation System",
     },
+    { name: "Uttarakhand: Scheduled Castes and Scheduled Tribes" },
+    { name: "Uttarakhand: Population and Urbanization" },
+    { name: "Uttarakhand: Cultural Elements" },
+    { name: "Major Cities, Tourism and Religious Places" },
+    { name: "Uttarakhand: Soil, Agriculture, Animal Husbandry and Irrigation" },
+    { name: "Uttarakhand: Mineral Resources" },
+    { name: "Uttarakhand: Forests, Forest Movements and Wildlife" },
+    { name: "Uttarakhand: A Historical Study" },
   ];
 
   return (
